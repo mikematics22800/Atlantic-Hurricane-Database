@@ -1,0 +1,12 @@
+{
+  "name": "Hurdat2-API",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
