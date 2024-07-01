@@ -1,7 +1,7 @@
 [
   {
-    "id": "AL012020_ARTHUR",
-    "image": "",
+    "id": "AL012020_Arthur",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Arthur_2020-05-18_1605Z.jpg/800px-Arthur_2020-05-18_1605Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -423,9 +423,9 @@
     ]
   },
   {
-    "id": "AL022020_BERTHA",
-    "image": "",
-    "fatalaties": 0,
+    "id": "AL022020_Bertha",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bertha_2020-05-27_1600Z.jpg/800px-Bertha_2020-05-27_1600Z.jpg",
+    "fatalaties": 1,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -593,10 +593,10 @@
     ]
   },
   {
-    "id": "AL032020_CRISTOBAL",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL032020_Cristobal",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cristobal_2020-06-03_1915Z.jpg/800px-Cristobal_2020-06-03_1915Z.jpg",
+    "fatalaties": 46,
+    "cost_usd": 865000000,
     "retired": "false",
     "data": [
       {
@@ -1637,8 +1637,8 @@
     ]
   },
   {
-    "id": "AL042020_DOLLY",
-    "image": "",
+    "id": "AL042020_Dolly",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dolly_2020-06-23_1720Z.jpg/800px-Dolly_2020-06-23_1720Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -1922,8 +1922,8 @@
     ]
   },
   {
-    "id": "AL052020_EDOUARD",
-    "image": "",
+    "id": "AL052020_Edouard",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Edouard_2020-07-06_1615Z.jpg/800px-Edouard_2020-07-06_1615Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -2437,10 +2437,10 @@
     ]
   },
   {
-    "id": "AL062020_FAY",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL062020_Fay",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fay_2020-07-10_1725Z.jpg/800px-Fay_2020-07-10_1725Z.jpg",
+    "fatalaties": 6,
+    "cost_usd": 220000000,
     "retired": "false",
     "data": [
       {
@@ -3067,8 +3067,8 @@
     ]
   },
   {
-    "id": "AL072020_GONZALO",
-    "image": "",
+    "id": "AL072020_Gonzalo",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gonzalo_2020-07-22_1335Z.jpg/800px-Gonzalo_2020-07-22_1335Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -3605,10 +3605,10 @@
     ]
   },
   {
-    "id": "AL082020_HANNA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL082020_Hanna",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hanna_2020-07-25_2200Z.png/800px-Hanna_2020-07-25_2200Z.png",
+    "fatalaties": 9,
+    "cost_usd": 1200000000,
     "retired": "false",
     "data": [
       {
@@ -4028,10 +4028,10 @@
     ]
   },
   {
-    "id": "AL092020_ISAIAS",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL092020_Isaias",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Isaias_2020-08-03_1815Z.jpg/800px-Isaias_2020-08-03_1815Z.jpg",
+    "fatalaties": 17,
+    "cost_usd": 5030000000,
     "retired": "false",
     "data": [
       {
@@ -4865,8 +4865,8 @@
     ]
   },
   {
-    "id": "AL102020_TEN",
-    "image": "",
+    "id": "AL102020_Ten",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/10L_2020-07-31_1500Z.jpg/800px-10L_2020-07-31_1500Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -5196,8 +5196,8 @@
     ]
   },
   {
-    "id": "AL112020_JOSEPHINE",
-    "image": "",
+    "id": "AL112020_Josephine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Josephine_2020-08-13_1645Z.jpg/800px-Josephine_2020-08-13_1645Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -5757,8 +5757,8 @@
     ]
   },
   {
-    "id": "AL122020_KYLE",
-    "image": "",
+    "id": "AL122020_Kyle",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kyle_2020-08-14_1720Z.jpg/800px-Kyle_2020-08-14_1720Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -5927,11 +5927,11 @@
     ]
   },
   {
-    "id": "AL132020_LAURA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL132020_Laura",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laura_2020-08-26_2300Z.png/800px-Laura_2020-08-26_2300Z.png",
+    "fatalaties": 81,
+    "cost_usd": 23300000000,
+    "retired": "true",
     "data": [
       {
         "date": "20200820",
@@ -6902,10 +6902,10 @@
     ]
   },
   {
-    "id": "AL142020_MARCO",
-    "image": "",
+    "id": "AL142020_Marco",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Marco_2020-08-23_1940Z.jpg/800px-Marco_2020-08-23_1940Z.jpg",
     "fatalaties": 0,
-    "cost_usd": 0,
+    "cost_usd": 35000000,
     "retired": "false",
     "data": [
       {
@@ -7394,8 +7394,8 @@
     ]
   },
   {
-    "id": "AL152020_OMAR",
-    "image": "",
+    "id": "AL152020_Omar",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Omar_2020-09-01_1735Z.jpg/800px-Omar_2020-09-01_1735Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -8024,10 +8024,10 @@
     ]
   },
   {
-    "id": "AL162020_NANA",
-    "image": "",
+    "id": "AL162020_Nana",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nana_2020-09-03_0725Z_%28colored%29.jpg/800px-Nana_2020-09-03_0725Z_%28colored%29.jpg",
     "fatalaties": 0,
-    "cost_usd": 0,
+    "cost_usd": 20000000,
     "retired": "false",
     "data": [
       {
@@ -8332,10 +8332,10 @@
     ]
   },
   {
-    "id": "AL172020_PAULETTE",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL172020_Paulette",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Paulette_2020-09-14_1750Z.jpg/800px-Paulette_2020-09-14_1750Z.jpg",
+    "fatalaties": 2,
+    "cost_usd": 50000000,
     "retired": "false",
     "data": [
       {
@@ -10365,8 +10365,8 @@
     ]
   },
   {
-    "id": "AL182020_RENE",
-    "image": "",
+    "id": "AL182020_Rene",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rene_2020-09-10_1530Z.jpg/800px-Rene_2020-09-10_1530Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -11110,10 +11110,10 @@
     ]
   },
   {
-    "id": "AL192020_SALLY",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL192020_Sally",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sally_2020-09-16_0400Z.jpg/800px-Sally_2020-09-16_0400Z.jpg",
+    "fatalaties": 9,
+    "cost_usd": 7300000000,
     "retired": "false",
     "data": [
       {
@@ -11763,10 +11763,10 @@
     ]
   },
   {
-    "id": "AL202020_TEDDY",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL202020_Teddy",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Teddy_2020-09-17_2025Z.jpg/800px-Teddy_2020-09-17_2025Z.jpg",
+    "fatalaties": 3,
+    "cost_usd": 35000000,
     "retired": "false",
     "data": [
       {
@@ -12899,8 +12899,8 @@
     ]
   },
   {
-    "id": "AL212020_VICKY",
-    "image": "",
+    "id": "AL212020_Vicky",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vicky_2020-09-15_1525Z.jpg/800px-Vicky_2020-09-15_1525Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -13460,10 +13460,10 @@
     ]
   },
   {
-    "id": "AL222020_BETA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL222020_Beta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beta_2020-09-20_1910Z.jpg/800px-Beta_2020-09-20_1910Z.jpg",
+    "fatalaties": 1,
+    "cost_usd": 225000000,
     "retired": "false",
     "data": [
       {
@@ -14251,8 +14251,8 @@
     ]
   },
   {
-    "id": "AL232020_WILFRED",
-    "image": "",
+    "id": "AL232020_Wilfred",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wilfred_2020-09-18_1235Z.jpg/800px-Wilfred_2020-09-18_1235Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -14651,10 +14651,10 @@
     ]
   },
   {
-    "id": "AL242020_ALPHA",
-    "image": "",
+    "id": "AL242020_Alpha",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alpha_2020-09-18_1410Z.jpg/800px-Alpha_2020-09-18_1410Z.jpg",
     "fatalaties": 0,
-    "cost_usd": 0,
+    "cost_usd": 24200000,
     "retired": "false",
     "data": [
       {
@@ -15120,10 +15120,10 @@
     ]
   },
   {
-    "id": "AL252020_GAMMA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL252020_Gamma",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gamma_2020-10-03_1650Z.jpg/800px-Gamma_2020-10-03_1650Z.jpg",
+    "fatalaties": 6,
+    "cost_usd": 100000000,
     "retired": "false",
     "data": [
       {
@@ -15612,10 +15612,10 @@
     ]
   },
   {
-    "id": "AL262020_DELTA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL262020_Delta",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Delta_2020-10-08_1920Z.jpg/800px-Delta_2020-10-08_1920Z.jpg",
+    "fatalaties": 6,
+    "cost_usd": 3090000000,
     "retired": "false",
     "data": [
       {
@@ -16334,9 +16334,9 @@
     ]
   },
   {
-    "id": "AL272020_EPSILON",
-    "image": "",
-    "fatalaties": 0,
+    "id": "AL272020_Epsilon",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Epsilon_2020-10-21_2000Z.png/1024px-Epsilon_2020-10-21_2000Z.png",
+    "fatalaties": 1,
     "cost_usd": 0,
     "retired": "false",
     "data": [
@@ -17286,10 +17286,10 @@
     ]
   },
   {
-    "id": "AL282020_ZETA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
+    "id": "AL282020_Zeta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Zeta_2020-10-28_1855Z.jpg/800px-Zeta_2020-10-28_1855Z.jpg",
+    "fatalaties": 9,
+    "cost_usd": 4400000000,
     "retired": "false",
     "data": [
       {
@@ -17870,11 +17870,11 @@
     ]
   },
   {
-    "id": "AL292020_ETA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL292020_Eta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eta_2020-11-03_0640Z.jpg/800px-Eta_2020-11-03_0640Z.jpg",
+    "fatalaties": 275,
+    "cost_usd": 8300000000,
+    "retired": "true",
     "data": [
       {
         "date": "20201031",
@@ -19213,8 +19213,8 @@
     ]
   },
   {
-    "id": "AL302020_THETA",
-    "image": "",
+    "id": "AL302020_Theta",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Theta_2020-11-10_1430Z.jpg/800px-Theta_2020-11-10_1430Z.jpg",
     "fatalaties": 0,
     "cost_usd": 0,
     "retired": "false",
@@ -19981,11 +19981,11 @@
     ]
   },
   {
-    "id": "AL312020_IOTA",
-    "image": "",
-    "fatalaties": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL312020_Iota",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iota_2020-11-16_1500Z.png/800px-Iota_2020-11-16_1500Z.png",
+    "fatalaties": 125,
+    "cost_usd": 1400000000,
+    "retired": "true",
     "data": [
       {
         "date": "20201112",

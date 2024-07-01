@@ -1,8 +1,9 @@
-// Import required modules
+// Import necessary modules
 import express from 'express';
-import fs from 'fs';
+import cors from 'cors'; // Import cors module
+import { fileURLToPath } from 'url';
 import path from 'path';
-import { fileURLToPath } from 'url'; 
+import fs from 'fs';
 
 // Define __dirname and __filename for ES Modules
 const __filename = fileURLToPath(import.meta.url);
@@ -12,8 +13,8 @@ const PORT = process.env.PORT || 3001; // Define the port
 
 const app = express(); // Create an Express.js server
 
+app.use(cors()); // Enable CORS for all routes and origins
 app.use(express.json()); // Middleware to parse JSON bodies
-
 app.use(express.static('public')); // Middleware to serve static files from '/public'
 
 // Serve hurdat2 to the client
