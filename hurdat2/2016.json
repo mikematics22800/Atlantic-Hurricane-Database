@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012016_Alex",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Alex_2016-01-14_1300Z_%28cropped%29.jpg/1024px-Alex_2016-01-14_1300Z_%28cropped%29.jpg",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160107",
@@ -976,10 +976,10 @@
   },
   {
     "id": "AL022016_Bonnie",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Bonnie_2016-05-28_Suomi_NPP.jpg/800px-Bonnie_2016-05-28_Suomi_NPP.jpg",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160527",
@@ -2273,10 +2273,10 @@
   },
   {
     "id": "AL032016_Colin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Colin_2016-06-06_1620Z.jpg/800px-Colin_2016-06-06_1620Z.jpg",
+    "fatalities": 6,
+    "cost_usd": 1040000,
+    "retired": false,
     "data": [
       {
         "date": "20160605",
@@ -2627,10 +2627,10 @@
   },
   {
     "id": "AL042016_Danielle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Danielle_2016-06-20_1940Z.jpg/800px-Danielle_2016-06-20_1940Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160618",
@@ -2912,10 +2912,10 @@
   },
   {
     "id": "AL052016_Earl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Earl_2016-08-03_2245Z.png/1024px-Earl_2016-08-03_2245Z.png",
+    "fatalities": 106,
+    "cost_usd": 250000000,
+    "retired": false,
     "data": [
       {
         "date": "20160802",
@@ -3381,10 +3381,10 @@
   },
   {
     "id": "AL062016_Fiona",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Fiona_2016-08-20_1610Z.jpg/800px-Fiona_2016-08-20_1610Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160816",
@@ -4103,10 +4103,10 @@
   },
   {
     "id": "AL072016_Gaston",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Gaston_2016-08-30_1625Z.jpg/800px-Gaston_2016-08-30_1625Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160821",
@@ -5331,10 +5331,10 @@
   },
   {
     "id": "AL082016_Eight",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/08L_2016-08-28_1825Z.jpg/1024px-08L_2016-08-28_1825Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160827",
@@ -5823,10 +5823,10 @@
   },
   {
     "id": "AL092016_Hermine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Hermine_2016-09-01_2300Z.png/1024px-Hermine_2016-09-01_2300Z.png",
+    "fatalities": 5,
+    "cost_usd": 550000000,
+    "retired": false,
     "data": [
       {
         "date": "20160828",
@@ -6913,10 +6913,10 @@
   },
   {
     "id": "AL102016_Ian",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Ian_2016-09-14_1645Z.jpg/800px-Ian_2016-09-14_1645Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160912",
@@ -7405,10 +7405,10 @@
   },
   {
     "id": "AL112016_Julia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Julia_2016-09-13_1825Z.jpg/800px-Julia_2016-09-13_1825Z.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 6130000,
+    "retired": false,
     "data": [
       {
         "date": "20160913",
@@ -8173,10 +8173,10 @@
   },
   {
     "id": "AL122016_Karl",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Karl_2016-09-24_1450Z.jpg/800px-Karl_2016-09-24_1450Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160912",
@@ -9424,10 +9424,10 @@
   },
   {
     "id": "AL132016_Lisa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Lisa_2016-09-22_1545Z.jpg/800px-Lisa_2016-09-22_1545Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20160919",
@@ -10123,10 +10123,10 @@
   },
   {
     "id": "AL142016_Matthew",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Matthew_2016-10-01_0225Z.png/800px-Matthew_2016-10-01_0225Z.png",
+    "fatalities": 603,
+    "cost_usd": 16500000000,
+    "retired": true,
     "data": [
       {
         "date": "20160928",
@@ -11282,10 +11282,10 @@
   },
   {
     "id": "AL152016_Nicole",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nicole_2016-10-13_0555Z.jpg/800px-Nicole_2016-10-13_0555Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 15000000,
+    "retired": false,
     "data": [
       {
         "date": "20161004",
@@ -12740,10 +12740,10 @@
   },
   {
     "id": "AL162016_Otto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Otto_2016-11-24_1605Z_%28gallery%29.jpg/800px-Otto_2016-11-24_1605Z_%28gallery%29.jpg",
+    "fatalities": 23,
+    "cost_usd": 192000000,
+    "retired": true,
     "data": [
       {
         "date": "20161117",

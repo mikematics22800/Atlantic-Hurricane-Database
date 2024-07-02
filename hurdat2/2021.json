@@ -4,7 +4,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Ana_2021-05-22_1505Z.jpg/800px-Ana_2021-05-22_1505Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210520",
@@ -404,7 +404,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bill_2021-06-15_1100Z.png/800px-Bill_2021-06-15_1100Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210613",
@@ -643,7 +643,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Claudette_2021-06-21_1740Z.jpg/800px-Claudette_2021-06-21_1740Z.jpg",
     "fatalities": 4,
     "cost_usd": 375000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210617",
@@ -1181,7 +1181,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Danny_2021-06-28_1840Z.jpg/800px-Danny_2021-06-28_1840Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210627",
@@ -1351,7 +1351,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Elsa_2021-07-02_1725Z.jpg/800px-Elsa_2021-07-02_1725Z.jpg",
     "fatalities": 13,
     "cost_usd": 1200000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210630",
@@ -2349,7 +2349,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Fred_2021-08-16_1620Z.jpg/800px-Fred_2021-08-16_1620Z.jpg",
     "fatalities": 7,
     "cost_usd": 1300000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210809",
@@ -3393,7 +3393,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Grace_2021-08-21_0610Z.jpg",
     "fatalities": 16,
     "cost_usd": 513000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210813",
@@ -4276,7 +4276,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Henri_2021-08-21_1805Z.jpg/800px-Henri_2021-08-21_1805Z.jpg",
     "fatalities": 2,
     "cost_usd": 700000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210815",
@@ -5251,7 +5251,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Ida_2021-08-29_1400Z.png/800px-Ida_2021-08-29_1400Z.png",
     "fatalities": 107,
     "cost_usd": 75300000000,
-    "retired": "true",
+    "retired": true,
     "data": [
       {
         "date": "20210826",
@@ -6180,7 +6180,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kate_2021-08-30_1130Z.jpg/800px-Kate_2021-08-30_1130Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210827",
@@ -6672,7 +6672,7 @@
     "imageUrl": "https://en.wikipedia.org/wiki/2021_Atlantic_hurricane_season#/media/File:Julian_2021-08-29_1400Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210828",
@@ -6980,7 +6980,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Larry_2021-09-05_1405Z.jpg/800px-Larry_2021-09-05_1405Z.jpg",
     "fatalities": 5,
     "cost_usd": 80000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210831",
@@ -8047,7 +8047,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Mindy_2021-09-08_2200Z.jpg/800px-Mindy_2021-09-08_2200Z.jpg",
     "fatalities": 23,
     "cost_usd": 75200000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210908",
@@ -8286,7 +8286,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Nicholas_2021-09-14_0404Z.png/800px-Nicholas_2021-09-14_0404Z.png",
     "fatalities": 4,
     "cost_usd": 1100000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210912",
@@ -8778,7 +8778,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Odette_2021-09-17_1740Z.jpg/800px-Odette_2021-09-17_1740Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210916",
@@ -9776,7 +9776,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Peter_2021-09-19_2020Z.jpg/800px-Peter_2021-09-19_2020Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210919",
@@ -10153,7 +10153,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Rose_2021-09-20_1550Z.jpg/800px-Rose_2021-09-20_1550Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210919",
@@ -10668,7 +10668,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Sam_2021-09-26_1625Z.jpg/800px-Sam_2021-09-26_1625Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210922",
@@ -12034,7 +12034,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/99L_2021-09-24_1710Z.jpg/800px-99L_2021-09-24_1710Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210924",
@@ -12273,7 +12273,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Victor_2021-10-01_1540Z.jpg/800px-Victor_2021-10-01_1540Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20210929",
@@ -12788,7 +12788,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Wanda_2021-11-03_1340Z.jpg/800px-Wanda_2021-11-03_1340Z.jpg",
     "fatalities": 2,
     "cost_usd": 200000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20211025",

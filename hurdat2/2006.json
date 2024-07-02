@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012006_Alberto",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Alberto_2006-06-12_1830Z.jpg/800px-Alberto_2006-06-12_1830Z.jpg",
+    "fatalities": 7,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060610",
@@ -884,10 +884,10 @@
   },
   {
     "id": "AL022006_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/02L_2006-07-17_1730Z.jpg/1024px-02L_2006-07-17_1730Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060716",
@@ -1192,10 +1192,10 @@
   },
   {
     "id": "AL032006_Beryl",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Beryl_2006-07-20_1800Z.jpg/800px-Beryl_2006-07-20_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060718",
@@ -1615,10 +1615,10 @@
   },
   {
     "id": "AL042006_Chris",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/03L_Chris_2006.jpg/800px-03L_Chris_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060801",
@@ -2153,10 +2153,10 @@
   },
   {
     "id": "AL052006_Debby",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/TS_debby_2006.jpg/800px-TS_debby_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060821",
@@ -2760,10 +2760,10 @@
   },
   {
     "id": "AL062006_Ernesto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Ernesto_2006-08-27_0630Z.jpg/800px-Ernesto_2006-08-27_0630Z.jpg",
+    "fatalities": 11,
+    "cost_usd": 500000000,
+    "retired": false,
     "data": [
       {
         "date": "20060824",
@@ -3850,10 +3850,10 @@
   },
   {
     "id": "AL072006_Florence",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Florence_2006-09-10_1730Z.jpg/800px-Florence_2006-09-10_1730Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060903",
@@ -5285,10 +5285,10 @@
   },
   {
     "id": "AL082006_Gordon",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hurricane_Gordon_2006.jpg/800px-Hurricane_Gordon_2006.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 3800000,
+    "retired": false,
     "data": [
       {
         "date": "20060910",
@@ -6605,10 +6605,10 @@
   },
   {
     "id": "AL092006_Helene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hurricane_Helene_18_sept_2006.jpg/800px-Hurricane_Helene_18_sept_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060912",
@@ -8040,10 +8040,10 @@
   },
   {
     "id": "AL102006_Isaac",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Isaac_2006-09-30_1710Z.jpg/800px-Isaac_2006-09-30_1710Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20060927",

@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012012_Alberto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Alberto_May_19_2012_1610Z.jpg/1024px-Alberto_May_19_2012_1610Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120519",
@@ -470,10 +470,10 @@
   },
   {
     "id": "AL022012_Beryl",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Beryl_May_27_2012_1835Z.jpg/800px-Beryl_May_27_2012_1835Z.jpg",
+    "fatalities": 3,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120525",
@@ -1238,10 +1238,10 @@
   },
   {
     "id": "AL032012_Chris",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Hurricane_Chris_Jun_21_2012_1330Z.jpg/800px-Hurricane_Chris_Jun_21_2012_1330Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120617",
@@ -1960,10 +1960,10 @@
   },
   {
     "id": "AL042012_Debby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Debby_Jun_24_2012_1900Z.jpg/800px-Debby_Jun_24_2012_1900Z.jpg",
+    "fatalities": 8,
+    "cost_usd": 250000000,
+    "retired": false,
     "data": [
       {
         "date": "20120623",
@@ -2383,10 +2383,10 @@
   },
   {
     "id": "AL052012_Ernesto",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Ernesto_Aug_7_2012_1920Z.jpg/1024px-Ernesto_Aug_7_2012_1920Z.jpg",
+    "fatalities": 12,
+    "cost_usd": 252000000,
+    "retired": false,
     "data": [
       {
         "date": "20120801",
@@ -3289,10 +3289,10 @@
   },
   {
     "id": "AL062012_Florence",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Florence_2012-08-05_0350Z.jpg/800px-Florence_2012-08-05_0350Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120803",
@@ -3781,10 +3781,10 @@
   },
   {
     "id": "AL072012_Helene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Helene_Aug_17_2012_1955Z.jpg/800px-Helene_Aug_17_2012_1955Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 17000000,
+    "retired": false,
     "data": [
       {
         "date": "20120809",
@@ -4664,10 +4664,10 @@
   },
   {
     "id": "AL082012_Gordon",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Gordon_Aug_18_2012_15.50%28UTC%29.jpg/1024px-Gordon_Aug_18_2012_15.50%28UTC%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120815",
@@ -5271,10 +5271,10 @@
   },
   {
     "id": "AL092012_Isaac",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Isaac_2012-08-28_1630Z.jpg/800px-Isaac_2012-08-28_1630Z.jpg",
+    "fatalities": 41,
+    "cost_usd": 3110000000,
+    "retired": false,
     "data": [
       {
         "date": "20120820",
@@ -6453,10 +6453,10 @@
   },
   {
     "id": "AL102012_Joyce",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Joyce_Aug_23_2012_1600Z.jpg/800px-Joyce_Aug_23_2012_1600Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120821",
@@ -6738,10 +6738,10 @@
   },
   {
     "id": "AL112012_Kirk",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Kirk_2012-08-31_0139Z.png/800px-Kirk_2012-08-31_0139Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120828",
@@ -7253,10 +7253,10 @@
   },
   {
     "id": "AL122012_Leslie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Leslie_Sept_5_2012_1710Z.jpg/1024px-Leslie_Sept_5_2012_1710Z.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 10100000,
+    "retired": false,
     "data": [
       {
         "date": "20120828",
@@ -8642,10 +8642,10 @@
   },
   {
     "id": "AL132012_Michael",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Michael_Sept_6_2012_1620Z.jpg/800px-Michael_Sept_6_2012_1620Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120902",
@@ -9617,10 +9617,10 @@
   },
   {
     "id": "AL142012_Nadine",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Nadine_Sept_30_2012_1535Z.jpg/800px-Nadine_Sept_30_2012_1535Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20120910",
@@ -11834,10 +11834,10 @@
   },
   {
     "id": "AL152012_Oscar",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Oscar_Oct_4_2012_1330Z.jpg/1024px-Oscar_Oct_4_2012_1330Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20121002",
@@ -12142,10 +12142,10 @@
   },
   {
     "id": "AL162012_Patty",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Patty_Oct_11_2012_1515Z.jpg/1024px-Patty_Oct_11_2012_1515Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20121010",
@@ -12404,10 +12404,10 @@
   },
   {
     "id": "AL172012_Rafael",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Rafael_Oct_16_2012_1710Z.jpg/800px-Rafael_Oct_16_2012_1710Z.jpg",
+    "fatalities": 1,
+    "cost_usd": 2000000,
+    "retired": false,
     "data": [
       {
         "date": "20121012",
@@ -13701,10 +13701,10 @@
   },
   {
     "id": "AL182012_Sandy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sandy_2012-10-25_0320Z.png/800px-Sandy_2012-10-25_0320Z.png",
+    "fatalities": 233,
+    "cost_usd": 68700000000,
+    "retired": true,
     "data": [
       {
         "date": "20121021",
@@ -14748,7 +14748,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20121021",

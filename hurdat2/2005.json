@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012005_Arlene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Arlene_11_june_2005_1645Z.jpg/800px-Arlene_11_june_2005_1645Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 11800000,
+    "retired": false,
     "data": [
       {
         "date": "20050608",
@@ -608,10 +608,10 @@
   },
   {
     "id": "AL022005_Bret",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Tsbret2005.jpg",
+    "fatalities": 3,
+    "cost_usd": 9300000,
+    "retired": false,
     "data": [
       {
         "date": "20050628",
@@ -778,10 +778,10 @@
   },
   {
     "id": "AL032005_Cindy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Hurricane_Cindy_2005-07-05.jpg/800px-Hurricane_Cindy_2005-07-05.jpg",
+    "fatalities": 3,
+    "cost_usd": 320000000,
+    "retired": false,
     "data": [
       {
         "date": "20050703",
@@ -1569,10 +1569,10 @@
   },
   {
     "id": "AL042005_Dennis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dennis_2005-07-10_0410Z.jpg/800px-Dennis_2005-07-10_0410Z.jpg",
+    "fatalities": 88,
+    "cost_usd": 3980000000,
+    "retired": true,
     "data": [
       {
         "date": "20050704",
@@ -2935,10 +2935,10 @@
   },
   {
     "id": "AL052005_Emily",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Emily_2005-07-16_1845Z.jpg/800px-Emily_2005-07-16_1845Z.jpg",
+    "fatalities": 22,
+    "cost_usd": 1010000000,
+    "retired": false,
     "data": [
       {
         "date": "20050711",
@@ -3979,10 +3979,10 @@
   },
   {
     "id": "AL062005_Franklin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TS_Franklin_23_july_2005_1545Z.jpg/800px-TS_Franklin_23_july_2005_1545Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050721",
@@ -4862,10 +4862,10 @@
   },
   {
     "id": "AL072005_Gert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Gert_Jul_24_2005_1935Z.jpg/800px-Gert_Jul_24_2005_1935Z.jpg",
+    "fatalities": 1,
+    "cost_usd": 6000000,
+    "retired": false,
     "data": [
       {
         "date": "20050723",
@@ -5078,10 +5078,10 @@
   },
   {
     "id": "AL082005_Harvey",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Harvey_2005-08-04_1740Z.jpg/800px-Harvey_2005-08-04_1740Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050802",
@@ -6145,10 +6145,10 @@
   },
   {
     "id": "AL092005_Irene",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Irene_2005-08-16.jpg/800px-Irene_2005-08-16.jpg",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050804",
@@ -7442,10 +7442,10 @@
   },
   {
     "id": "AL102005_Ten",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/10L_2005-08-13_1550Z.jpg/800px-10L_2005-08-13_1550Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050813",
@@ -7934,10 +7934,10 @@
   },
   {
     "id": "AL112005_Jose",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Jose_2005-08-23_Terra.jpg/1024px-Jose_2005-08-23_Terra.jpg",
+    "fatalities": 16,
+    "cost_usd": 45000000,
+    "retired": false,
     "data": [
       {
         "date": "20050822",
@@ -8081,10 +8081,10 @@
   },
   {
     "id": "AL122005_Katrina",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Katrina_2005-08-28_1700Z.jpg/800px-Katrina_2005-08-28_1700Z.jpg",
+    "fatalities": 1392,
+    "cost_usd": 125000000000,
+    "retired": true,
     "data": [
       {
         "date": "20050823",
@@ -8872,10 +8872,10 @@
   },
   {
     "id": "AL132005_Lee",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Lee_2005-08-31_1415Z.jpg/800px-Lee_2005-08-31_1415Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050828",
@@ -9479,10 +9479,10 @@
   },
   {
     "id": "AL142005_Maria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Maria_Sept_5_2005_1430Z.jpg/1024px-Maria_Sept_5_2005_1430Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 3100000,
+    "retired": false,
     "data": [
       {
         "date": "20050901",
@@ -10661,10 +10661,10 @@
   },
   {
     "id": "AL152005_Nate",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Nate_Sept_7_2005_1730Z.jpg/1024px-Nate_Sept_7_2005_1730Z.jpg",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050905",
@@ -11337,10 +11337,10 @@
   },
   {
     "id": "AL162005_Ophelia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Ophelia_2005-09-14_1605Z.jpg/800px-Ophelia_2005-09-14_1605Z.jpg",
+    "fatalities": 4,
+    "cost_usd": 70000000,
+    "retired": false,
     "data": [
       {
         "date": "20050906",
@@ -12933,10 +12933,10 @@
   },
   {
     "id": "AL172005_Philippe",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Philippe_2005-09-19_1445Z.jpg/800px-Philippe_2005-09-19_1445Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050917",
@@ -13586,10 +13586,10 @@
   },
   {
     "id": "AL182005_Rita",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rita_2005-09-21_1915Z.jpg/800px-Rita_2005-09-21_1915Z.jpg",
+    "fatalaties": 120,
+    "cost_usd": 18500000000,
+    "retired": true,
     "data": [
       {
         "date": "20050918",
@@ -14423,10 +14423,10 @@
   },
   {
     "id": "AL192005_Nineteen",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/TD_19_2005-09-30.jpg/800px-TD_19_2005-09-30.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20050930",
@@ -14639,10 +14639,10 @@
   },
   {
     "id": "AL202005_Stan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Stan_2005-10-04_0755Z.jpg/800px-Stan_2005-10-04_0755Z.jpg",
+    "fatalities": 1673,
+    "cost_usd": 3960000000,
+    "retired": true,
     "data": [
       {
         "date": "20051001",
@@ -15039,10 +15039,10 @@
   },
   {
     "id": "AL212005_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Unnamed_SS_2005-10-04_1220Z.jpg/800px-Unnamed_SS_2005-10-04_1220Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20051004",
@@ -15209,10 +15209,10 @@
   },
   {
     "id": "AL222005_Tammy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Tammy_2005-10-05_1625Z.jpg/1024px-Tammy_2005-10-05_1625Z.jpg",
+    "fatalities": 10,
+    "cost_usd": 30000000,
+    "retired": false,
     "data": [
       {
         "date": "20051005",
@@ -15425,10 +15425,10 @@
   },
   {
     "id": "AL232005_Twenty-two",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/SD_22_2005-10-08_1647Z.jpg/800px-SD_22_2005-10-08_1647Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20051008",
@@ -16055,10 +16055,10 @@
   },
   {
     "id": "AL242005_Vince",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Vince_2005-10-09.jpg/1024px-Vince_2005-10-09.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20051008",
@@ -16409,10 +16409,10 @@
   },
   {
     "id": "AL252005_Wilma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Wilma_2005-10-19_0712Z.jpg/800px-Wilma_2005-10-19_0712Z.jpg",
+    "fatalities": 52,
+    "cost_usd": 26500000000,
+    "retired": true,
     "data": [
       {
         "date": "20051015",
@@ -17522,10 +17522,10 @@
   },
   {
     "id": "AL262005_Alpha",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Alpha_2005-10-22_1530Z.jpg/800px-Alpha_2005-10-22_1530Z.jpg",
+    "fatalities": 26,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20051022",
@@ -17784,10 +17784,10 @@
   },
   {
     "id": "AL272005_Beta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Beta_2005-10-30_0655Z.jpg/800px-Beta_2005-10-30_0655Z.jpg",
+    "fatalities": 9,
+    "cost_usd": 15500000,
+    "retired": false,
     "data": [
       {
         "date": "20051026",
@@ -18207,10 +18207,10 @@
   },
   {
     "id": "AL282005_Gamma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Gamma_2005-11-19_1515Z.jpg/800px-Gamma_2005-11-19_1515Z.jpg",
+    "fatalities": 39,
+    "cost_usd": 18000000,
+    "retired": false,
     "data": [
       {
         "date": "20051114",
@@ -18975,10 +18975,10 @@
   },
   {
     "id": "AL292005_Delta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Ts_delta_112405.jpg/1024px-Ts_delta_112405.jpg",
+    "fatalities": 19,
+    "cost_usd": 364000000,
+    "retired": false,
     "data": [
       {
         "date": "20051119",
@@ -19950,10 +19950,10 @@
   },
   {
     "id": "AL302005_Epsilon",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Epsilon_2005-12-05_1545Z.jpg/800px-Epsilon_2005-12-05_1545Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20051129",
@@ -20948,10 +20948,10 @@
   },
   {
     "id": "AL312005_Zeta",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/TS_Zeta_03_jan_2006_1345Z.jpg/800px-TS_Zeta_03_jan_2006_1345Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20051230",

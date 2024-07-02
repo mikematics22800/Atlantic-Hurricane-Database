@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012010_Alex",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Alex_2010-07-01_0202Z.png",
+    "fatalities": 73,
+    "cost_usd": 1520000000,
+    "retired": false,
     "data": [
       {
         "date": "20100624",
@@ -746,10 +746,10 @@
   },
   {
     "id": "AL022010_Two",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tropical_Depression_Two_Jul_8_2010_1930Z.jpg/800px-Tropical_Depression_Two_Jul_8_2010_1930Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100707",
@@ -1054,10 +1054,10 @@
   },
   {
     "id": "AL032010_Bonnie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Bonnie_2010-07-23_0327Z.jpg/800px-Bonnie_2010-07-23_0327Z.jpg",
+    "fatalities": 1,
+    "cost_usd": 1360000,
+    "retired": false,
     "data": [
       {
         "date": "20100722",
@@ -1477,10 +1477,10 @@
   },
   {
     "id": "AL042010_Colin",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Tropical_Storm_Colin_August_5_1505UTC.jpg/1024px-Tropical_Storm_Colin_August_5_1505UTC.jpg",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100802",
@@ -2061,10 +2061,10 @@
   },
   {
     "id": "AL052010_Five",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/05L_2010-08-10_1840Z.jpg/800px-05L_2010-08-10_1840Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 1000000,
+    "retired": false,
     "data": [
       {
         "date": "20100810",
@@ -2806,10 +2806,10 @@
   },
   {
     "id": "AL062010_Danielle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Danielle_Aug_27_2010_1740Z.jpg/1024px-Danielle_Aug_27_2010_1740Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100821",
@@ -3988,10 +3988,10 @@
   },
   {
     "id": "AL072010_Earl",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Earl_2010-09-02_0320Z.jpg/800px-Earl_2010-09-02_0320Z.jpg",
+    "fatalities": 8,
+    "cost_usd": 45000000,
+    "retired": false,
     "data": [
       {
         "date": "20100824",
@@ -5262,10 +5262,10 @@
   },
   {
     "id": "AL082010_Fiona",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fiona_2010-09-01_1450Z.jpg/800px-Fiona_2010-09-01_1450Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100830",
@@ -5823,10 +5823,10 @@
   },
   {
     "id": "AL092010_Gaston",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Gaston_Sept_1_2010_1310Z.jpg/1024px-Gaston_Sept_1_2010_1310Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100901",
@@ -6522,10 +6522,10 @@
   },
   {
     "id": "AL102010_Hermine",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hermine_2010-09-06_1955Z.jpg/800px-Hermine_2010-09-06_1955Z.jpg",
+    "fatalities": 102,
+    "cost_usd": 740000000,
+    "retired": false,
     "data": [
       {
         "date": "20100904",
@@ -7060,10 +7060,10 @@
   },
   {
     "id": "AL112010_Igor",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Igor_2010-09-14_1945Z.png/1024px-Igor_2010-09-14_1945Z.png",
+    "fatalities": 4,
+    "cost_usd": 200000000,
+    "retired": true,
     "data": [
       {
         "date": "20100908",
@@ -8472,10 +8472,10 @@
   },
   {
     "id": "AL122010_Julia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Julia_2010-09-15_1445Z.png/800px-Julia_2010-09-15_1445Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100912",
@@ -9654,10 +9654,10 @@
   },
   {
     "id": "AL132010_Karl",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Karl_2010-09-17_1415Z.png",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 3900000000,
+    "retired": false,
     "data": [
       {
         "date": "20100913",
@@ -10169,10 +10169,10 @@
   },
   {
     "id": "AL142010_Lisa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lisa_2010-09-25_0010Z.jpg/800px-Lisa_2010-09-25_0010Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20100920",
@@ -11052,10 +11052,10 @@
   },
   {
     "id": "AL152010_Matthew",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Matthew_2010-09-24_1630Z.jpg/800px-Matthew_2010-09-24_1630Z.jpg",
+    "fatalities": 143,
+    "cost_usd": 171000000,
+    "retired": false,
     "data": [
       {
         "date": "20100923",
@@ -11429,10 +11429,10 @@
   },
   {
     "id": "AL162010_Nicole",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Nicole_Sept_29_2010.jpg/1024px-Nicole_Sept_29_2010.jpg",
+    "fatalities": 20,
+    "cost_usd": 245000000,
+    "retired": false,
     "data": [
       {
         "date": "20100928",
@@ -11714,10 +11714,10 @@
   },
   {
     "id": "AL172010_Otto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Otto_2010-10-09_0203Z.jpg/800px-Otto_2010-10-09_0203Z.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 22500000,
+    "retired": false,
     "data": [
       {
         "date": "20101006",
@@ -12804,10 +12804,10 @@
   },
   {
     "id": "AL182010_Paula",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Otto_2010-10-09_0203Z.jpg/800px-Otto_2010-10-09_0203Z.jpg",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20101011",
@@ -13296,10 +13296,10 @@
   },
   {
     "id": "AL192010_Richard",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Hurricane_Richard_2010-10-24_1645Z.jpg/800px-Hurricane_Richard_2010-10-24_1645Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 80000000,
+    "retired": false,
     "data": [
       {
         "date": "20101019",
@@ -13972,10 +13972,10 @@
   },
   {
     "id": "AL202010_Shary",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Hurricane_Shary_2010-10-30_1424Z.jpg/800px-Hurricane_Shary_2010-10-30_1424Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20101028",
@@ -14188,10 +14188,10 @@
   },
   {
     "id": "AL212010_Tomas",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Tomas_2010-10-30_1735Z.jpg/800px-Tomas_2010-10-30_1735Z.jpg",
+    "fatalities": 44,
+    "cost_usd": 463000000,
+    "retired": true,
     "data": [
       {
         "date": "20101029",

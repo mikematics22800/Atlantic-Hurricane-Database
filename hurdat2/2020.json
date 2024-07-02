@@ -4,7 +4,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Arthur_2020-05-18_1605Z.jpg/800px-Arthur_2020-05-18_1605Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200516",
@@ -427,7 +427,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Bertha_2020-05-27_1600Z.jpg/800px-Bertha_2020-05-27_1600Z.jpg",
     "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200527",
@@ -597,7 +597,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cristobal_2020-06-03_1915Z.jpg/800px-Cristobal_2020-06-03_1915Z.jpg",
     "fatalities": 46,
     "cost_usd": 865000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200601",
@@ -1641,7 +1641,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dolly_2020-06-23_1720Z.jpg/800px-Dolly_2020-06-23_1720Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200622",
@@ -1926,7 +1926,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Edouard_2020-07-06_1615Z.jpg/800px-Edouard_2020-07-06_1615Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200704",
@@ -2441,7 +2441,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Fay_2020-07-10_1725Z.jpg/800px-Fay_2020-07-10_1725Z.jpg",
     "fatalities": 6,
     "cost_usd": 220000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200705",
@@ -3071,7 +3071,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Gonzalo_2020-07-22_1335Z.jpg/800px-Gonzalo_2020-07-22_1335Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200720",
@@ -3609,7 +3609,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Hanna_2020-07-25_2200Z.png/800px-Hanna_2020-07-25_2200Z.png",
     "fatalities": 9,
     "cost_usd": 1200000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200723",
@@ -4032,7 +4032,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Isaias_2020-08-03_1815Z.jpg/800px-Isaias_2020-08-03_1815Z.jpg",
     "fatalities": 17,
     "cost_usd": 5030000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200728",
@@ -4869,7 +4869,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/10L_2020-07-31_1500Z.jpg/800px-10L_2020-07-31_1500Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200729",
@@ -5200,7 +5200,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Josephine_2020-08-13_1645Z.jpg/800px-Josephine_2020-08-13_1645Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200810",
@@ -5761,7 +5761,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Kyle_2020-08-14_1720Z.jpg/800px-Kyle_2020-08-14_1720Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200814",
@@ -5931,7 +5931,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laura_2020-08-26_2300Z.png/800px-Laura_2020-08-26_2300Z.png",
     "fatalities": 81,
     "cost_usd": 23300000000,
-    "retired": "true",
+    "retired": true,
     "data": [
       {
         "date": "20200820",
@@ -6906,7 +6906,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Marco_2020-08-23_1940Z.jpg/800px-Marco_2020-08-23_1940Z.jpg",
     "fatalities": 0,
     "cost_usd": 35000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200820",
@@ -7398,7 +7398,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Omar_2020-09-01_1735Z.jpg/800px-Omar_2020-09-01_1735Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200830",
@@ -8028,7 +8028,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Nana_2020-09-03_0725Z_%28colored%29.jpg/800px-Nana_2020-09-03_0725Z_%28colored%29.jpg",
     "fatalities": 0,
     "cost_usd": 20000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200901",
@@ -8336,7 +8336,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Paulette_2020-09-14_1750Z.jpg/800px-Paulette_2020-09-14_1750Z.jpg",
     "fatalities": 2,
     "cost_usd": 50000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200907",
@@ -10369,7 +10369,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rene_2020-09-10_1530Z.jpg/800px-Rene_2020-09-10_1530Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200906",
@@ -11114,7 +11114,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Sally_2020-09-16_0400Z.jpg/800px-Sally_2020-09-16_0400Z.jpg",
     "fatalities": 9,
     "cost_usd": 7300000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200911",
@@ -11767,7 +11767,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Teddy_2020-09-17_2025Z.jpg/800px-Teddy_2020-09-17_2025Z.jpg",
     "fatalities": 3,
     "cost_usd": 35000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200912",
@@ -12903,7 +12903,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vicky_2020-09-15_1525Z.jpg/800px-Vicky_2020-09-15_1525Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200914",
@@ -13464,7 +13464,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Beta_2020-09-20_1910Z.jpg/800px-Beta_2020-09-20_1910Z.jpg",
     "fatalities": 1,
     "cost_usd": 225000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200917",
@@ -14255,7 +14255,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Wilfred_2020-09-18_1235Z.jpg/800px-Wilfred_2020-09-18_1235Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200917",
@@ -14655,7 +14655,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Alpha_2020-09-18_1410Z.jpg/800px-Alpha_2020-09-18_1410Z.jpg",
     "fatalities": 0,
     "cost_usd": 24200000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20200914",
@@ -15124,7 +15124,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Gamma_2020-10-03_1650Z.jpg/800px-Gamma_2020-10-03_1650Z.jpg",
     "fatalities": 6,
     "cost_usd": 100000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20201002",
@@ -15616,7 +15616,7 @@
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Delta_2020-10-08_1920Z.jpg/800px-Delta_2020-10-08_1920Z.jpg",
     "fatalities": 6,
     "cost_usd": 3090000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20201004",
@@ -16338,7 +16338,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Epsilon_2020-10-21_2000Z.png/1024px-Epsilon_2020-10-21_2000Z.png",
     "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20201016",
@@ -17290,7 +17290,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Zeta_2020-10-28_1855Z.jpg/800px-Zeta_2020-10-28_1855Z.jpg",
     "fatalities": 9,
     "cost_usd": 4400000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20201024",
@@ -17874,7 +17874,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Eta_2020-11-03_0640Z.jpg/800px-Eta_2020-11-03_0640Z.jpg",
     "fatalities": 275,
     "cost_usd": 8300000000,
-    "retired": "true",
+    "retired": true,
     "data": [
       {
         "date": "20201031",
@@ -19217,7 +19217,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Theta_2020-11-10_1430Z.jpg/800px-Theta_2020-11-10_1430Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20201108",
@@ -19985,7 +19985,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Iota_2020-11-16_1500Z.png/800px-Iota_2020-11-16_1500Z.png",
     "fatalities": 125,
     "cost_usd": 1400000000,
-    "retired": "true",
+    "retired": true,
     "data": [
       {
         "date": "20201112",

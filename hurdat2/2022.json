@@ -4,7 +4,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Alex_2022-06-05_1745Z.jpg/800px-Alex_2022-06-05_1745Z.jpg",
     "fatalities": 4,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220602",
@@ -404,7 +404,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Bonnie_2022-07-01_1845Z.jpg/800px-Bonnie_2022-07-01_1845Z.jpg",
     "fatalities": 5,
     "cost_usd": 22000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220627",
@@ -1678,7 +1678,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Colin_2022-07-02_1600Z.jpg/800px-Colin_2022-07-02_1600Z.jpg",
     "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220701",
@@ -1825,7 +1825,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Danielle_2022-09-07_1305Z.jpg/800px-Danielle_2022-09-07_1305Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220831",
@@ -3260,7 +3260,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Earl_2022-09-10_0515Z_%28Colored%29.jpg/800px-Earl_2022-09-10_0515Z_%28Colored%29.jpg",
     "fatalities": 4,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220902",
@@ -4465,7 +4465,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Fiona_2022-09-22_1750Z.jpg/800px-Fiona_2022-09-22_1750Z.jpg",
     "fatalities": 29,
     "cost_usd": 3090000000,
-    "retired": "true",
+    "retired": true,
     "data": [
       {
         "date": "20220914",
@@ -5877,7 +5877,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gaston_2022-09-23_1505Z.jpg/800px-Gaston_2022-09-23_1505Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220919",
@@ -6668,7 +6668,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ian_2022-09-28_1256Z.jpg/800px-Ian_2022-09-28_1256Z.jpg",
     "fatalities": 174,
     "cost_usd": 113000000000,
-    "retired": "true",
+    "retired": true,
     "data": [
       {
         "date": "20220922",
@@ -7597,7 +7597,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Hermine_2022-09-23_1455Z.jpg/800px-Hermine_2022-09-23_1455Z.jpg",
     "fatalities": 0,
     "cost_usd": 9800000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220923",
@@ -7882,7 +7882,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20220926",
@@ -8167,7 +8167,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20221004",
@@ -8406,7 +8406,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Julia_2022-10-09_0710Z.jpg/800px-Julia_2022-10-09_0710Z.jpg",
     "fatalities": 89,
     "cost_usd": 406000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20221006",
@@ -8898,7 +8898,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Karl_2022-10-12_1945Z.jpg/800px-Karl_2022-10-12_1945Z.jpg",
     "fatalities": 3,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20221011",
@@ -9321,7 +9321,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Lisa_2022-11-02_1910Z.jpg/800px-Lisa_2022-11-02_1910Z.jpg",
     "fatalities": 0,
     "cost_usd": 100000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20221030",
@@ -9882,7 +9882,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Martin_2022-11-02_1640Z.jpg/800px-Martin_2022-11-02_1640Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20221030",
@@ -10374,7 +10374,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Nicole_2022-11-10_0620Z_colored.jpg/800px-Nicole_2022-11-10_0620Z_colored.jpg",
     "fatalities": 11,
     "cost_usd": 1000000000,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20221106",

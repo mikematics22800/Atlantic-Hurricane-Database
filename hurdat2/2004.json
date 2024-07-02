@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012004_Alex",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Alex_2004-08-05_1245Z.png/800px-Alex_2004-08-05_1245Z.png",
+    "fatalities": 1,
+    "cost_usd": 7500000,
+    "retired": false,
     "data": [
       {
         "date": "20040731",
@@ -585,10 +585,10 @@
   },
   {
     "id": "AL022004_Bonnie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/TS_Bonnie_11_aug_2004_1650Z.jpg/800px-TS_Bonnie_11_aug_2004_1650Z.jpg",
+    "fatalities": 4,
+    "cost_usd": 1270000,
+    "retired": false,
     "data": [
       {
         "date": "20040803",
@@ -1606,10 +1606,10 @@
   },
   {
     "id": "AL032004_Charley",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Charley_2004-08-13_1815Z.png/1024px-Charley_2004-08-13_1815Z.png",
+    "fatalities": 35,
+    "cost_usd": 16900000000,
+    "retired": true,
     "data": [
       {
         "date": "20040809",
@@ -2305,10 +2305,10 @@
   },
   {
     "id": "AL042004_Danielle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Danielle_2004-08-16_1615Z.png/800px-Danielle_2004-08-16_1615Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20040813",
@@ -3372,10 +3372,10 @@
   },
   {
     "id": "AL052004_Earl",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Earl_2004-08-15.jpg/800px-Earl_2004-08-15.jpg",
+    "fatalities": 20,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20040813",
@@ -3588,10 +3588,10 @@
   },
   {
     "id": "AL062004_Frances",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Frances_2004-08-31_1755Z.jpg/800px-Frances_2004-08-31_1755Z.jpg",
+    "fatalities": 50,
+    "cost_usd": 10100000000,
+    "retired": true,
     "data": [
       {
         "date": "20040825",
@@ -5322,10 +5322,10 @@
   },
   {
     "id": "AL072004_Gaston",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gaston_2004-08-29_0710Z.jpg/800px-Gaston_2004-08-29_0710Z.jpg",
+    "fatalities": 9,
+    "cost_usd": 130000000,
+    "retired": false,
     "data": [
       {
         "date": "20040827",
@@ -5975,10 +5975,10 @@
   },
   {
     "id": "AL082004_Hermine",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Hermine_2004-08-30_1535Z.jpg/800px-Hermine_2004-08-30_1535Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20040827",
@@ -6352,10 +6352,10 @@
   },
   {
     "id": "AL092004_Ivan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Ivan_2004-09-13_1900Z_%28alternate%29.jpg/800px-Ivan_2004-09-13_1900Z_%28alternate%29.jpg",
+    "fatalities": 124,
+    "cost_usd": 26100000000,
+    "retired": true,
     "data": [
       {
         "date": "20040902",
@@ -8522,11 +8522,11 @@
     ]
   },
   {
-    "id": "AL102004_Unnamed",
-    "image": "",
+    "id": "AL102004_Ten",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/TD_ten_2004.jpg/1024px-TD_ten_2004.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20040907",
@@ -8831,10 +8831,10 @@
   },
   {
     "id": "AL112004_Jeanne",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jeanne_2004-09-26_0315Z.jpg/800px-Jeanne_2004-09-26_0315Z.jpg",
+    "fatalities": 3037,
+    "cost_usd": 7940000000,
+    "retired": true,
     "data": [
       {
         "date": "20040913",
@@ -10427,10 +10427,10 @@
   },
   {
     "id": "AL122004_Karl",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Karl_2004-09-21_0115Z.jpg/800px-Karl_2004-09-21_0115Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20040916",
@@ -11540,10 +11540,10 @@
   },
   {
     "id": "AL132004_Lisa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lisa_2004-10-02_0105Z.jpg/800px-Lisa_2004-10-02_0105Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20040919",
@@ -12814,10 +12814,10 @@
   },
   {
     "id": "AL142004_Matthew",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Tropical_Storm_Matthew_%282004%29.jpg/1024px-Tropical_Storm_Matthew_%282004%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20041008",
@@ -13122,10 +13122,10 @@
   },
   {
     "id": "AL152004_Nicole",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Nicole_2004-10-11_1445Z.jpg/800px-Nicole_2004-10-11_1445Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20041010",
@@ -13315,10 +13315,10 @@
   },
   {
     "id": "AL162004_Otto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Otto_2004-11-30_1425Z.jpg/800px-Otto_2004-11-30_1425Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20041126",

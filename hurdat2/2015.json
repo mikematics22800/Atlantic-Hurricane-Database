@@ -1,10 +1,10 @@
 [
   {
     "id": "AL012015_Ana",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Ana_May_9_2015_1540Z.jpg/800px-Ana_May_9_2015_1540Z.jpg",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150506",
@@ -654,10 +654,10 @@
   },
   {
     "id": "AL022015_Bill",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Bill_2015-06-16_1955Z.jpg/800px-Bill_2015-06-16_1955Z.jpg",
+    "fatalities": 9,
+    "cost_usd": 100000000,
+    "retired": false,
     "data": [
       {
         "date": "20150616",
@@ -1169,10 +1169,10 @@
   },
   {
     "id": "AL032015_Claudette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Claudette_2015-07-13_1730Z.jpg/800px-Claudette_2015-07-13_1730Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150712",
@@ -1523,10 +1523,10 @@
   },
   {
     "id": "AL042015_Danny",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Danny_2015-08-21_1620Z.jpg/800px-Danny_2015-08-21_1620Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150817",
@@ -2245,10 +2245,10 @@
   },
   {
     "id": "AL052015_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Erika_2015-08-27_1725Z.jpg/800px-Erika_2015-08-27_1725Z.jpg",
+    "fatalities":35,
+    "cost_usd": 511000000,
+    "retired": false,
     "data": [
       {
         "date": "20150824",
@@ -2622,10 +2622,10 @@
   },
   {
     "id": "AL062015_Fred",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Fred_2015-08-31_1215Z.jpg/800px-Fred_2015-08-31_1215Z.jpg",
+    "fatalities": 9,
+    "cost_usd": 15000000,
+    "retired": false,
     "data": [
       {
         "date": "20150830",
@@ -3344,10 +3344,10 @@
   },
   {
     "id": "AL072015_Grace",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Grace_2015-09-06_1515Z.jpg/800px-Grace_2015-09-06_1515Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150905",
@@ -3744,10 +3744,10 @@
   },
   {
     "id": "AL082015_Henri",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Henri_2015-09-10_1430Z.jpg/800px-Henri_2015-09-10_1430Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150908",
@@ -4052,10 +4052,10 @@
   },
   {
     "id": "AL092015_Nine",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/09L_2015-09-16_Suomi_NPP.jpg/800px-09L_2015-09-16_Suomi_NPP.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150915",
@@ -4498,10 +4498,10 @@
   },
   {
     "id": "AL102015_Ida",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ida_2015-09-21_1720Z.jpg/800px-Ida_2015-09-21_1720Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20150915",
@@ -5680,10 +5680,10 @@
   },
   {
     "id": "AL112015_Joaquin",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Joaquin_2015-10-03_1437Z.png/1024px-Joaquin_2015-10-03_1437Z.png",
+    "fatalities": 34,
+    "cost_usd": 200000000,
+    "retired": true,
     "data": [
       {
         "date": "20150926",
@@ -7437,10 +7437,10 @@
   },
   {
     "id": "AL122015_Kate",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Kate_2015-11-11_1440Z.jpg/800px-Kate_2015-11-11_1440Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "20151108",
