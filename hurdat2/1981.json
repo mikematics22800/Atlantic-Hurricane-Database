@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011981_Unnamed",
+    "id": "AL011981_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810406",
@@ -124,11 +124,11 @@
     ]
   },
   {
-    "id": "AL021981_Unnamed",
+    "id": "AL021981_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810419",
@@ -364,10 +364,10 @@
   },
   {
     "id": "AL031981_Arlene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Arlene_1981-05-07_1745Z.png/1024px-Arlene_1981-05-07_1745Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810506",
@@ -625,11 +625,11 @@
     ]
   },
   {
-    "id": "AL041981_Unnamed",
-    "image": "",
+    "id": "AL041981_Four",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/2-L_Jun_5_1981_1451Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810603",
@@ -887,11 +887,11 @@
     ]
   },
   {
-    "id": "AL051981_Unnamed",
+    "id": "AL051981_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810617",
@@ -1058,10 +1058,10 @@
   },
   {
     "id": "AL061981_Bret",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Bret_1981-06-30_1700Z.png/800px-Bret_1981-06-30_1700Z.png",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810629",
@@ -1273,11 +1273,11 @@
     ]
   },
   {
-    "id": "AL071981_Unnamed",
+    "id": "AL071981_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810702",
@@ -1466,11 +1466,11 @@
     ]
   },
   {
-    "id": "AL081981_Unnamed",
-    "image": "",
+    "id": "AL081981_Eight",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/04L_1981-07-25_1800Z.jpg/1024px-04L_1981-07-25_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810725",
@@ -1637,10 +1637,10 @@
   },
   {
     "id": "AL091981_Cindy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Cindy_1981-08-04_1630Z.png/1024px-Cindy_1981-08-04_1630Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810802",
@@ -1922,10 +1922,10 @@
   },
   {
     "id": "AL101981_Dennis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dennis_1981-08-20_2100Z.png/800px-Dennis_1981-08-20_2100Z.png",
+    "fatalities": 3,
+    "cost_usd": 28500000,
+    "retired": false,
     "data": [
       {
         "date": "19810807",
@@ -3310,11 +3310,11 @@
     ]
   },
   {
-    "id": "AL111981_Unnamed",
-    "image": "",
+    "id": "AL111981_Eleven",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/08-21-1500z-TD17L.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810817",
@@ -3756,11 +3756,11 @@
     ]
   },
   {
-    "id": "AL121981_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL121981_Twelve",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/08L_1981-08-29_1301Z.jpg/800px-08L_1981-08-29_1301Z.jpg",
+    "fatalities": 5,
+    "cost_usd": 56200000,
+    "retired": false,
     "data": [
       {
         "date": "19810826",
@@ -4042,10 +4042,10 @@
   },
   {
     "id": "AL131981_Emily",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Emily_1981-09-05_2000Z.png/800px-Emily_1981-09-05_2000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810831",
@@ -5132,10 +5132,10 @@
   },
   {
     "id": "AL141981_Floyd",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Floyd_1981-09-06_2000Z.png/800px-Floyd_1981-09-06_2000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810903",
@@ -5992,10 +5992,10 @@
   },
   {
     "id": "AL151981_Gert",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Hurricane_Gert_Sept_11_1981_1856Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810907",
@@ -6829,10 +6829,10 @@
   },
   {
     "id": "AL161981_Harvey",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Harvey_1981-09-14_2000Z.png/800px-Harvey_1981-09-14_2000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810911",
@@ -7619,11 +7619,11 @@
     ]
   },
   {
-    "id": "AL171981_Unnamed",
-    "image": "",
+    "id": "AL171981_Seventeen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/13L_1981-09-23_1531Z.jpg/800px-13L_1981-09-23_1531Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810912",
@@ -7882,10 +7882,10 @@
   },
   {
     "id": "AL181981_Irene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Irene_1981-09-28_1830Z.png/800px-Irene_1981-09-28_1830Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810921",
@@ -8994,11 +8994,11 @@
     ]
   },
   {
-    "id": "AL191981_Unnamed",
-    "image": "",
+    "id": "AL191981_Nineteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/15-L_Sept_27_1981_1728Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19810926",
@@ -9832,10 +9832,10 @@
   },
   {
     "id": "AL201981_Jose",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Jose_1981-10-31_1300Z.png/1024px-Jose_1981-10-31_1300Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19811029",
@@ -10186,10 +10186,10 @@
   },
   {
     "id": "AL211981_Katrina",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Katrina_1981-11-05_1230Z.png/800px-Katrina_1981-11-05_1230Z.png",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19811103",
@@ -10654,11 +10654,11 @@
     ]
   },
   {
-    "id": "AL221981_Unnamed",
-    "image": "",
+    "id": "AL221981_Three",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/22L_1981-11-14_1800Z.png/800px-22L_1981-11-14_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19811112",

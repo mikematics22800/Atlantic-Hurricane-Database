@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011997_Unnamed",
-    "image": "",
+    "id": "AL011997_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Unnamed_Subtropical_Storm_%281997%29.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19970531",
@@ -217,10 +217,10 @@
   },
   {
     "id": "AL021997_Ana",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Ana_1997-07-01_1545Z.png/1024px-Ana_1997-07-01_1545Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19970630",
@@ -663,10 +663,10 @@
   },
   {
     "id": "AL031997_Bill",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Hurricane_Bill_Jul_12_1997_1515Z.jpg/1024px-Hurricane_Bill_Jul_12_1997_1515Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19970711",
@@ -902,10 +902,10 @@
   },
   {
     "id": "AL041997_Claudette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Claudette_1997-07-14_1545Z.png/1024px-Claudette_1997-07-14_1545Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19970713",
@@ -1279,10 +1279,10 @@
   },
   {
     "id": "AL051997_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Danny_1997-07-19_1445Z.png/800px-Danny_1997-07-19_1445Z.png",
+    "fatalities": 9,
+    "cost_usd": 100000000,
+    "retired": false,
     "data": [
       {
         "date": "19970716",
@@ -2368,11 +2368,11 @@
     ]
   },
   {
-    "id": "AL061997_Unnamed",
-    "image": "",
+    "id": "AL061997_Five",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Tropical_Depression_05L_Jul_7_1997_1815Z.jpg/1024px-Tropical_Depression_05L_Jul_7_1997_1815Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19970717",
@@ -2562,10 +2562,10 @@
   },
   {
     "id": "AL071997_Erika",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Hurricane_Erika_Sep_9_1997_1744Z.jpg/1024px-Hurricane_Erika_Sep_9_1997_1744Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 10000000,
+    "retired": false,
     "data": [
       {
         "date": "19970903",
@@ -4112,10 +4112,10 @@
   },
   {
     "id": "AL081997_Fabian",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tropical_Storm_Fabian_Oct_6_1997_1815Z.jpg/1024px-Tropical_Storm_Fabian_Oct_6_1997_1815Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19971004",
@@ -4512,10 +4512,10 @@
   },
   {
     "id": "AL091997_Grace",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Tropical_Storm_Grace_Oct_15_1997_1915Z.jpg/1024px-Tropical_Storm_Grace_Oct_15_1997_1915Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19971014",

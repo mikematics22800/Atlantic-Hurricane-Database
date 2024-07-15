@@ -4,7 +4,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710601",
@@ -496,7 +496,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710608",
@@ -804,7 +804,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710814",
@@ -1756,7 +1756,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710817",
@@ -3076,7 +3076,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710830",
@@ -3453,7 +3453,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710905",
@@ -3853,7 +3853,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18710930",
@@ -4621,7 +4621,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18711010",

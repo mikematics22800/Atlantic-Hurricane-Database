@@ -1,10 +1,10 @@
 [
   {
     "id": "AL011972_Alpha",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Subtropical_Storm_Alpha_%281972%29.jpg/800px-Subtropical_Storm_Alpha_%281972%29.jpg",
+    "fatalities": 2,
+    "cost_usd": 100000,
+    "retired": false,
     "data": [
       {
         "date": "19720523",
@@ -562,10 +562,10 @@
   },
   {
     "id": "AL021972_Agnes",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Agnes_1972-06-18_2108Z.jpg/800px-Agnes_1972-06-18_2108Z.jpg",
+    "fatalities": 128,
+    "cost_usd": 2100000000,
+    "retired": true,
     "data": [
       {
         "date": "19720614",
@@ -1375,11 +1375,11 @@
     ]
   },
   {
-    "id": "AL031972_Unnamed",
+    "id": "AL031972_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720619",
@@ -1568,11 +1568,11 @@
     ]
   },
   {
-    "id": "AL041972_Unnamed",
+    "id": "AL041972_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720710",
@@ -1807,11 +1807,11 @@
     ]
   },
   {
-    "id": "AL051972_Unnamed",
+    "id": "AL051972_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720716",
@@ -2230,11 +2230,11 @@
     ]
   },
   {
-    "id": "AL061972_Unnamed",
+    "id": "AL061972_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720731",
@@ -2538,11 +2538,11 @@
     ]
   },
   {
-    "id": "AL071972_Unnamed",
+    "id": "AL071972_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720805",
@@ -2777,11 +2777,11 @@
     ]
   },
   {
-    "id": "AL081972_Unnamed",
+    "id": "AL081972_Eight",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720812",
@@ -3085,11 +3085,11 @@
     ]
   },
   {
-    "id": "AL091972_Unnamed",
+    "id": "AL091972_Nine",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720816",
@@ -3302,10 +3302,10 @@
   },
   {
     "id": "AL101972_Betty",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/BettyAug271972.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720822",
@@ -4277,10 +4277,10 @@
   },
   {
     "id": "AL111972_Carrie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Carrie_1972.jpg",
+    "fatalities": 4,
+    "cost_usd": 1780000,
+    "retired": false,
     "data": [
       {
         "date": "19720829",
@@ -4952,11 +4952,11 @@
     ]
   },
   {
-    "id": "AL121972_Unnamed",
+    "id": "AL121972_Dawn",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720903",
@@ -5169,10 +5169,10 @@
   },
   {
     "id": "AL131972_Dawn",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Hurricane_Dawn_September_4%2C_1972.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720905",
@@ -6075,10 +6075,10 @@
   },
   {
     "id": "AL141972_Charlie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/CharlieSep191972.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720919",
@@ -6336,11 +6336,11 @@
     ]
   },
   {
-    "id": "AL151972_Unnamed",
+    "id": "AL151972_Fifteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19720920",
@@ -6736,11 +6736,11 @@
     ]
   },
   {
-    "id": "AL161972_Unnamed",
+    "id": "AL161972_Sixteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19721001",
@@ -6952,11 +6952,11 @@
     ]
   },
   {
-    "id": "AL171972_Unnamed",
+    "id": "AL171972_Seventeen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19721005",
@@ -7904,11 +7904,11 @@
     ]
   },
   {
-    "id": "AL181972_Unnamed",
+    "id": "AL181972_Eighteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19721016",
@@ -8305,10 +8305,10 @@
   },
   {
     "id": "AL191972_Delta",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/DeltaNov51972.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19721101",

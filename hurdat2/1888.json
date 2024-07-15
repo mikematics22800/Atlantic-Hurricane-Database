@@ -4,7 +4,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18880616",
@@ -289,7 +289,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18880704",
@@ -528,7 +528,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18880814",
@@ -1549,7 +1549,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18880831",
@@ -2340,7 +2340,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18880906",
@@ -2993,7 +2993,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18880923",
@@ -3416,7 +3416,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18881008",
@@ -3885,7 +3885,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18881101",
@@ -4607,7 +4607,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "18881117",

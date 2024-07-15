@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011973_Unnamed",
+    "id": "AL011973_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730418",
@@ -308,11 +308,11 @@
     ]
   },
   {
-    "id": "AL021973_Unnamed",
+    "id": "AL021973_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730502",
@@ -616,11 +616,11 @@
     ]
   },
   {
-    "id": "AL031973_Unnamed",
+    "id": "AL031973_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730624",
@@ -833,10 +833,10 @@
   },
   {
     "id": "AL041973_Alice",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Alice1973jul3ESSA8.png/1024px-Alice1973jul3ESSA8.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730701",
@@ -1347,11 +1347,11 @@
     ]
   },
   {
-    "id": "AL051973_Unnamed",
+    "id": "AL051973_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730719",
@@ -1564,10 +1564,10 @@
   },
   {
     "id": "AL061973_Alfa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/ST_Alfa_1973_Satellite.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730730",
@@ -1825,11 +1825,11 @@
     ]
   },
   {
-    "id": "AL071973_Unnamed",
+    "id": "AL071973_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730809",
@@ -2042,10 +2042,10 @@
   },
   {
     "id": "AL081973_Brenda",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Brenda_73.png",
+    "fatalities": 10,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730818",
@@ -2419,10 +2419,10 @@
   },
   {
     "id": "AL091973_Christine",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Christine_73_sat_pic.png",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730825",
@@ -3394,10 +3394,10 @@
   },
   {
     "id": "AL101973_Delia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/DeliaSep519731700UTC.png",
+    "fatalities": 5,
+    "cost_usd": 6000000,
+    "retired": false,
     "data": [
       {
         "date": "19730901",
@@ -3931,11 +3931,11 @@
     ]
   },
   {
-    "id": "AL111973_Unnamed",
-    "image": "",
+    "id": "AL111973_Eleven",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sep111973TD.gif",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730906",
@@ -4516,10 +4516,10 @@
   },
   {
     "id": "AL121973_Ellen",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Ellen_1973_from_Skylab_3.jpg/1024px-Ellen_1973_from_Skylab_3.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730914",
@@ -5375,11 +5375,11 @@
     ]
   },
   {
-    "id": "AL131973_Unnamed",
-    "image": "",
+    "id": "AL131973_Thirteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/1973_SAT_NA_TD13.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19730924",
@@ -5592,10 +5592,10 @@
   },
   {
     "id": "AL141973_Fran",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Hurricane_Fran_1973_Satellite.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19731008",
@@ -6060,11 +6060,11 @@
     ]
   },
   {
-    "id": "AL151973_Unnamed",
+    "id": "AL151973_Fifteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19731010",
@@ -6277,10 +6277,10 @@
   },
   {
     "id": "AL161973_Gilda",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Gilda_73.JPG",
+    "fatalities": 6,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19731016",
@@ -7573,11 +7573,11 @@
     ]
   },
   {
-    "id": "AL171973_Unnamed",
+    "id": "AL171973_Seventeen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19731117",

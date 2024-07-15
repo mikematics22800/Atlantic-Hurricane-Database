@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011987_Unnamed",
-    "image": "",
+    "id": "AL011987_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/1987-05-26-2001UTC-01L.jpg/1024px-1987-05-26-2001UTC-01L.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870524",
@@ -722,11 +722,11 @@
     ]
   },
   {
-    "id": "AL031987_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL031987_Two",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/02L_1987-08-10_1400Z.png/1024px-02L_1987-08-10_1400Z.png",
+    "fatalities": 1,
+    "cost_usd": 7400000,
+    "retired": false,
     "data": [
       {
         "date": "19870809",
@@ -1468,10 +1468,10 @@
   },
   {
     "id": "AL021987_Arlene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Arlene_1987-08-22_1731Z.png/1024px-Arlene_1987-08-22_1731Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870808",
@@ -3339,11 +3339,11 @@
     ]
   },
   {
-    "id": "AL041987_Unnamed",
-    "image": "",
+    "id": "AL041987_Four",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/TD_4L_14_aug_1987_1900Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870813",
@@ -3602,10 +3602,10 @@
   },
   {
     "id": "AL051987_Bret",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Bret_1987-08-20_1430Z.png/1024px-Bret_1987-08-20_1430Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870818",
@@ -4208,11 +4208,11 @@
     ]
   },
   {
-    "id": "AL061987_Unnamed",
-    "image": "",
+    "id": "AL061987_Six",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/06L_1987-08-31_1736Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870830",
@@ -4540,10 +4540,10 @@
   },
   {
     "id": "AL071987_Cindy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Cindy_1987-09-08_1230Z.png/1024px-Cindy_1987-09-08_1230Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870905",
@@ -5054,11 +5054,11 @@
     ]
   },
   {
-    "id": "AL081987_Unnamed",
-    "image": "",
+    "id": "AL081987_Eight",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/08L_1987-09-06_1956Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870906",
@@ -5339,11 +5339,11 @@
     ]
   },
   {
-    "id": "AL091987_Unnamed",
-    "image": "",
+    "id": "AL091987_Nine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/09L_1987-09-07_1950Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870907",
@@ -5510,10 +5510,10 @@
   },
   {
     "id": "AL101987_Dennis",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Dennis_1987-09-11_1719Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870908",
@@ -6645,11 +6645,11 @@
     ]
   },
   {
-    "id": "AL111987_Unnamed",
-    "image": "",
+    "id": "AL111987_Eleven",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/11L_1987-09-14_1829Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19870913",
@@ -7046,10 +7046,10 @@
   },
   {
     "id": "AL121987_Emily",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Emily_1987-09-22_1900Z.jpg/1024px-Emily_1987-09-22_1900Z.jpg",
+    "fatalities": 3,
+    "cost_usd": 80300000,
+    "retired": false,
     "data": [
       {
         "date": "19870920",
@@ -7745,10 +7745,10 @@
   },
   {
     "id": "AL131987_Floyd",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Floyd_1987-10-12_1500Z.jpg/1024px-Floyd_1987-10-12_1500Z.jpg",
+    "fatalities": 1,
+    "cost_usd": 500000,
+    "retired": false,
     "data": [
       {
         "date": "19871009",
@@ -8236,11 +8236,11 @@
     ]
   },
   {
-    "id": "AL141987_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL141987_Fourteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/TD_14L_31_oct_1987_2008Z.jpg",
+    "fatalities": 6,
+    "cost_usd": 1800000,
+    "retired": false,
     "data": [
       {
         "date": "19871031",

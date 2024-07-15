@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011984_Unnamed",
-    "image": "",
+    "id": "AL011984_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/1-L_Jun_13_1984_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840611",
@@ -262,11 +262,11 @@
     ]
   },
   {
-    "id": "AL021984_Unnamed",
-    "image": "",
+    "id": "AL021984_Two",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/02L_Jun_19_1984_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840618",
@@ -455,11 +455,11 @@
     ]
   },
   {
-    "id": "AL031984_Unnamed",
-    "image": "",
+    "id": "AL031984_Three",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/3-L_Jul_25_1984_1950Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840724",
@@ -717,11 +717,11 @@
     ]
   },
   {
-    "id": "AL041984_Unnamed",
+    "id": "AL041984_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840806",
@@ -956,11 +956,11 @@
     ]
   },
   {
-    "id": "AL051984_Unnamed",
-    "image": "",
+    "id": "AL051984_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/05L_1984-08-19_1400Z.png/1024px-05L_1984-08-19_1400Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840818",
@@ -1288,10 +1288,10 @@
   },
   {
     "id": "AL061984_Arthur",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Arthur_1984-08-29_1830Z.png/800px-Arthur_1984-08-29_1830Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840828",
@@ -2056,10 +2056,10 @@
   },
   {
     "id": "AL071984_Bertha",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Bertha_1984-09-02_1800Z.png/800px-Bertha_1984-09-02_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840830",
@@ -2571,10 +2571,10 @@
   },
   {
     "id": "AL081984_Cesar",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Cesar_1984-09-01_2000Z.png/800px-Cesar_1984-09-01_2000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840831",
@@ -2855,11 +2855,11 @@
     ]
   },
   {
-    "id": "AL091984_Unnamed",
-    "image": "",
+    "id": "AL091984_Nine",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/TD7_06_sept_1984_1800Z.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840906",
@@ -3049,10 +3049,10 @@
   },
   {
     "id": "AL101984_Diana",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Diana_1984-09-11_2200Z.png/800px-Diana_1984-09-11_2200Z.png",
+    "fatalities": 3,
+    "cost_usd": 65500000,
+    "retired": false,
     "data": [
       {
         "date": "19840908",
@@ -3817,10 +3817,10 @@
   },
   {
     "id": "AL111984_Edouard",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Edouard_1984-09-14_1600Z.png/800px-Edouard_1984-09-14_1600Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840914",
@@ -3987,10 +3987,10 @@
   },
   {
     "id": "AL121984_Fran",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Fran_1984-09-18_1230Z.png/800px-Fran_1984-09-18_1230Z.png",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 2800000,
+    "retired": false,
     "data": [
       {
         "date": "19840915",
@@ -4479,10 +4479,10 @@
   },
   {
     "id": "AL131984_Gustav",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gustav_1984-09-18_1500Z.png/800px-Gustav_1984-09-18_1500Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840916",
@@ -4741,10 +4741,10 @@
   },
   {
     "id": "AL141984_Hortense",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Hortense_1984-09-25_1830Z.png/800px-Hortense_1984-09-25_1830Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19840923",
@@ -5670,10 +5670,10 @@
   },
   {
     "id": "AL151984_Isidore",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Isidore_1984-09-27_2000Z.png/800px-Isidore_1984-09-27_2000Z.png",
+    "fatalities": 1,
+    "cost_usd": 1000000,
+    "retired": false,
     "data": [
       {
         "date": "19840925",
@@ -6254,10 +6254,10 @@
   },
   {
     "id": "AL161984_Josephine",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Josephine_1984-10-11_1230Z.png/800px-Josephine_1984-10-11_1230Z.png",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19841007",
@@ -7550,11 +7550,11 @@
     ]
   },
   {
-    "id": "AL171984_Unnamed",
-    "image": "",
+    "id": "AL171984_Seventeen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/TD_27_oct_1984_2100Z.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19841025",
@@ -7836,10 +7836,10 @@
   },
   {
     "id": "AL181984_Klaus",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Klaus_1984-11-09_1500Z.png/1024px-Klaus_1984-11-09_1500Z.png",
+    "fatalities": 2,
+    "cost_usd": 152000000,
+    "retired": false,
     "data": [
       {
         "date": "19841105",
@@ -8603,11 +8603,11 @@
     ]
   },
   {
-    "id": "AL191984_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL191984_Nineteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/11-23-1984-TD19L.png/1024px-11-23-1984-TD19L.png",
+    "fatalities": 1,
+    "cost_usd": 7400000,
+    "retired": false,
     "data": [
       {
         "date": "19841123",
@@ -9073,10 +9073,10 @@
   },
   {
     "id": "AL201984_Lili",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lili_1984-12-20_1800Z.png/800px-Lili_1984-12-20_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19841212",

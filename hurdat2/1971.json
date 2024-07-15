@@ -1,10 +1,10 @@
 [
   {
     "id": "AL011971_Arlene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/ArleneJuly51971.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710704",
@@ -354,11 +354,11 @@
     ]
   },
   {
-    "id": "AL021971_Unnamed",
+    "id": "AL021971_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710707",
@@ -478,11 +478,11 @@
     ]
   },
   {
-    "id": "AL031971_Unnamed",
+    "id": "AL031971_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710710",
@@ -602,11 +602,11 @@
     ]
   },
   {
-    "id": "AL041971_Unnamed",
+    "id": "AL041971_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710803",
@@ -1002,11 +1002,11 @@
     ]
   },
   {
-    "id": "AL051971_Unnamed",
+    "id": "AL051971_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710806",
@@ -1311,10 +1311,10 @@
   },
   {
     "id": "AL061971_Beth",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/BethAug1519711727UTCESSA9.gif",
+    "fatalities": 1,
+    "cost_usd": 5100000,
+    "retired": false,
     "data": [
       {
         "date": "19710810",
@@ -1986,11 +1986,11 @@
     ]
   },
   {
-    "id": "AL071971_Unnamed",
+    "id": "AL071971_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710812",
@@ -2387,10 +2387,10 @@
   },
   {
     "id": "AL081971_Chloe",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/ChloeAugust2119711919UTCESSA9.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710818",
@@ -3063,10 +3063,10 @@
   },
   {
     "id": "AL091971_Doria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/DoriaAugust2619711832UTCESSA9.png",
+    "fatalities": 7,
+    "cost_usd": 148000000,
+    "retired": false,
     "data": [
       {
         "date": "19710820",
@@ -3899,11 +3899,11 @@
     ]
   },
   {
-    "id": "AL101971_Unnamed",
+    "id": "AL101971_Ten",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710828",
@@ -4300,10 +4300,10 @@
   },
   {
     "id": "AL111971_Fern",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/Fern09-1971.JPG",
+    "fatalities": 2,
+    "cost_usd": 30200000,
+    "retired": false,
     "data": [
       {
         "date": "19710903",
@@ -5205,11 +5205,11 @@
     ]
   },
   {
-    "id": "AL121971_Unnamed",
+    "id": "AL121971_Twelve",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710903",
@@ -5721,10 +5721,10 @@
   },
   {
     "id": "AL131971_Edith",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Edith1971sep91339z.png",
+    "fatalities": 37,
+    "cost_usd": 25400000,
+    "retired": false,
     "data": [
       {
         "date": "19710905",
@@ -6903,10 +6903,10 @@
   },
   {
     "id": "AL141971_Ginger",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/90/Ginger1971sep131221z.gif",
+    "fatalities": 1,
+    "cost_usd": 10000000,
+    "retired": false,
     "data": [
       {
         "date": "19710906",
@@ -9625,11 +9625,11 @@
     ]
   },
   {
-    "id": "AL151971_Unnamed",
+    "id": "AL151971_Fifteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710908",
@@ -9933,11 +9933,11 @@
     ]
   },
   {
-    "id": "AL161971_Unnamed",
+    "id": "AL161971_Sixteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710910",
@@ -10334,10 +10334,10 @@
   },
   {
     "id": "AL171971_Heidi",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Heidi1971sep131811z.gif",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710911",
@@ -10734,10 +10734,10 @@
   },
   {
     "id": "AL181971_Irene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/OliviaSep2519712053UTCESSA9.gif",
+    "fatalities": 3,
+    "cost_usd": 1000000,
+    "retired": false,
     "data": [
       {
         "date": "19710911",
@@ -11594,10 +11594,10 @@
   },
   {
     "id": "AL191971_Janice",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Janice_71.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19710921",
@@ -11947,11 +11947,11 @@
     ]
   },
   {
-    "id": "AL201971_Unnamed",
+    "id": "AL201971_Twenty",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19711006",
@@ -12716,10 +12716,10 @@
   },
   {
     "id": "AL211971_Kristy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Kristy_71.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19711018",
@@ -13093,10 +13093,10 @@
   },
   {
     "id": "AL221971_Laura",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tropical_Storm_Laura_1971.jpg/1024px-Tropical_Storm_Laura_1971.jpg",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19711112",

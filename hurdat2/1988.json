@@ -1,10 +1,10 @@
 [
   {
     "id": "AL011988_Alberto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Alberto_1988-08-07_1430Z.png/1024px-Alberto_1988-08-07_1430Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880805",
@@ -309,10 +309,10 @@
   },
   {
     "id": "AL021988_Beryl",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Beryl_1988-08-09_1630Z.png/1024px-Beryl_1988-08-09_1630Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880808",
@@ -594,10 +594,10 @@
   },
   {
     "id": "AL031988_Chris",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Chris_1988-08-28_1331Z.png/1024px-Chris_1988-08-28_1331Z.png",
+    "fatalities": 6,
+    "cost_usd": 2200000,
+    "retired": false,
     "data": [
       {
         "date": "19880821",
@@ -1500,10 +1500,10 @@
   },
   {
     "id": "AL041988_Debby",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Debby_1988-09-02_1846Z.png/1024px-Debby_1988-09-02_1846Z.png",
+    "fatalities": 20,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880831",
@@ -2268,10 +2268,10 @@
   },
   {
     "id": "AL051988_Ernesto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Ernesto_1988-09-04_1600Z.png/1024px-Ernesto_1988-09-04_1600Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880903",
@@ -2483,11 +2483,11 @@
     ]
   },
   {
-    "id": "AL061988_Unnamed",
-    "image": "",
-    "fatalities": 0,
+    "id": "AL061988_Six",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/TD1_30_may_1988_1251Z.jpg",
+    "fatalities": 37,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880907",
@@ -2792,10 +2792,10 @@
   },
   {
     "id": "AL071988_Florence",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Florence_1988-09-09_1801Z.png/1024px-Florence_1988-09-09_1801Z.png",
+    "fatalities": 1,
+    "cost_usd": 2900000,
+    "retired": false,
     "data": [
       {
         "date": "19880907",
@@ -3261,10 +3261,10 @@
   },
   {
     "id": "AL081988_Gilbert",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Gilbert_1988-09-13_2200Z.png/800px-Gilbert_1988-09-13_2200Z.png",
+    "fatalities": 318,
+    "cost_usd": 2980000000,
+    "retired": true,
     "data": [
       {
         "date": "19880908",
@@ -4397,10 +4397,10 @@
   },
   {
     "id": "AL091988_Helene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Helene_1988-09-23_1230Z.png/800px-Helene_1988-09-23_1230Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880919",
@@ -5418,10 +5418,10 @@
   },
   {
     "id": "AL101988_Isaac",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Isaac_1988-09-29_1600Z.png/800px-Isaac_1988-09-29_1600Z.png",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880928",
@@ -5703,10 +5703,10 @@
   },
   {
     "id": "AL111988_Joan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Joan_1988-10-21_1930Z.png/800px-Joan_1988-10-21_1930Z.png",
+    "fatalities": 334,
+    "cost_usd": 2000000000,
+    "retired": true,
     "data": [
       {
         "date": "19881010",
@@ -6931,10 +6931,10 @@
   },
   {
     "id": "AL121988_Keith",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Keith_1988-11-21_1830Z.png/800px-Keith_1988-11-21_1830Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19881117",
@@ -7836,11 +7836,11 @@
     ]
   },
   {
-    "id": "AL131988_Unnamed",
-    "image": "",
-    "fatalities": 0,
+    "id": "AL131988_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/01L_1988-05-30_1830Z.png/1024px-01L_1988-05-30_1830Z.png",
+    "fatalities": 37,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880531",
@@ -8052,11 +8052,11 @@
     ]
   },
   {
-    "id": "AL141988_Unnamed",
-    "image": "",
+    "id": "AL141988_Four",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/04L_1988-08-13_1630Z.png/1024px-04L_1988-08-13_1630Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880813",
@@ -8222,11 +8222,11 @@
     ]
   },
   {
-    "id": "AL151988_Unnamed",
-    "image": "",
+    "id": "AL151988_Five",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/05L_1988-08-21_1430Z.png/1024px-05L_1988-08-21_1430Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880820",
@@ -9266,11 +9266,11 @@
     ]
   },
   {
-    "id": "AL161988_Unnamed",
-    "image": "",
+    "id": "AL161988_Six",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/06L_1988-08-21_1400Z.png/1024px-06L_1988-08-21_1400Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880820",
@@ -9643,11 +9643,11 @@
     ]
   },
   {
-    "id": "AL171988_Unnamed",
-    "image": "",
+    "id": "AL171988_Ten",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/10L_1988-09-03_1630Z.png/1024px-10L_1988-09-03_1630Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880904",
@@ -9698,11 +9698,11 @@
     ]
   },
   {
-    "id": "AL181988_Unnamed",
-    "image": "",
+    "id": "AL181988_Fifteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/15L_1988-09-27_1400Z.png/1024px-15L_1988-09-27_1400Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19880927",
@@ -9845,11 +9845,11 @@
     ]
   },
   {
-    "id": "AL191988_Unnamed",
-    "image": "",
+    "id": "AL191988_Eighteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/18L_1988-10-20_1400Z.png/1024px-18L_1988-10-20_1400Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19881019",

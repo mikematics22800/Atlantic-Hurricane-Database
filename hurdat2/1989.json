@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011989_Unnamed",
-    "image": "",
+    "id": "AL011989_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/01L_1989-06-16_1600Z.png/1024px-01L_1989-06-16_1600Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890615",
@@ -171,10 +171,10 @@
   },
   {
     "id": "AL021989_Allison",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Allison_1989-06-26_1800Z.png/1024px-Allison_1989-06-26_1800Z.png",
+    "fatalities": 11,
+    "cost_usd": 560000000,
+    "retired": false,
     "data": [
       {
         "date": "19890624",
@@ -847,10 +847,10 @@
   },
   {
     "id": "AL031989_Barry",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Barry_1989-07-12_1430Z.png/1024px-Barry_1989-07-12_1430Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890709",
@@ -1270,10 +1270,10 @@
   },
   {
     "id": "AL041989_Chantal",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Chantal_1989-07-31_2200Z.png/800px-Chantal_1989-07-31_2200Z.png",
+    "fatalities": 13,
+    "cost_usd": 100000000,
+    "retired": false,
     "data": [
       {
         "date": "19890730",
@@ -1647,10 +1647,10 @@
   },
   {
     "id": "AL051989_Dean",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Dean_1989-08-06_1600Z.png/1024px-Dean_1989-08-06_1600Z.png",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 8900000,
+    "retired": false,
     "data": [
       {
         "date": "19890731",
@@ -2529,11 +2529,11 @@
     ]
   },
   {
-    "id": "AL061989_Unnamed",
-    "image": "",
+    "id": "AL061989_Six",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/08-16-1989-1501z-TD06L.png/800px-08-16-1989-1501z-TD06L.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890808",
@@ -3367,10 +3367,10 @@
   },
   {
     "id": "AL071989_Erin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Erin_1989-08-24_1501Z.png/1024px-Erin_1989-08-24_1501Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890818",
@@ -4227,10 +4227,10 @@
   },
   {
     "id": "AL081989_Felix",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Felix_1989-09-05_1801Z.jpg/1024px-Felix_1989-09-05_1801Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890826",
@@ -5684,11 +5684,11 @@
     ]
   },
   {
-    "id": "AL091989_Unnamed",
+    "id": "AL091989_Nine",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890827",
@@ -5832,10 +5832,10 @@
   },
   {
     "id": "AL101989_Gabrielle",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Gabrielle_1989-09-06_2000Z.png/800px-Gabrielle_1989-09-06_2000Z.png",
+    "fatalities": 9,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890830",
@@ -7175,10 +7175,10 @@
   },
   {
     "id": "AL111989_Hugo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Hugo_1989-09-15_2000Z.png/800px-Hugo_1989-09-15_2000Z.png",
+    "fatalities": 67,
+    "cost_usd": 11000000000,
+    "retired": true,
     "data": [
       {
         "date": "19890910",
@@ -8656,10 +8656,10 @@
   },
   {
     "id": "AL121989_Iris",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Iris_1989-09-19_1645Z.png/1024px-Iris_1989-09-19_1645Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19890916",
@@ -9147,11 +9147,11 @@
     ]
   },
   {
-    "id": "AL131989_Unnamed",
+    "id": "AL131989_Thirteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19891002",
@@ -9505,7 +9505,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19891012",
@@ -9974,7 +9974,7 @@
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19891128",

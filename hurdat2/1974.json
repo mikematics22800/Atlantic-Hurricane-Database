@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011974_Unnamed",
-    "image": "",
+    "id": "AL011974_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Subtropical_Storm_One_%281974%29.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740622",
@@ -400,11 +400,11 @@
     ]
   },
   {
-    "id": "AL021974_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "id": "AL021974_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Subtropical_Storm_One_on_June_24%2C_1974_at_0800z.png",
+    "fatalities": 3,
+    "cost_usd": 10000000,
+    "retired": false,
     "data": [
       {
         "date": "19740624",
@@ -547,11 +547,11 @@
     ]
   },
   {
-    "id": "AL031974_Unnamed",
+    "id": "AL031974_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740630",
@@ -763,11 +763,11 @@
     ]
   },
   {
-    "id": "AL041974_Unnamed",
+    "id": "AL041974_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740713",
@@ -1186,11 +1186,11 @@
     ]
   },
   {
-    "id": "AL051974_Unnamed",
-    "image": "",
+    "id": "AL051974_Two",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/SS_Two_1974-07-18_1755Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740716",
@@ -1632,11 +1632,11 @@
     ]
   },
   {
-    "id": "AL061974_Unnamed",
-    "image": "",
+    "id": "AL061974_Three",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c8/SS_Three_1974-08-13_1900Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740810",
@@ -2079,10 +2079,10 @@
   },
   {
     "id": "AL071974_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Alma_1974-08-13_1900Z.jpg",
+    "fatalities": 51,
+    "cost_usd": 5000000,
+    "retired": false,
     "data": [
       {
         "date": "19740812",
@@ -2386,11 +2386,11 @@
     ]
   },
   {
-    "id": "AL081974_Unnamed",
+    "id": "AL081974_Eight",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740824",
@@ -2603,10 +2603,10 @@
   },
   {
     "id": "AL091974_Becky",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Becky_1974-08-31_1900Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740826",
@@ -3256,10 +3256,10 @@
   },
   {
     "id": "AL101974_Carmen",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hurricane_Carmen_1974_satellite.jpg",
+    "fatalities": 8,
+    "cost_usd": 162000000,
+    "retired": true,
     "data": [
       {
         "date": "19740829",
@@ -4391,11 +4391,11 @@
     ]
   },
   {
-    "id": "AL111974_Unnamed",
+    "id": "AL111974_Eleven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740902",
@@ -5252,10 +5252,10 @@
   },
   {
     "id": "AL121974_Dolly",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Dolly_1974-09-04_1530Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740902",
@@ -5537,10 +5537,10 @@
   },
   {
     "id": "AL131974_Elaine",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Elaine_1974-09-10_1330Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740904",
@@ -6420,10 +6420,10 @@
   },
   {
     "id": "AL141974_Fifi",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Hurricane_Fifi.JPG/1024px-Hurricane_Fifi.JPG",
+    "fatalities": 8210,
+    "cost_usd": 1800000000,
+    "retired": true,
     "data": [
       {
         "date": "19740914",
@@ -7187,11 +7187,11 @@
     ]
   },
   {
-    "id": "AL151974_Unnamed",
+    "id": "AL151974_Fifteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740918",
@@ -7426,11 +7426,11 @@
     ]
   },
   {
-    "id": "AL161974_Unnamed",
+    "id": "AL161974_Sixteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740923",
@@ -7827,10 +7827,10 @@
   },
   {
     "id": "AL171974_Gertrude",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Gertrude_1974-09-29_1530Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19740927",
@@ -8456,11 +8456,11 @@
     ]
   },
   {
-    "id": "AL181974_Unnamed",
+    "id": "AL181974_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19741004",
@@ -8948,11 +8948,11 @@
     ]
   },
   {
-    "id": "AL191974_Unnamed",
+    "id": "AL191974_Ninteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19741030",
@@ -9256,11 +9256,11 @@
     ]
   },
   {
-    "id": "AL201974_Unnamed",
+    "id": "AL201974_Twenty",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19741110",

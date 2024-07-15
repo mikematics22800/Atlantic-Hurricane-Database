@@ -1,10 +1,10 @@
 [
   {
     "id": "AL011985_Ana",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Ana_1985-07-18_1830Z.png/1024px-Ana_1985-07-18_1830Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19850715",
@@ -378,10 +378,10 @@
   },
   {
     "id": "AL021985_Bob",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Bob_1985-07-24_1801Z.png/1024px-Bob_1985-07-24_1801Z.png",
+    "fatalities": 5,
+    "cost_usd": 20000000,
+    "retired": false,
     "data": [
       {
         "date": "19850721",
@@ -870,10 +870,10 @@
   },
   {
     "id": "AL031985_Claudette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Claudette_1985-08-15_1400Z.png/1024px-Claudette_1985-08-15_1400Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19850809",
@@ -1569,10 +1569,10 @@
   },
   {
     "id": "AL041985_Danny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Danny_1985-08-15_1430Z.png/1024px-Danny_1985-08-15_1430Z.png",
+    "fatalities": 5,
+    "cost_usd": 100000000,
+    "retired": false,
     "data": [
       {
         "date": "19850812",
@@ -2429,10 +2429,10 @@
   },
   {
     "id": "AL051985_Elena",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Elena_1985-09-01_1800Z.png/800px-Elena_1985-09-01_1800Z.png",
+    "fatalities": 9,
+    "cost_usd": 1300000000,
+    "retired": true,
     "data": [
       {
         "date": "19850828",
@@ -3196,11 +3196,11 @@
     ]
   },
   {
-    "id": "AL061985_Unnamed",
+    "id": "AL061985_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19850908",
@@ -3688,11 +3688,11 @@
     ]
   },
   {
-    "id": "AL071985_Unnamed",
+    "id": "AL071985_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19850911",
@@ -3928,10 +3928,10 @@
   },
   {
     "id": "AL081985_Fabian",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Fabian_1985-09-17_1200Z.png/800px-Fabian_1985-09-17_1200Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19850915",
@@ -4305,10 +4305,10 @@
   },
   {
     "id": "AL091985_Gloria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Gloria_1985-09-24_2130Z.png/800px-Gloria_1985-09-24_2130Z.png",
+    "fatalities": 14,
+    "cost_usd": 900000000,
+    "retired": true,
     "data": [
       {
         "date": "19850916",
@@ -5809,10 +5809,10 @@
   },
   {
     "id": "AL101985_Henri",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Henri_1985-09-23_1601Z.png/1024px-Henri_1985-09-23_1601Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19850921",
@@ -6163,10 +6163,10 @@
   },
   {
     "id": "AL111985_Isabel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Isabel_1985-10-08_1930Z.png/800px-Isabel_1985-10-08_1930Z.png",
+    "fatalities": 180,
+    "cost_usd": 125000000,
+    "retired": false,
     "data": [
       {
         "date": "19851007",
@@ -7000,10 +7000,10 @@
   },
   {
     "id": "AL121985_Juan",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Juan_1985-10-28_2030Z.png/800px-Juan_1985-10-28_2030Z.png",
+    "fatalities": 12,
+    "cost_usd": 1500000000,
+    "retired": false,
     "data": [
       {
         "date": "19851026",
@@ -7676,10 +7676,10 @@
   },
   {
     "id": "AL131985_Kate",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Kate_1985-11-20_1400Z.png/800px-Kate_1985-11-20_1400Z.png",
+    "fatalities": 15,
+    "cost_usd": 700000000,
+    "retired": false,
     "data": [
       {
         "date": "19851115",
@@ -8466,11 +8466,11 @@
     ]
   },
   {
-    "id": "AL141985_Unnamed",
-    "image": "",
+    "id": "AL141985_Thirteen",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/TD13_07_dec_1985_1159Z.JPG",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19851207",

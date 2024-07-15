@@ -1,10 +1,10 @@
 [
   {
     "id": "AL011986_Andrew",
-    "image": "",
+    "image": "https://en.wikipedia.org/wiki/1986_Atlantic_hurricane_season#/media/File:Andrew_1986-06-06_1945Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19860605",
@@ -378,10 +378,10 @@
   },
   {
     "id": "AL021986_Bonnie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Bonnie_1986-06-25_2100Z.png/800px-Bonnie_1986-06-25_2100Z.png",
+    "fatalities": 5,
+    "cost_usd": 42000000,
+    "retired": false,
     "data": [
       {
         "date": "19860623",
@@ -869,11 +869,11 @@
     ]
   },
   {
-    "id": "AL031986_Unnamed",
-    "image": "",
+    "id": "AL031986_Three",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Td031986july2521z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19860723",
@@ -1361,11 +1361,11 @@
     ]
   },
   {
-    "id": "AL041986_Unnamed",
-    "image": "",
+    "id": "AL041986_Four",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/86/TD1986aug0421z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19860804",
@@ -1532,10 +1532,10 @@
   },
   {
     "id": "AL051986_Charley",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Charley_1986-08-17_1900Z.png/800px-Charley_1986-08-17_1900Z.png",
+    "fatalities": 15,
+    "cost_usd": 15000000,
+    "retired": false,
     "data": [
       {
         "date": "19860813",
@@ -3104,11 +3104,11 @@
     ]
   },
   {
-    "id": "AL061986_Unnamed",
-    "image": "",
+    "id": "AL061986_Six",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Td051986sep0115z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19860830",
@@ -3596,11 +3596,11 @@
     ]
   },
   {
-    "id": "AL071986_Unnamed",
-    "image": "",
+    "id": "AL071986_Seven",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Td061986sep0318z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19860901",
@@ -3905,10 +3905,10 @@
   },
   {
     "id": "AL081986_Danielle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Danielle_1986-09-08_1430Z.png/1024px-Danielle_1986-09-08_1430Z.png",
     "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "cost_usd": 10500000,
+    "retired": false,
     "data": [
       {
         "date": "19860907",
@@ -4236,10 +4236,10 @@
   },
   {
     "id": "AL091986_Earl",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Earl_1986-09-14_1431Z.png/1024px-Earl_1986-09-14_1431Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19860910",
@@ -5119,10 +5119,10 @@
   },
   {
     "id": "AL101986_Frances",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Frances_1986-11-20_1818Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19861118",

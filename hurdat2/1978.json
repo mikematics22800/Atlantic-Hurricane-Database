@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011978_Unnamed",
-    "image": "",
+    "id": "AL011978_One",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/SS_One_1978-01-21_1230Z.jpg/1024px-SS_One_1978-01-21_1230Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780118",
@@ -446,11 +446,11 @@
     ]
   },
   {
-    "id": "AL021978_Unnamed",
+    "id": "AL021978_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780621",
@@ -593,11 +593,11 @@
     ]
   },
   {
-    "id": "AL031978_Unnamed",
+    "id": "AL031978_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780710",
@@ -810,10 +810,10 @@
   },
   {
     "id": "AL041978_Amelia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/AmeliaJuly301978afternoon.gif/1024px-AmeliaJuly301978afternoon.gif",
+    "fatalities": 33,
+    "cost_usd": 110000000,
+    "retired": false,
     "data": [
       {
         "date": "19780730",
@@ -957,10 +957,10 @@
   },
   {
     "id": "AL051978_Bess",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Bess_1978-08-06_1733Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780805",
@@ -1265,10 +1265,10 @@
   },
   {
     "id": "AL061978_Cora",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Cora_1978-08-08_1600Z.jpg/1024px-Cora_1978-08-08_1600Z.jpg",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780807",
@@ -1710,11 +1710,11 @@
     ]
   },
   {
-    "id": "AL071978_Unnamed",
+    "id": "AL071978_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780807",
@@ -2133,11 +2133,11 @@
     ]
   },
   {
-    "id": "AL081978_Unnamed",
+    "id": "AL081978_Eight",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780809",
@@ -2281,10 +2281,10 @@
   },
   {
     "id": "AL091978_Debra",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Debra_1978-08-28_2101Z.jpg/1024px-Debra_1978-08-28_2101Z.jpg",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780826",
@@ -2612,10 +2612,10 @@
   },
   {
     "id": "AL101978_Ella",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Ella_1978-09-01_1800Z.png/1024px-Ella_1978-09-01_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780830",
@@ -3241,11 +3241,11 @@
     ]
   },
   {
-    "id": "AL111978_Unnamed",
+    "id": "AL111978_Eleven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780830",
@@ -3457,11 +3457,11 @@
     ]
   },
   {
-    "id": "AL121978_Unnamed",
+    "id": "AL121978_Twelve",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780903",
@@ -4226,10 +4226,10 @@
   },
   {
     "id": "AL131978_Flossie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Flossie_1978-09-13_1230Z.png/800px-Flossie_1978-09-13_1230Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780904",
@@ -5384,11 +5384,11 @@
     ]
   },
   {
-    "id": "AL141978_Unnamed",
+    "id": "AL141978_Fourteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780908",
@@ -5624,10 +5624,10 @@
   },
   {
     "id": "AL151978_Hope",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Hope_1978-09-18_1400Z.png/800px-Hope_1978-09-18_1400Z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780912",
@@ -6530,10 +6530,10 @@
   },
   {
     "id": "AL161978_Greta",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Greta_1978-09-17_1800Z.png/1024px-Greta_1978-09-17_1800Z.png",
+    "fatalities": 5,
+    "cost_usd": 26000000,
+    "retired": true,
     "data": [
       {
         "date": "19780913",
@@ -7136,11 +7136,11 @@
     ]
   },
   {
-    "id": "AL171978_Unnamed",
+    "id": "AL171978_Seventeen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780918",
@@ -8180,11 +8180,11 @@
     ]
   },
   {
-    "id": "AL181978_Unnamed",
+    "id": "AL181978_Eighteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19780921",
@@ -8397,10 +8397,10 @@
   },
   {
     "id": "AL191978_Irma",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Irma_4_October_1978.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19781002",
@@ -8728,10 +8728,10 @@
   },
   {
     "id": "AL201978_Juliet",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Juliet_1978-10-09_1333Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19781007",
@@ -9104,11 +9104,11 @@
     ]
   },
   {
-    "id": "AL211978_Unnamed",
+    "id": "AL211978_Twenty-one",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19781013",
@@ -9527,11 +9527,11 @@
     ]
   },
   {
-    "id": "AL221978_Unnamed",
+    "id": "AL221978_Twenty-two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19781026",
@@ -9836,10 +9836,10 @@
   },
   {
     "id": "AL231978_Kendra",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Kendra_1978-10-30_1231Z.jpg/1024px-Kendra_1978-10-30_1231Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19781028",
@@ -10396,11 +10396,11 @@
     ]
   },
   {
-    "id": "AL241978_Unnamed",
+    "id": "AL241978_Twenty-four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19781103",

@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011975_Unnamed",
+    "id": "AL011975_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750624",
@@ -493,10 +493,10 @@
   },
   {
     "id": "AL021975_Amy",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Tropical_Storm_Amy_of_1975.JPG",
+    "fatalities": 1,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750627",
@@ -1214,11 +1214,11 @@
     ]
   },
   {
-    "id": "AL031975_Unnamed",
+    "id": "AL031975_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750704",
@@ -1339,10 +1339,10 @@
   },
   {
     "id": "AL041975_Blanche",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Blanche1975.png/800px-Blanche1975.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750724",
@@ -1807,11 +1807,11 @@
     ]
   },
   {
-    "id": "AL051975_Unnamed",
+    "id": "AL051975_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750725",
@@ -1977,11 +1977,11 @@
     ]
   },
   {
-    "id": "AL061975_Unnamed",
+    "id": "AL061975_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750728",
@@ -2194,10 +2194,10 @@
   },
   {
     "id": "AL071975_Caroline",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Caroline_1975-08-30.jpg/1024px-Caroline_1975-08-30.jpg",
+    "fatalities": 2,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750824",
@@ -2962,10 +2962,10 @@
   },
   {
     "id": "AL081975_Doris",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Doris1975sep30030z.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750828",
@@ -3637,11 +3637,11 @@
     ]
   },
   {
-    "id": "AL091975_Unnamed",
+    "id": "AL091975_Nine",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750903",
@@ -4198,11 +4198,11 @@
     ]
   },
   {
-    "id": "AL101975_Unnamed",
+    "id": "AL101975_Ten",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750903",
@@ -4506,11 +4506,11 @@
     ]
   },
   {
-    "id": "AL111975_Unnamed",
+    "id": "AL111975_Eleven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750906",
@@ -4653,11 +4653,11 @@
     ]
   },
   {
-    "id": "AL121975_Unnamed",
+    "id": "AL121975_Twelve",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750911",
@@ -4985,10 +4985,10 @@
   },
   {
     "id": "AL131975_Eloise",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/EloiseSeptember2219751700UTC.png/800px-EloiseSeptember2219751700UTC.png",
+    "fatalities": 80,
+    "cost_usd": 560000000,
+    "retired": true,
     "data": [
       {
         "date": "19750913",
@@ -6075,10 +6075,10 @@
   },
   {
     "id": "AL141975_Faye",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Faye1975sep270030z.gif",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750918",
@@ -7142,10 +7142,10 @@
   },
   {
     "id": "AL151975_Gladys",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Gladys_Oct_01_1975_2130Z.jpg/1024px-Gladys_Oct_01_1975_2130Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750922",
@@ -8208,11 +8208,11 @@
     ]
   },
   {
-    "id": "AL161975_Unnamed",
+    "id": "AL161975_Sixteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19750925",
@@ -8608,11 +8608,11 @@
     ]
   },
   {
-    "id": "AL171975_Unnamed",
+    "id": "AL171975_Seventeen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751003",
@@ -8824,11 +8824,11 @@
     ]
   },
   {
-    "id": "AL181975_Unnamed",
+    "id": "AL181975_Eighteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751014",
@@ -9133,10 +9133,10 @@
   },
   {
     "id": "AL191975_Hallie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Hallie1975.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751024",
@@ -9463,11 +9463,11 @@
     ]
   },
   {
-    "id": "AL201975_Unnamed",
+    "id": "AL201975_Twenty",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751027",
@@ -9702,11 +9702,11 @@
     ]
   },
   {
-    "id": "AL211975_Unnamed",
+    "id": "AL211975_Twenty-one",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751108",
@@ -10125,11 +10125,11 @@
     ]
   },
   {
-    "id": "AL221975_Unnamed",
+    "id": "AL221975_Twenty-two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751129",
@@ -10341,11 +10341,11 @@
     ]
   },
   {
-    "id": "AL231975_Unnamed",
+    "id": "AL231975_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19751209",

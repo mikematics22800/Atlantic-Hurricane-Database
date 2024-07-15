@@ -1,10 +1,10 @@
 [
   {
-    "id": "AL011976_Unnamed",
+    "id": "AL011976_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760521",
@@ -423,11 +423,11 @@
     ]
   },
   {
-    "id": "AL021976_Unnamed",
+    "id": "AL021976_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760607",
@@ -662,11 +662,11 @@
     ]
   },
   {
-    "id": "AL031976_Unnamed",
+    "id": "AL031976_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760611",
@@ -809,11 +809,11 @@
     ]
   },
   {
-    "id": "AL041976_Unnamed",
+    "id": "AL041976_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760720",
@@ -1025,11 +1025,11 @@
     ]
   },
   {
-    "id": "AL051976_Unnamed",
+    "id": "AL051976_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760723",
@@ -1173,10 +1173,10 @@
   },
   {
     "id": "AL061976_Anna",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/AnnamiddayJuly311976.png/1024px-AnnamiddayJuly311976.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760728",
@@ -2033,10 +2033,10 @@
   },
   {
     "id": "AL071976_Belle",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": "false",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Hurricane_Belle.png/1024px-Hurricane_Belle.png",
+    "fatalities": 12,
+    "cost_usd": 100000000,
+    "retired": false,
     "data": [
       {
         "date": "19760806",
@@ -2456,10 +2456,10 @@
   },
   {
     "id": "AL081976_Dottie",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Dottieaug211976.png/1024px-Dottieaug211976.png",
+    "fatalities": 4,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760818",
@@ -2810,10 +2810,10 @@
   },
   {
     "id": "AL091976_Candice",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/51/Candiceaug221976.png",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760818",
@@ -3394,10 +3394,10 @@
   },
   {
     "id": "AL101976_Emmy",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Hurricane_Emmy_%281976%29.JPG",
+    "fatalities": 68,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760820",
@@ -4829,10 +4829,10 @@
   },
   {
     "id": "AL111976_Frances",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Hurricane_Frances_1976.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760827",
@@ -5872,11 +5872,11 @@
     ]
   },
   {
-    "id": "AL121976_Unnamed",
+    "id": "AL121976_Twelve",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760904",
@@ -6088,11 +6088,11 @@
     ]
   },
   {
-    "id": "AL131976_Unnamed",
+    "id": "AL131976_Thirteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760905",
@@ -6304,11 +6304,11 @@
     ]
   },
   {
-    "id": "AL141976_Unnamed",
+    "id": "AL141976_Fourteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760913",
@@ -6658,11 +6658,11 @@
     ]
   },
   {
-    "id": "AL151976_Unnamed",
+    "id": "AL151976_Fifteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760920",
@@ -7334,11 +7334,11 @@
     ]
   },
   {
-    "id": "AL161976_Unnamed",
+    "id": "AL161976_Sixteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760922",
@@ -7574,10 +7574,10 @@
   },
   {
     "id": "AL171976_Gloria",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Gloriaseptember291976.gif/1024px-Gloriaseptember291976.gif",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760926",
@@ -8387,11 +8387,11 @@
     ]
   },
   {
-    "id": "AL181976_Unnamed",
+    "id": "AL181976_Eighteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19760926",
@@ -8603,11 +8603,11 @@
     ]
   },
   {
-    "id": "AL191976_Unnamed",
+    "id": "AL191976_Nineteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19761003",
@@ -9463,11 +9463,11 @@
     ]
   },
   {
-    "id": "AL201976_Unnamed",
+    "id": "AL201976_Twenty",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19761012",
@@ -9772,10 +9772,10 @@
   },
   {
     "id": "AL211976_Holly",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Hollyoctober241976.gif/1024px-Hollyoctober241976.gif",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": "false",
+    "retired": false,
     "data": [
       {
         "date": "19761022",
