@@ -1,11 +1,9 @@
-// Import necessary modules
 import express from 'express';
-import cors from 'cors'; // Import cors module
+import cors from 'cors'; 
 import { fileURLToPath } from 'url';
 import path from 'path';
 import fs from 'fs';
 
-// Define __dirname and __filename for ES Modules
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
@@ -15,33 +13,31 @@ const app = express(); // Create an Express.js server
 
 const corsOptions = {
   origin: ['http://localhost:5173', 'https://mikemedina22800.github.io'],
-  methods: ['GET', 'POST', 'OPTIONS'], // Include OPTIONS to handle preflight requests
-  allowedHeaders: ['Content-Type'], // Specify allowed headers, if your client sends custom headers
+  methods: ['GET', 'POST', 'OPTIONS'], 
+  allowedHeaders: ['Content-Type'],
 };
 
-app.use(cors(corsOptions)); // Enable CORS for testing and intended client
-app.use(express.json()); // Middleware to parse JSON bodies
-app.use(express.static('public')); // Middleware to serve static files from '/public'
+app.use(cors(corsOptions));
+app.use(express.json()); 
+app.use(express.static('public')); 
 
-// Serve hurdat2 to the client
 app.get('/:year', (req, res) => {
-  const year = req.params.year; // Extract the year from the request URL
-  const filePath = path.join(__dirname, `./hurdat2/${year}.json`); // Construct the file path dynamically based on the year
+  const year = req.params.year;
+  const filePath = path.join(__dirname, `./hurdat2/${year}.json`);
 
   fs.readFile(filePath, (err, data) => {
     if (err) {
       console.error(err);
-      return res.status(404).send('File not found'); // Send a 404 error if the file does not exist
+      return res.status(404).send('File not found'); 
     }
     try {
-      const jsonData = JSON.parse(data); // Try to parse the JSON data
-      res.json(jsonData); // Send the parsed data to the client
+      const jsonData = JSON.parse(data);
+      res.json(jsonData);
     } catch (parseError) {
       console.error(parseError);
-      res.status(500).send('Error parsing JSON data'); // Send a 500 error if parsing fails
+      res.status(500).send('Error parsing JSON data');
     }
   });
 });
 
-// Listen on the specified port
 app.listen(PORT, () => console.log(`Server running on port http://localhost:${PORT}`));
