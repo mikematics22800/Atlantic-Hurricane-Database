@@ -9,12 +9,10 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const PORT = process.env.PORT || 3001; // Define the port
-
 const app = express(); // Create an Express.js server
 
 const corsOptions = {
-origin: ['http://localhost:3000', 'https://mikemedina22800.github.io/Cyclopedia/'],
+  origin: ['http://localhost:3000', 'https://mikemedina22800.github.io/Cyclopedia/'],
 };
 
 app.use(cors(corsOptions)); // Enable CORS for testing and intended client
@@ -40,6 +38,3 @@ app.get('/:year', (req, res) => {
     }
   });
 });
-
-// Listen on the specified port
-app.listen(PORT, () => console.log(`Server running on port http://localhost:${PORT}`));
