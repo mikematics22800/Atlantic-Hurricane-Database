@@ -19,7 +19,7 @@ app.use(cors(corsOptions)); // Enable CORS for testing and intended client
 app.use(express.json()); // Middleware to parse JSON bodies
 app.use(express.static('public')); // Middleware to serve static files from '/public'
 
-// Serve hurdat2 to the client
+// Serve hurricane data to client
 app.get('/:year', (req, res) => {
   const year = req.params.year; // Extract the year from the request URL
   const filePath = path.join(__dirname, `./hurdat2/${year}.json`); // Construct the file path dynamically based on the year
