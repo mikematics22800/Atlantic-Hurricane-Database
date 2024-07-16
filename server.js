@@ -9,11 +9,15 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const PORT = process.env.PORT || 3001; // Define the port
+const PORT = process.env.PORT || 3000; // Define the port
 
 const app = express(); // Create an Express.js server
 
-app.use(cors()); // Enable CORS for all routes and origins
+const corsOptions = {
+  origin: ['http://localhost:3000', 'https://mikemedina22800.github.io/Cyclopedia/'],
+};
+
+app.use(cors(corsOptions)); // Enable CORS for testing and intended client
 app.use(express.json()); // Middleware to parse JSON bodies
 app.use(express.static('public')); // Middleware to serve static files from '/public'
 
