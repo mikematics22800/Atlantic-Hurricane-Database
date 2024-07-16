@@ -9,6 +9,8 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
+const PORT = process.env.PORT || 3000; // Define the port
+
 const app = express(); // Create an Express.js server
 
 const corsOptions = {
@@ -19,7 +21,7 @@ app.use(cors(corsOptions)); // Enable CORS for testing and intended client
 app.use(express.json()); // Middleware to parse JSON bodies
 app.use(express.static('public')); // Middleware to serve static files from '/public'
 
-// Serve hurricane data to client
+// Serve hurdat2 to the client
 app.get('/:year', (req, res) => {
   const year = req.params.year; // Extract the year from the request URL
   const filePath = path.join(__dirname, `./hurdat2/${year}.json`); // Construct the file path dynamically based on the year
@@ -38,3 +40,6 @@ app.get('/:year', (req, res) => {
     }
   });
 });
+
+// Listen on the specified port
+app.listen(PORT, () => console.log(`Server running on port http://localhost:${PORT}`));
