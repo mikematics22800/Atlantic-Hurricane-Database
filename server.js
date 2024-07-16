@@ -14,7 +14,7 @@ const PORT = process.env.PORT || 3000; // Define the port
 const app = express(); // Create an Express.js server
 
 const corsOptions = {
-  origin: ['http://localhost:3000', 'https://mikemedina22800.github.io/Cyclopedia/'],
+  origin: ['http://localhost:5173', 'https://mikemedina22800.github.io'],
   methods: ['GET', 'POST', 'OPTIONS'], // Include OPTIONS to handle preflight requests
   allowedHeaders: ['Content-Type'], // Specify allowed headers, if your client sends custom headers
 };
