@@ -12,7 +12,7 @@ const PORT = process.env.PORT || 3000; // Define the port
 const app = express(); // Create an Express.js server
 
 const corsOptions = {
-  origin: ['http://localhost:5173', 'https://mikemedina22800.github.io'],
+  origin: ['http://localhost:5173', 'https://mikematics22800.github.io'],
   methods: ['GET', 'POST', 'OPTIONS'], 
   allowedHeaders: ['Content-Type'],
 };
