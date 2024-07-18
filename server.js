@@ -7,10 +7,9 @@ import fs from 'fs';
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
-const PORT = process.env.PORT || 3000; // Define the port
+const PORT = process.env.PORT || 3000;
 
-const app = express(); // Create an Express.js server
-
+const app = express();
 const corsOptions = {
   origin: ['http://localhost:5173', 'https://mikematics22800.github.io'],
   methods: ['GET', 'POST', 'OPTIONS'], 
@@ -23,7 +22,7 @@ app.use(express.static('public'));
 
 app.get('/:year', (req, res) => {
   const year = req.params.year;
-  const filePath = path.join(__dirname, `./hurdat2/${year}.json`);
+  const filePath = path.join(__dirname, `./hurdat/${year}.json`);
 
   fs.readFile(filePath, (err, data) => {
     if (err) {
