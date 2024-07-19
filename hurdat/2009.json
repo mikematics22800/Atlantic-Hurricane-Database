@@ -4,7 +4,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/01L_2009-05-28_1525Z.jpg/800px-01L_2009-05-28_1525Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090526",
@@ -358,7 +358,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ana_aug_12_2009_1540Z.jpg/800px-Ana_aug_12_2009_1540Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090810",
@@ -965,7 +965,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Bill_2009-08-19_1725Z.jpg/800px-Bill_2009-08-19_1725Z.jpg",
     "fatalities": 2,
     "cost_usd": 46200000,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090815",
@@ -2032,7 +2032,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Claudette_Aug_16_2009_1830Z.jpg/800px-Claudette_Aug_16_2009_1830Z.jpg",
     "fatalities": 2,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090816",
@@ -2225,7 +2225,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Danny_A2009238_1730_1km.jpg/800px-Danny_A2009238_1730_1km.jpg",
     "fatalities": 1,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090826",
@@ -2510,7 +2510,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Erika_2009-09-01_1700Z.jpg/800px-Erika_2009-09-01_1700Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090901",
@@ -2795,7 +2795,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hurricane_Fred_2009-09-09_1250Z.jpg/800px-Hurricane_Fred_2009-09-09_1250Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090907",
@@ -3908,7 +3908,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Pre-Tropical_Depression_Eight_2009-09-25_1250Z.jpg/800px-Pre-Tropical_Depression_Eight_2009-09-25_1250Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090925",
@@ -4078,7 +4078,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tropical_Storm_Grace_2009_at_peak_intensity.jpg/1024px-Tropical_Storm_Grace_2009_at_peak_intensity.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20090927",
@@ -4938,7 +4938,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Henri_2009-10-06_1410Z.jpg/800px-Henri_2009-10-06_1410Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20091006",
@@ -5476,7 +5476,7 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Hurricane_Ida_2009-11-08_16-30_UTC.jpg/800px-Hurricane_Ida_2009-11-08_16-30_UTC.jpg",
     "fatalities": 10,
     "cost_usd": 311400000,
-    "retired": true,
+    "retired": false,
     "data": [
       {
         "date": "20091104",
