@@ -22,7 +22,7 @@ app.use(express.static('public'));
 
 app.get('/:year', (req, res) => {
   const year = req.params.year;
-  const filePath = path.join(__dirname, `./hurdat/${year}.json`);
+  const filePath = path.join(__dirname, `./hurdat2/${year}.json`);
 
   fs.readFile(filePath, (err, data) => {
     if (err) {
