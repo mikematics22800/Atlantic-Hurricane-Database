@@ -259,9 +259,9 @@
   },
   {
     "id": "AL031956_Betsy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hurricane_Betsy_%281956%29.JPG",
+    "fatalities": 37,
+    "cost_usd": 50000000,
     "retired": false,
     "data": [
       {

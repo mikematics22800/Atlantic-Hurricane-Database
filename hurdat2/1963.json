@@ -1,9 +1,9 @@
 [
   {
     "id": "AL011963_Arlene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sat19630810arlene.png",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 300000,
     "retired": false,
     "data": [
       {
@@ -560,7 +560,7 @@
   },
   {
     "id": "AL021963_Beulah",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Beulah1963tirosVII.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1369,7 +1369,7 @@
   },
   {
     "id": "AL031963_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Sat19630912UnnamedTS.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1588,9 +1588,9 @@
   },
   {
     "id": "AL041963_Cindy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Cindy1963rdar.JPG",
+    "fatalities": 3,
+    "cost_usd": 12500000,
     "retired": false,
     "data": [
       {
@@ -1757,7 +1757,7 @@
   },
   {
     "id": "AL051963_Debra",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Sat19630923Debra.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1996,9 +1996,9 @@
   },
   {
     "id": "AL061963_Edith",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Sat19630927Edith.png",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 46600000,
     "retired": false,
     "data": [
       {
@@ -2285,10 +2285,10 @@
   },
   {
     "id": "AL071963_Flora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flora_radar.gif",
+    "fatalities": 7193,
+    "cost_usd": 773000000,
+    "retired": true,
     "data": [
       {
         "date": "19630928",
@@ -3084,9 +3084,9 @@
   },
   {
     "id": "AL081963_Ginny",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/63tirosvii_19.JPG",
+    "fatalities": 3,
+    "cost_usd": 500000,
     "retired": false,
     "data": [
       {

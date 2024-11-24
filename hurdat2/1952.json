@@ -141,8 +141,8 @@
   {
     "id": "AL021952_Able",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 3,
+    "cost_usd": 2750000,
     "retired": false,
     "data": [
       {
@@ -2573,8 +2573,8 @@
   {
     "id": "AL101952_Fox",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 601,
+    "cost_usd": 10000000,
     "retired": false,
     "data": [
       {

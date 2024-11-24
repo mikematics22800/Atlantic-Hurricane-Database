@@ -1,9 +1,9 @@
 [
   {
     "id": "AL011960_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Tropical_Storm_One_%281960%29.jpg",
+    "fatalities": 18,
+    "cost_usd": 3600000,
     "retired": false,
     "data": [
       {
@@ -280,9 +280,9 @@
   },
   {
     "id": "AL021960_Abby",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Weather_radar.jpg",
+    "fatalities": 6,
+    "cost_usd": 640000,
     "retired": false,
     "data": [
       {
@@ -630,8 +630,8 @@
   {
     "id": "AL031960_Brenda",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 1,
+    "cost_usd": 5000000,
     "retired": false,
     "data": [
       {
@@ -1247,10 +1247,10 @@
   },
   {
     "id": "AL051960_Donna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hurricane_Donna.jpg",
+    "fatalities": 439,
+    "cost_usd": 980000000,
+    "retired": true,
     "data": [
       {
         "date": "19600829",
@@ -1977,8 +1977,8 @@
   {
     "id": "AL061960_Ethel",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 1,
+    "cost_usd": 1500000,
     "retired": false,
     "data": [
       {

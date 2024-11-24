@@ -1,9 +1,9 @@
 [
   {
     "id": "AL011966_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Hurricane_Alma.jpg",
+    "fatalities": 90,
+    "cost_usd": 210000000,
     "retired": false,
     "data": [
       {
@@ -420,7 +420,7 @@
   },
   {
     "id": "AL021966_Becky",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Becky_1966-07-02_1436Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -589,7 +589,7 @@
   },
   {
     "id": "AL031966_Celia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/13/Celia_1966-07-21_1445Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -978,7 +978,7 @@
   },
   {
     "id": "AL041966_Dorothy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/DorothyJul231966ESSA1.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1387,7 +1387,7 @@
   },
   {
     "id": "AL051966_Ella",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Ella_1966-07-23_1329Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1636,8 +1636,8 @@
   },
   {
     "id": "AL061966_Faith",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Hurricane_Faith_1966.jpg",
+    "fatalities": 5,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -2874,7 +2874,7 @@
   },
   {
     "id": "AL081966_Hallie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Hallie_1966-09-21_0534Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2943,10 +2943,10 @@
   },
   {
     "id": "AL091966_Inez",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/InezInGulf1966.jpg",
+    "fatalities": 1269,
+    "cost_usd": 273000000,
+    "retired": true,
     "data": [
       {
         "date": "19660921",
@@ -3832,7 +3832,7 @@
   },
   {
     "id": "AL101966_Judith",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Judith_1966-09-29_1200Z.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

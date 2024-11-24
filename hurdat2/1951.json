@@ -949,8 +949,8 @@
   {
     "id": "AL041951_Charlie",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 409,
+    "cost_usd": 75000000,
     "retired": false,
     "data": [
       {
@@ -2904,8 +2904,8 @@
   {
     "id": "AL091951_How",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 17,
+    "cost_usd": 2000000,
     "retired": false,
     "data": [
       {

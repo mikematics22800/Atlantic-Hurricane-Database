@@ -379,7 +379,7 @@
   },
   {
     "id": "AL111967_Arlene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Arlene_September_3%2C_1967%2C_1530Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -718,7 +718,7 @@
   },
   {
     "id": "AL121967_Chloe",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/ChloeSep141967ESSA5.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1417,10 +1417,10 @@
   },
   {
     "id": "AL131967_Beulah",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Hurricane_Beulah.jpg",
+    "fatalities": 59,
+    "cost_usd": 235000000,
+    "retired": true,
     "data": [
       {
         "date": "19670905",
@@ -2216,9 +2216,9 @@
   },
   {
     "id": "AL141967_Doria",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4c/DoriaSep141967ESSA5.png",
+    "fatalities": 3,
+    "cost_usd": 150000,
     "retired": false,
     "data": [
       {
@@ -3811,7 +3811,7 @@
   },
   {
     "id": "AL191967_Fern",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fern_Oct_3_1967.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3950,7 +3950,7 @@
   },
   {
     "id": "AL211967_Ginger",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ginger_Oct_5_1967.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4417,7 +4417,7 @@
   },
   {
     "id": "AL251967_Heidi",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Heidi_Oct_27_1967.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

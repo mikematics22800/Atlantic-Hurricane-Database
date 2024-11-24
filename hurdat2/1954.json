@@ -450,8 +450,8 @@
   {
     "id": "AL031954_Alice",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 153,
+    "cost_usd": 2000000,
     "retired": false,
     "data": [
       {
@@ -897,9 +897,9 @@
   {
     "id": "AL061954_Carol",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "fatalities": 72,
+    "cost_usd": 462000000,
+    "retired": true,
     "data": [
       {
         "date": "19540825",
@@ -1395,9 +1395,9 @@
   {
     "id": "AL081954_Edna",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "fatalities": 29,
+    "cost_usd": 42800000,
+    "retired": true,
     "data": [
       {
         "date": "19540905",
@@ -2879,9 +2879,9 @@
   {
     "id": "AL141954_Hazel",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "fatalities": 1192,
+    "cost_usd": 382000000,
+    "retired": true,
     "data": [
       {
         "date": "19541005",

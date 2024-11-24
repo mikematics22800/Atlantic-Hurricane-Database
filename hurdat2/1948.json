@@ -1,6 +1,6 @@
 [
   {
-    "id": "AL011948_Unnamed",
+    "id": "AL011948_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "id": "AL021948_Unnamed",
+    "id": "AL021948_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "id": "AL031948_Unnamed",
+    "id": "AL031948_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -927,7 +927,7 @@
     ]
   },
   {
-    "id": "AL041948_Unnamed",
+    "id": "AL041948_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1036,7 +1036,7 @@
     ]
   },
   {
-    "id": "AL051948_Unnamed",
+    "id": "AL051948_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1265,10 +1265,10 @@
     ]
   },
   {
-    "id": "AL061948_Unnamed",
+    "id": "AL061948_Six",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 8,
+    "cost_usd": 400000,
     "retired": false,
     "data": [
       {
@@ -1814,7 +1814,7 @@
     ]
   },
   {
-    "id": "AL071948_Unnamed",
+    "id": "AL071948_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1963,10 +1963,10 @@
     ]
   },
   {
-    "id": "AL081948_Unnamed",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "id": "AL081948_Eight",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/1948_Hurricane.JPG",
+    "fatalities": 13,
+    "cost_usd": 14000000,
     "retired": false,
     "data": [
       {
@@ -2332,10 +2332,10 @@
     ]
   },
   {
-    "id": "AL091948_Unnamed",
+    "id": "AL091948_Nine",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 11,
+    "cost_usd": 12500000,
     "retired": false,
     "data": [
       {
@@ -2901,7 +2901,7 @@
     ]
   },
   {
-    "id": "AL101948_Unnamed",
+    "id": "AL101948_Ten",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,

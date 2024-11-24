@@ -861,7 +861,7 @@
     "id": "AL031964_Abby",
     "image": "",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 750000,
     "retired": false,
     "data": [
       {
@@ -1127,10 +1127,10 @@
   },
   {
     "id": "AL051964_Cleo",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Hurricane_Cleo_23_August_1964_TIROS_VIII.png",
+    "fatalities": 156,
+    "cost_usd": 187000000,
+    "retired": true,
     "data": [
       {
         "date": "19640820",
@@ -2056,9 +2056,9 @@
   },
   {
     "id": "AL061964_Dora",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Sat19640904Dora.png",
+    "fatalities": 5,
+    "cost_usd": 280000000,
     "retired": false,
     "data": [
       {
@@ -2815,7 +2815,7 @@
   },
   {
     "id": "AL071964_Ethel",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hurricane_Ethel_11_Sep_1964.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3583,9 +3583,9 @@
   },
   {
     "id": "AL091964_Gladys",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Hurricane_Gladys_of_1964.JPG",
+    "fatalities": 1,
+    "cost_usd": 100000,
     "retired": false,
     "data": [
       {
@@ -4072,10 +4072,10 @@
   },
   {
     "id": "AL101964_Hilda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hurricane_Hilda.JPG",
+    "fatalities": 38,
+    "cost_usd": 126000000,
+    "retired": true,
     "data": [
       {
         "date": "19640928",
@@ -4472,8 +4472,8 @@
   {
     "id": "AL111964_Isbell",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 7,
+    "cost_usd": 30000000,
     "retired": false,
     "data": [
       {

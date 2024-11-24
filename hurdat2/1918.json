@@ -1,9 +1,9 @@
 [
   {
-    "id": "AL011918_Unnamed",
+    "id": "AL011918_One",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 34,
+    "cost_usd": 5000000,
     "retired": false,
     "data": [
       {
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "id": "AL021918_Unnamed",
+    "id": "AL021918_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -478,7 +478,7 @@
     ]
   },
   {
-    "id": "AL031918_Unnamed",
+    "id": "AL031918_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -637,7 +637,7 @@
     ]
   },
   {
-    "id": "AL041918_Unnamed",
+    "id": "AL041918_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -876,7 +876,7 @@
     ]
   },
   {
-    "id": "AL051918_Unnamed",
+    "id": "AL051918_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1155,7 +1155,7 @@
     ]
   },
   {
-    "id": "AL061918_Unnamed",
+    "id": "AL061918_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,

@@ -330,10 +330,10 @@
   },
   {
     "id": "AL021957_Audrey",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Audrey_before_landfall.gif",
+    "fatalities": 416,
+    "cost_usd": 150000000,
+    "retired": true,
     "data": [
       {
         "date": "19570624",
@@ -689,7 +689,7 @@
   {
     "id": "AL041957_Carrie",
     "image": "",
-    "fatalities": 0,
+    "fatalities": 83,
     "cost_usd": 0,
     "retired": false,
     "data": [

@@ -1,9 +1,9 @@
 [
   {
-    "id": "AL011943_Unnamed",
+    "id": "AL011943_One",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 19,
+    "cost_usd": 17000000,
     "retired": false,
     "data": [
       {
@@ -189,7 +189,7 @@
     ]
   },
   {
-    "id": "AL021943_Unnamed",
+    "id": "AL021943_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -458,7 +458,7 @@
     ]
   },
   {
-    "id": "AL031943_Unnamed",
+    "id": "AL031943_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -807,7 +807,7 @@
     ]
   },
   {
-    "id": "AL041943_Unnamed",
+    "id": "AL041943_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1176,7 +1176,7 @@
     ]
   },
   {
-    "id": "AL051943_Unnamed",
+    "id": "AL051943_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1365,7 +1365,7 @@
     ]
   },
   {
-    "id": "AL061943_Unnamed",
+    "id": "AL061943_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1574,7 +1574,7 @@
     ]
   },
   {
-    "id": "AL071943_Unnamed",
+    "id": "AL071943_Seven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1743,7 +1743,7 @@
     ]
   },
   {
-    "id": "AL081943_Unnamed",
+    "id": "AL081943_Eight",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1862,7 +1862,7 @@
     ]
   },
   {
-    "id": "AL091943_Unnamed",
+    "id": "AL091943_Nine",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2121,7 +2121,7 @@
     ]
   },
   {
-    "id": "AL101943_Unnamed",
+    "id": "AL101943_Ten",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,

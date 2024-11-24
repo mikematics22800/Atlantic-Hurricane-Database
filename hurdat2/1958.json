@@ -968,7 +968,7 @@
   },
   {
     "id": "AL041958_Daisy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/DaisyAug2819580530UTCNavyRecon.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1278,8 +1278,8 @@
   {
     "id": "AL051958_Ella",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 36,
+    "cost_usd": 200000,
     "retired": false,
     "data": [
       {
@@ -2294,9 +2294,9 @@
   },
   {
     "id": "AL081958_Helene",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Wea01252.jpg",
+    "fatalities": 1,
+    "cost_usd": 11400000,
     "retired": false,
     "data": [
       {

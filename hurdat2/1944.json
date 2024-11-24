@@ -1,6 +1,6 @@
 [
   {
-    "id": "AL011944_Unnamed",
+    "id": "AL011944_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -289,7 +289,7 @@
     ]
   },
   {
-    "id": "AL021944_Unnamed",
+    "id": "AL021944_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -448,7 +448,7 @@
     ]
   },
   {
-    "id": "AL031944_Unnamed",
+    "id": "AL031944_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -667,10 +667,10 @@
     ]
   },
   {
-    "id": "AL041944_Unnamed",
+    "id": "AL041944_Four",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 116,
+    "cost_usd": 1000000,
     "retired": false,
     "data": [
       {
@@ -996,7 +996,7 @@
     ]
   },
   {
-    "id": "AL051944_Unnamed",
+    "id": "AL051944_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1205,7 +1205,7 @@
     ]
   },
   {
-    "id": "AL061944_Unnamed",
+    "id": "AL061944_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1344,10 +1344,10 @@
     ]
   },
   {
-    "id": "AL071944_Unnamed",
+    "id": "AL071944_Seven",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 400,
+    "cost_usd": 100000000,
     "retired": false,
     "data": [
       {
@@ -1673,7 +1673,7 @@
     ]
   },
   {
-    "id": "AL081944_Unnamed",
+    "id": "AL081944_Eight",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1822,7 +1822,7 @@
     ]
   },
   {
-    "id": "AL091944_Unnamed",
+    "id": "AL091944_Nine",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2121,7 +2121,7 @@
     ]
   },
   {
-    "id": "AL101944_Unnamed",
+    "id": "AL101944_Ten",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2260,7 +2260,7 @@
     ]
   },
   {
-    "id": "AL111944_Unnamed",
+    "id": "AL111944_Eleven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2399,7 +2399,7 @@
     ]
   },
   {
-    "id": "AL121944_Unnamed",
+    "id": "AL121944_Twelve",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2608,10 +2608,10 @@
     ]
   },
   {
-    "id": "AL131944_Unnamed",
+    "id": "AL131944_Thirteen",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 318,
+    "cost_usd": 100000000,
     "retired": false,
     "data": [
       {
@@ -3127,7 +3127,7 @@
     ]
   },
   {
-    "id": "AL141944_Unnamed",
+    "id": "AL141944_Fourteen",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,

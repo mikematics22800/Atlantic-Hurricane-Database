@@ -1,9 +1,9 @@
 [
   {
-    "id": "AL011926_Unnamed",
+    "id": "AL011926_One",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 287,
+    "cost_usd": 7850000,
     "retired": false,
     "data": [
       {
@@ -479,9 +479,9 @@
     ]
   },
   {
-    "id": "AL021926_Unnamed",
+    "id": "AL021926_Two",
     "image": "",
-    "fatalities": 0,
+    "fatalities": 58,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -908,10 +908,10 @@
     ]
   },
   {
-    "id": "AL031926_Unnamed",
+    "id": "AL031926_Three",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 25,
+    "cost_usd": 6000000,
     "retired": false,
     "data": [
       {
@@ -1227,7 +1227,7 @@
     ]
   },
   {
-    "id": "AL041926_Unnamed",
+    "id": "AL041926_Four",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2186,7 +2186,7 @@
     ]
   },
   {
-    "id": "AL051926_Unnamed",
+    "id": "AL051926_Five",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2385,7 +2385,7 @@
     ]
   },
   {
-    "id": "AL061926_Unnamed",
+    "id": "AL061926_Six",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2664,10 +2664,10 @@
     ]
   },
   {
-    "id": "AL071926_Unnamed",
+    "id": "AL071926_Seven",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 539,
+    "cost_usd": 100000000,
     "retired": false,
     "data": [
       {
@@ -3133,7 +3133,7 @@
     ]
   },
   {
-    "id": "AL081926_Unnamed",
+    "id": "AL081926_Eight",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -3562,7 +3562,7 @@
     ]
   },
   {
-    "id": "AL091926_Unnamed",
+    "id": "AL091926_Nine",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -3681,9 +3681,9 @@
     ]
   },
   {
-    "id": "AL101926_Unnamed",
+    "id": "AL101926_Ten",
     "image": "",
-    "fatalities": 0,
+    "fatalities": 709,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -4260,7 +4260,7 @@
     ]
   },
   {
-    "id": "AL111926_Unnamed",
+    "id": "AL111926_Eleven",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,

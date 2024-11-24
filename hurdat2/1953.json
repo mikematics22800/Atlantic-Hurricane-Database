@@ -730,8 +730,8 @@
   {
     "id": "AL031953_Barbara",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 9,
+    "cost_usd": 1300000,
     "retired": false,
     "data": [
       {
@@ -999,8 +999,8 @@
   {
     "id": "AL041953_Carol",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 5,
+    "cost_usd": 2000000,
     "retired": false,
     "data": [
       {
@@ -2555,7 +2555,7 @@
     "id": "AL091953_Florence",
     "image": "",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 200000,
     "retired": false,
     "data": [
       {

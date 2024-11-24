@@ -1,9 +1,9 @@
 [
   {
     "id": "AL011962_Alma",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Sat196208291431zalma.png",
+    "fatalities": 1,
+    "cost_usd": 1000000,
     "retired": false,
     "data": [
       {
@@ -290,7 +290,7 @@
   },
   {
     "id": "AL021962_Becky",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Sat19620829Becky.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -499,7 +499,7 @@
   },
   {
     "id": "AL031962_Celia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8d/CeliaSep161962TIROS.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -898,9 +898,9 @@
   },
   {
     "id": "AL041962_Daisy",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Daisy.1.jpg",
+    "fatalities": 32,
+    "cost_usd": 1100000,
     "retired": false,
     "data": [
       {

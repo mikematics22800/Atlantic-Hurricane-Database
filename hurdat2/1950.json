@@ -2,8 +2,8 @@
   {
     "id": "AL011950_Able",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 11,
+    "cost_usd": 1040000,
     "retired": false,
     "data": [
       {
@@ -521,8 +521,8 @@
   {
     "id": "AL021950_Baker",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 38,
+    "cost_usd": 2550000,
     "retired": false,
     "data": [
       {
@@ -1749,8 +1749,8 @@
   {
     "id": "AL041950_Dog",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 31,
+    "cost_usd": 3000000,
     "retired": false,
     "data": [
       {
@@ -2498,8 +2498,8 @@
   {
     "id": "AL051950_Easy",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 2,
+    "cost_usd": 3300000,
     "retired": false,
     "data": [
       {
@@ -4322,8 +4322,8 @@
   {
     "id": "AL111950_King",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 11,
+    "cost_usd": 32000000,
     "retired": false,
     "data": [
       {

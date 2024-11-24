@@ -1,6 +1,6 @@
 [
   {
-    "id": "AL011925_Unnamed",
+    "id": "AL011925_One",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -149,7 +149,7 @@
     ]
   },
   {
-    "id": "AL021925_Unnamed",
+    "id": "AL021925_Two",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -268,7 +268,7 @@
     ]
   },
   {
-    "id": "AL031925_Unnamed",
+    "id": "AL031925_Three",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -357,10 +357,10 @@
     ]
   },
   {
-    "id": "AL041925_Unnamed",
+    "id": "AL041925_Four",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 73,
+    "cost_usd": 3000000,
     "retired": false,
     "data": [
       {

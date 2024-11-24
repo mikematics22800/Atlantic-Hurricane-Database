@@ -1,9 +1,9 @@
 [
   {
     "id": "AL001955_Alice",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Hurricane_Alice_01_jan_1955_radar.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 623000,
     "retired": false,
     "data": [
       {
@@ -449,10 +449,10 @@
   },
   {
     "id": "AL021955_Connie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Connie1955HATradar.png",
+    "fatalities": 77,
+    "cost_usd": 86000000,
+    "retired": true,
     "data": [
       {
         "date": "19550803",
@@ -949,9 +949,9 @@
   {
     "id": "AL031955_Diane",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "fatalities": 184,
+    "cost_usd": 832000000,
+    "retired": true,
     "data": [
       {
         "date": "19550807",
@@ -2854,9 +2854,9 @@
   {
     "id": "AL081955_Ione",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "fatalities": 7,
+    "cost_usd": 88000000,
+    "retired": true,
     "data": [
       {
         "date": "19550910",
@@ -3553,8 +3553,8 @@
   {
     "id": "AL091955_Hilda",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 304,
+    "cost_usd": 120000000,
     "retired": false,
     "data": [
       {
@@ -3952,9 +3952,9 @@
   {
     "id": "AL101955_Janet",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "fatalities": 1023,
+    "cost_usd": 65800000,
+    "retired": true,
     "data": [
       {
         "date": "19550921",

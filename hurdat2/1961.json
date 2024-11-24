@@ -1,9 +1,9 @@
 [
   {
     "id": "AL011961_Anna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Hurricane_Anna_1961.JPG",
+    "fatalities": 1,
+    "cost_usd": 300000,
     "retired": false,
     "data": [
       {
@@ -330,7 +330,7 @@
   },
   {
     "id": "AL021961_Betsy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Hurricane_Betsy_1961.JPG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -919,10 +919,10 @@
   },
   {
     "id": "AL031961_Carla",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Hurricane_Carla_Satellite.JPG",
+    "fatalities": 43,
+    "cost_usd": 326000000,
+    "retired": true,
     "data": [
       {
         "date": "19610903",
@@ -1528,9 +1528,9 @@
   },
   {
     "id": "AL041961_Debbie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/DebbieSep1119611830UTCTIROS3.png",
+    "fatalities": 68,
+    "cost_usd": 50000000,
     "retired": false,
     "data": [
       {
@@ -2087,9 +2087,9 @@
   },
   {
     "id": "AL051961_Esther",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Hurricane_Esther.jpg",
+    "fatalities": 7,
+    "cost_usd": 6000000,
     "retired": false,
     "data": [
       {
@@ -2796,7 +2796,7 @@
   },
   {
     "id": "AL061961_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Tropical_Storm_Six_%281961%29.JPG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3633,10 +3633,10 @@
   },
   {
     "id": "AL091961_Hattie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Hurricane_Hattie_radar_30_Oct_1961_-_cropped.jpg",
+    "fatalities": 319,
+    "cost_usd": 60300000,
+    "retired": true,
     "data": [
       {
         "date": "19611026",
