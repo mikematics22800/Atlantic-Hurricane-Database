@@ -20,9 +20,10 @@ app.use(cors(corsOptions));
 app.use(express.json()); 
 app.use(express.static('public')); 
 
-app.get('/:year', (req, res) => {
+app.get('/:basin/:year', (req, res) => {
   const year = req.params.year;
-  const filePath = path.join(__dirname, `./hurdat2/${year}.json`);
+  const basin = req.params.basin;
+  const filePath = path.join(__dirname, `./${basin}/${year}.json`);
 
   fs.readFile(filePath, (err, data) => {
     if (err) {
