@@ -1,7 +1,7 @@
 [
   {
     "id": "EP012013_Alvin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/49/Tropical_Storm_Alvin_2013-05-15_2052Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -430,9 +430,9 @@
   },
   {
     "id": "EP022013_Barbara",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Barbara_May_29_2013_1930Z.jpg",
+    "fatalities": 5,
+    "cost_usd": 358000000,
     "retired": false,
     "data": [
       {
@@ -747,8 +747,8 @@
   },
   {
     "id": "EP032013_Cosme",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Cosme_Jun_25_2013_2050Z.jpg",
+    "fatalities": 3,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -1596,7 +1596,7 @@
   },
   {
     "id": "EP042013_Dalila",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Hurricane_Dalila_2013-07-02_1745Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2753,9 +2753,9 @@
   },
   {
     "id": "EP052013_Erick",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Erick_Jul_6_2013_2030Z_%28cropped%29.jpg",
+    "fatalities": 2,
+    "cost_usd": 21800000,
     "retired": false,
     "data": [
       {
@@ -3378,9 +3378,9 @@
   },
   {
     "id": "EP062013_Flossie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Flossie_Jul_28_2013_2310Z_%28cropped%29.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 24000,
     "retired": false,
     "data": [
       {
@@ -4031,7 +4031,7 @@
   },
   {
     "id": "EP072013_Gil",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Gil_Jul_31_2013_2045Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4936,7 +4936,7 @@
   },
   {
     "id": "EP082013_Henriette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Henriette_Aug_8_2013_1945Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -6093,7 +6093,7 @@
   },
   {
     "id": "CP012013_Pewa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Pewa_Aug_17_2013_2255Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -7278,7 +7278,7 @@
   },
   {
     "id": "CP022013_Unala",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Unala_Aug_19_2013_0105Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -8099,7 +8099,7 @@
   },
   {
     "id": "CP032013_Three",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/03C_Aug_19_2013_2245Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -9452,7 +9452,7 @@
   },
   {
     "id": "EP092013_Ivo",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Tropical_Storm_Ivo_2013-08-23_2030Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10329,7 +10329,7 @@
   },
   {
     "id": "EP102013_Juliette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Juliette_Aug_28_2013_1740Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10646,7 +10646,7 @@
   },
   {
     "id": "EP112013_Kiko",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Kiko_Aug_31_2013_2120Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -11299,7 +11299,7 @@
   },
   {
     "id": "EP122013_Lorena",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Lorena_2013-09-06_2045Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -11840,10 +11840,10 @@
   },
   {
     "id": "EP132013_Manuel",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Manuel_Sept_18_2013_1800Z.jpg",
+    "fatalities": 169,
+    "cost_usd": 4200000000,
+    "retired": true,
     "data": [
       {
         "date": "20130913",
@@ -12577,7 +12577,7 @@
   },
   {
     "id": "EP142013_Narda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Narda_Oct_7_2013_2135Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -13258,7 +13258,7 @@
   },
   {
     "id": "EP152013_Octave",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Octave_Oct_13_2013_2100Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -13687,7 +13687,7 @@
   },
   {
     "id": "EP162013_Priscilla",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Priscilla_Oct_14_2013_1840Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -14284,7 +14284,7 @@
   },
   {
     "id": "EP172013_Raymond",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Raymond_Oct_21_2013_2010Z_%28cropped%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -15693,9 +15693,9 @@
   },
   {
     "id": "EP182013_Sonia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/Sonia_Nov_3_2013_1810Z.jpg",
+    "fatalities": 2,
+    "cost_usd": 453000,
     "retired": false,
     "data": [
       {

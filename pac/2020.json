@@ -1,7 +1,7 @@
 [
   {
     "id": "EP012020_One",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/01E_2020-04-25_2115Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -290,7 +290,7 @@
   },
   {
     "id": "EP022020_Amanda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/91E_2020-05-30_1635Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -439,7 +439,7 @@
   },
   {
     "id": "EP032020_Boris",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Boris_2020-06-25_2110Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1148,7 +1148,7 @@
   },
   {
     "id": "EP042020_Four",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/04E_2020-06-29_2050Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1353,7 +1353,7 @@
   },
   {
     "id": "EP052020_Cristina",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Cristina_2020-07-10_2115Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2398,7 +2398,7 @@
   },
   {
     "id": "EP062020_Six",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/06E_2020-07-13_2040Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2547,7 +2547,7 @@
   },
   {
     "id": "EP072020_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/07E_2020-07-20_2155Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2836,7 +2836,7 @@
   },
   {
     "id": "EP082020_Douglas",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Douglas_2020-07-23_2235Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3993,7 +3993,7 @@
   },
   {
     "id": "EP092020_Elida",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Elida_2020-08-11_1810Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4702,7 +4702,7 @@
   },
   {
     "id": "EP102020_Ten",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/10E_2020-08-13_1935Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -5299,7 +5299,7 @@
   },
   {
     "id": "EP112020_Fausto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/10E_2020-08-13_1935Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -5560,9 +5560,9 @@
   },
   {
     "id": "EP122020_Genevieve",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Genevieve_2020-08-18_2015Z.jpg",
+    "fatalities": 6,
+    "cost_usd": 50000000,
     "retired": false,
     "data": [
       {
@@ -6242,8 +6242,8 @@
   {
     "id": "EP132020_Hernan",
     "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "fatalities": 2,
+    "cost_usd": 26900000,
     "retired": false,
     "data": [
       {
@@ -6670,7 +6670,7 @@
   },
   {
     "id": "EP142020_Iselle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Iselle_2020-08-28_2030Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -7351,7 +7351,7 @@
   },
   {
     "id": "EP152020_Julio",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Julio_2020-09-05_2030Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -7668,7 +7668,7 @@
   },
   {
     "id": "EP162020_Karina",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Karina_2020-09-15_2145Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -8321,7 +8321,7 @@
   },
   {
     "id": "EP172020_Lowell",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Lowell_2020-09-22_2100Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -9142,7 +9142,7 @@
   },
   {
     "id": "EP182020_Marie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/98/Marie_2020-10-02_2115Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10579,7 +10579,7 @@
   },
   {
     "id": "EP192020_Norbert",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Norbert_2020-10-06_2025Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -11792,7 +11792,7 @@
   },
   {
     "id": "EP202020_Odalys",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Odalys_2020-11-04_1830Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -12277,7 +12277,7 @@
   },
   {
     "id": "EP212020_Polo",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Polo_2020-11-18_1840Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

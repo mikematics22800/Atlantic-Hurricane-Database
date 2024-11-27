@@ -1,7 +1,7 @@
 [
   {
     "id": "EP012015_Andres",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Andres_2015-05-31_1825Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1130,9 +1130,9 @@
   },
   {
     "id": "EP022015_Blanca",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Blanca_2015-06-03_2025Z_%28Worldview%29.jpg",
+    "fatalities": 4,
+    "cost_usd": 134000,
     "retired": false,
     "data": [
       {
@@ -2231,9 +2231,9 @@
   },
   {
     "id": "EP032015_Carlos",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Carlos_2015-06-13_1755Z.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 1400000,
     "retired": false,
     "data": [
       {
@@ -3136,7 +3136,7 @@
   },
   {
     "id": "EP042015_Ela",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Ela_2015-07-08_2220Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3733,9 +3733,9 @@
   },
   {
     "id": "CP012015_Halola",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Halola_2015-07-22_0040Z.png",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 1240000,
     "retired": false,
     "data": [
       {
@@ -5982,7 +5982,7 @@
   },
   {
     "id": "CP022015_Iune",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Iune_2015-07-11_2305Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -6971,9 +6971,9 @@
   },
   {
     "id": "EP052015_Dolores",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Dolores_2015-07-15_1755Z.jpg",
+    "fatalities": 1,
+    "cost_usd": 50500000,
     "retired": false,
     "data": [
       {
@@ -8240,7 +8240,7 @@
   },
   {
     "id": "EP062015_Enrique",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Enrique_2015-07-14_2155Z_%28cropped%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -9313,7 +9313,7 @@
   },
   {
     "id": "EP072015_Felicia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/db/Felicia_2015-07-23_1845Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -9938,7 +9938,7 @@
   },
   {
     "id": "EP082015_Eight",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/08E_2015-07-28_2205Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10395,7 +10395,7 @@
   },
   {
     "id": "EP092015_Guillermo",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Guillermo_2015-07-31_1935Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -11804,7 +11804,7 @@
   },
   {
     "id": "EP102015_Hilda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hilda_2015-08-08_2025Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -12821,7 +12821,7 @@
   },
   {
     "id": "EP112015_Eleven",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/11E_2015-08-16_2100Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -13306,7 +13306,7 @@
   },
   {
     "id": "CP032015_Kilo",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Kilo_2015-08-29_2220Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -15863,7 +15863,7 @@
   },
   {
     "id": "CP042015_Loke",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Loke_2015-08-25_0110Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -16768,7 +16768,7 @@
   },
   {
     "id": "EP122015_Ignacio",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Ignacio_2015-08-29_2040Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -18569,7 +18569,7 @@
   },
   {
     "id": "EP132015_Jimena",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Jimena_2015-08-29_1905Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -20342,7 +20342,7 @@
   },
   {
     "id": "EP142015_Kevin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Kevin_2015-09-03_2050Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -20995,9 +20995,9 @@
   },
   {
     "id": "EP152015_Linda",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/16/Linda_2015-09-08_2110Z.jpg",
+    "fatalities": 22,
+    "cost_usd": 3590000,
     "retired": false,
     "data": [
       {
@@ -22152,7 +22152,7 @@
   },
   {
     "id": "CP052015_Malia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Malia_2015-09-20_0005Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -22833,7 +22833,7 @@
   },
   {
     "id": "EP162015_Sixteen",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/16E_2015-09-20_1820Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -23038,7 +23038,7 @@
   },
   {
     "id": "CP062015_Niala",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Niala_2015-09-25_2325Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -23915,9 +23915,9 @@
   },
   {
     "id": "EP172015_Marty",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Marty_2015-09-28_1735Z.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 30000000,
     "retired": false,
     "data": [
       {
@@ -24428,7 +24428,7 @@
   },
   {
     "id": "CP072015_Oho",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Oho_2015-10-06_2310Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -25501,7 +25501,7 @@
   },
   {
     "id": "CP082015_Eight",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/08C_2015-10-04_2155Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -26042,7 +26042,7 @@
   },
   {
     "id": "EP182015_Nora",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Nora_2015-10-11_2020Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -26807,7 +26807,7 @@
   },
   {
     "id": "EP192015_Olaf",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Olaf_2015-10-20_2015Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -28356,10 +28356,10 @@
   },
   {
     "id": "EP202015_Patricia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Patricia_2015-10-23_1730Z.jpg",
+    "fatalities": 13,
+    "cost_usd": 484000000,
+    "retired": true,
     "data": [
       {
         "date": "20151020",
@@ -28897,7 +28897,7 @@
   },
   {
     "id": "EP212015_Rick",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Rick_2015-11-19_2015Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -29830,8 +29830,8 @@
   },
   {
     "id": "EP222015_Sandra",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sandra_2015-11-25_Suomi_NPP.jpg",
+    "fatalities": 4,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -30539,7 +30539,7 @@
   },
   {
     "id": "CP092015_Nine",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/60/09C_2015-12-31_Suomi_NPP.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
