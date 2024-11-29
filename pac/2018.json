@@ -1,6 +1,6 @@
 [
   {
-    "id": "EP012018_One",
+    "id": "EP012018_One-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/01E_2018-05-10_2135Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -5840,7 +5840,7 @@
     ]
   },
   {
-    "id": "EP092018_Nine",
+    "id": "EP092018_Nine-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/7/7c/09E_2018-07-26_2230Z_%28cropped%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -16598,7 +16598,7 @@
     ]
   },
   {
-    "id": "EP192018_Nineteen",
+    "id": "EP192018_Nineteen-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/19E_2018-09-19_1830Z.jpg",
     "fatalities": 16,
     "cost_usd": 416000000,

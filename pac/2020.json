@@ -1,6 +1,6 @@
 [
   {
-    "id": "EP012020_One",
+    "id": "EP012020_One-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/01E_2020-04-25_2115Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1147,7 +1147,7 @@
     ]
   },
   {
-    "id": "EP042020_Four",
+    "id": "EP042020_Four-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/04E_2020-06-29_2050Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2397,7 +2397,7 @@
     ]
   },
   {
-    "id": "EP062020_Six",
+    "id": "EP062020_Six-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/06E_2020-07-13_2040Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -4701,7 +4701,7 @@
     ]
   },
   {
-    "id": "EP102020_Ten",
+    "id": "EP102020_Ten-E",
     "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/10E_2020-08-13_1935Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,

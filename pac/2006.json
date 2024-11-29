@@ -457,8 +457,8 @@
     ]
   },
   {
-    "id": "EP022006_Two",
-    "image": "",
+    "id": "EP022006_Two-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/02E_2006-06-03_2015Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -663,7 +663,7 @@
   },
   {
     "id": "EP032006_Bud",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Hurricane_bud_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1428,7 +1428,7 @@
   },
   {
     "id": "EP042006_Carlotta",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Carlotta_2006-07-13_2105Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2361,7 +2361,7 @@
   },
   {
     "id": "EP052006_Daniel",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Hurricane_daniel_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3714,7 +3714,7 @@
   },
   {
     "id": "EP062006_Emilia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e8/TS_Emilia_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4871,7 +4871,7 @@
   },
   {
     "id": "EP072006_Fabio",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Tropical_Storm_Fabio_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -5468,7 +5468,7 @@
   },
   {
     "id": "EP082006_Gilma",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Gilma_2006-08-02_1745Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -5953,7 +5953,7 @@
   },
   {
     "id": "EP092006_Hector",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Hector_2006-08-17_2140Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -6942,9 +6942,9 @@
   },
   {
     "id": "CP012006_Ioke",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Ioke_2006-08-25_0100Z.jpg",
     "fatalities": 0,
-    "cost_usd": 0,
+    "cost_usd": 88000000,
     "retired": false,
     "data": [
       {
@@ -9275,7 +9275,7 @@
   },
   {
     "id": "EP102006_Ileana",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hurricane_ileana_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10180,9 +10180,9 @@
   },
   {
     "id": "EP112006_John",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/John_2006-08-30_1415Z.png",
+    "fatalities": 5,
+    "cost_usd": 60900000,
     "retired": false,
     "data": [
       {
@@ -11085,7 +11085,7 @@
   },
   {
     "id": "EP122006_Kristy",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/12E_Hurricane_Kristy_2006.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -12270,9 +12270,9 @@
   },
   {
     "id": "EP132006_Lane",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Lane_2006-09-16_1445Z.png",
+    "fatalities": 4,
+    "cost_usd": 203000000,
     "retired": false,
     "data": [
       {
@@ -12755,7 +12755,7 @@
   },
   {
     "id": "EP142006_Miriam",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Miriam06.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -13379,8 +13379,8 @@
     ]
   },
   {
-    "id": "CP022006_Two",
-    "image": "",
+    "id": "CP022006_Two-C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/02C_2006-09-19_2055Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -14452,8 +14452,8 @@
     ]
   },
   {
-    "id": "CP032006_Three",
-    "image": "",
+    "id": "CP032006_Three-C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/TD_03C_2006_NRL.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -14742,7 +14742,7 @@
   },
   {
     "id": "EP152006_Norman",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/TS_Norman_09_oct_2006_1849Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -15535,7 +15535,7 @@
   },
   {
     "id": "EP162006_Olivia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/65/Olivia_2006-10-10_1935Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -16131,8 +16131,8 @@
     ]
   },
   {
-    "id": "CP042006_Four",
-    "image": "",
+    "id": "CP042006_Four-C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/11/04C_2006-10-13_2147Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -17177,9 +17177,9 @@
   },
   {
     "id": "EP172006_Paul",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Paul_2006-10-23_1500Z.jpg",
+    "fatalities": 4,
+    "cost_usd": 3200000,
     "retired": false,
     "data": [
       {
@@ -17801,8 +17801,8 @@
     ]
   },
   {
-    "id": "EP182006_Eighteen",
-    "image": "",
+    "id": "EP182006_Eighteen-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/TD_18E_26_oct_2006_1755Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -18119,7 +18119,7 @@
   },
   {
     "id": "EP192006_Rosa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Rosa_2006-11-08_1725Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -18435,8 +18435,8 @@
     ]
   },
   {
-    "id": "EP202006_Twenty",
-    "image": "",
+    "id": "EP202006_Twenty-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/TD_20E_11_nov_2006_1755Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -18529,7 +18529,7 @@
   },
   {
     "id": "EP212006_Sergio",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Hurricane_Sergio_15_nov_2006_1725Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

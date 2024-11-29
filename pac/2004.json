@@ -1,7 +1,7 @@
 [
   {
     "id": "EP012004_Agatha",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Agatha_2004-05-22_2050Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -485,7 +485,7 @@
     ]
   },
   {
-    "id": "EP022004_Unnamed",
+    "id": "EP022004_Two-E",
     "image": "",
     "fatalities": 0,
     "cost_usd": 0,
@@ -802,8 +802,8 @@
     ]
   },
   {
-    "id": "CP012004_Unnamed",
-    "image": "",
+    "id": "CP012004_One-C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/01C_2004-07-05_2135Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1064,7 +1064,7 @@
   },
   {
     "id": "EP032004_Blas",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Blas_2004-07-13_2030Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1857,7 +1857,7 @@
   },
   {
     "id": "EP042004_Celia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/05/Celia_2004-07-21_2115Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2706,7 +2706,7 @@
   },
   {
     "id": "EP052004_Darby",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Darby_2004-07-28_2124Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3386,8 +3386,8 @@
     ]
   },
   {
-    "id": "EP062004_Unnamed",
-    "image": "",
+    "id": "EP062004_Six-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/06E_2004-08-01_1935Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3508,7 +3508,7 @@
   },
   {
     "id": "EP072004_Estelle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Estelle_2004-08-20_2000Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4273,7 +4273,7 @@
   },
   {
     "id": "EP082004_Frank",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Frank_2004-08-24_0550Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4785,8 +4785,8 @@
     ]
   },
   {
-    "id": "EP092004_Unnamed",
-    "image": "",
+    "id": "EP092004_Nine-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cd/09E_2004-08-23_1855Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -5327,7 +5327,7 @@
   },
   {
     "id": "EP102004_Georgette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Georgette_2004-08-27_1831Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -6260,7 +6260,7 @@
   },
   {
     "id": "EP112004_Howard",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Howard_2004-09-02_1750Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -7501,7 +7501,7 @@
   },
   {
     "id": "EP122004_Isis",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Isis_2004-09-15_2210Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -8966,8 +8966,8 @@
   },
   {
     "id": "EP132004_Javier",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Javier_2004-09-13_2040Z.jpg",
+    "fatalities": 3,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -10067,7 +10067,7 @@
   },
   {
     "id": "EP142004_Kay",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/01/Kay_2004-10-04_1755Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10412,7 +10412,7 @@
   },
   {
     "id": "EP152004_Lester",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Lester_2004-10-12_2010Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -10644,8 +10644,8 @@
     ]
   },
   {
-    "id": "EP162004_Unnamed",
-    "image": "",
+    "id": "EP162004_Sixteen-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/16E_2004-10-25_1810Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

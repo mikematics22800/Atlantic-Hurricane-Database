@@ -1,7 +1,7 @@
 [
   {
     "id": "EP012002_Alma",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/93/Hurricane_Alma_2002.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -330,7 +330,7 @@
   },
   {
     "id": "EP022002_Boris",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Boris_2002-06-09_1755Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -488,8 +488,8 @@
     ]
   },
   {
-    "id": "EP032002_Unnamed",
-    "image": "",
+    "id": "EP032002_Three-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/03E_2002-06-27_1925Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -578,7 +578,7 @@
   },
   {
     "id": "EP042002_Cristina",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Tropical_Storm_Cristina_2002.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -887,7 +887,7 @@
   },
   {
     "id": "EP052002_Douglas",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Douglas_2002-07-23_1820Z_%28cropped%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1166,7 +1166,7 @@
   },
   {
     "id": "EP062002_Elida",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Elida_2002-07-24_2025Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1524,8 +1524,8 @@
     ]
   },
   {
-    "id": "EP072002_Unnamed",
-    "image": "",
+    "id": "EP072002_Seven-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/07E_2002-08-06_1835Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1624,7 +1624,7 @@
   },
   {
     "id": "EP082002_Fausto",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Hurricane_fausto_2002_August_24.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2143,7 +2143,7 @@
   },
   {
     "id": "CP012002_Alika",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Alika_2002-08-25_2045Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2422,7 +2422,7 @@
   },
   {
     "id": "CP022002_Ele",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Ele_2002-08-30_2240Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "EP092002_Genevieve",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Genevieve_2002-08-28_2055Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2910,7 +2910,7 @@
   },
   {
     "id": "EP102002_Hernan",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Hernan_2002-09-01_2035Z_%28alternate%29.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3228,8 +3228,8 @@
     ]
   },
   {
-    "id": "EP112002_Unnamed",
-    "image": "",
+    "id": "EP112002_Eleven-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/11E_2002-09-06_2055Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3418,7 +3418,7 @@
   },
   {
     "id": "EP122002_Iselle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Iselle_2002-09-17_Aqua.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3647,7 +3647,7 @@
   },
   {
     "id": "EP132002_Julio",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/54/Julio_2002-09-25_1945Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3726,10 +3726,10 @@
   },
   {
     "id": "EP142002_Kenna",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hurricane_Kenna_24_oct_2002_1750Z.jpg",
+    "fatalities": 4,
+    "cost_usd": 101000000,
+    "retired": true,
     "data": [
       {
         "date": "20021022",
@@ -3915,7 +3915,7 @@
   },
   {
     "id": "EP152002_Lowell",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/TS_Lowell_2002.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4264,7 +4264,7 @@
   },
   {
     "id": "CP032002_Huko",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Huko_2002-11-03_0100Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4702,8 +4702,8 @@
     ]
   },
   {
-    "id": "EP162002_Unnamed",
-    "image": "",
+    "id": "EP162002_Sixteen-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/16E_2002-11-14_2105Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

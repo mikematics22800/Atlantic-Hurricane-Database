@@ -1,7 +1,7 @@
 [
   {
     "id": "EP012001_Adolph",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Adolph_2001-05-29_0500Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -300,7 +300,7 @@
   },
   {
     "id": "EP022001_Barbara",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Barbara_2001-06-21_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -569,7 +569,7 @@
   },
   {
     "id": "EP032001_Cosme",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Cosme_July_13_2001.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -668,7 +668,7 @@
   },
   {
     "id": "EP042001_Erick",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Erick_2001-07-21_Terra.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -817,7 +817,7 @@
   },
   {
     "id": "EP052001_Dalila",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/Dalila_2001-07-24_Terra.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1135,8 +1135,8 @@
     ]
   },
   {
-    "id": "EP062001_Unnamed",
-    "image": "",
+    "id": "EP062001_Six-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/37/6E_2001-08-23_1950Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1215,7 +1215,7 @@
   },
   {
     "id": "EP072001_Flossie",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flossie_2001-08-28_1830Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1504,7 +1504,7 @@
   },
   {
     "id": "EP082001_Gil",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Gil_2001-09-05_Terra.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1743,7 +1743,7 @@
   },
   {
     "id": "EP092001_Henriette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Henriette_2001-09-06_1830Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1921,8 +1921,8 @@
     ]
   },
   {
-    "id": "CP012001_Unnamed",
-    "image": "",
+    "id": "CP012001_One-C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/23/One-C_2001-09-10_Terra.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2001,7 +2001,7 @@
   },
   {
     "id": "EP102001_Ivo",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ivo_2001-09-12_1745Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2200,9 +2200,9 @@
   },
   {
     "id": "EP112001_Juliette",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/41/Juliette_2001-09-25_1800Z.png",
+    "fatalities": 13,
+    "cost_usd": 400000000,
     "retired": false,
     "data": [
       {
@@ -2689,7 +2689,7 @@
   },
   {
     "id": "EP122001_Kiko",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Kiko_2001-09-23_1905Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2867,8 +2867,8 @@
     ]
   },
   {
-    "id": "CP022001_Unnamed",
-    "image": "",
+    "id": "CP022001_Two-C",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/TD_2C_2001.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2997,7 +2997,7 @@
   },
   {
     "id": "EP132001_Lorena",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Lorena_2001-10-03_1805Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3125,8 +3125,8 @@
     ]
   },
   {
-    "id": "EP142001_Unnamed",
-    "image": "",
+    "id": "EP142001_Fourteen-E",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/14E_2001-10-04_1850Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3185,7 +3185,7 @@
   },
   {
     "id": "EP152001_Manuel",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Manuel_2001-10-11_1720Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3504,7 +3504,7 @@
   },
   {
     "id": "EP162001_Narda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Narda_2001-10-21_1930Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3713,7 +3713,7 @@
   },
   {
     "id": "EP172001_Octave",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Octave_2001-11-01_1910Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
