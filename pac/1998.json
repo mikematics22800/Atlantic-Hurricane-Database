@@ -1,7 +1,7 @@
 [
   {
     "id": "EP011998_Agatha",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Agatha_1998-06-13_2100Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -230,7 +230,7 @@
   },
   {
     "id": "EP021998_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/TD_2E_20_jun_1998_2000Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -243,7 +243,7 @@
         "lat": 15.2,
         "lng": -104.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980620",
@@ -253,7 +253,7 @@
         "lat": 15.8,
         "lng": -105.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980620",
@@ -263,7 +263,7 @@
         "lat": 16.4,
         "lng": -107.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980620",
@@ -273,7 +273,7 @@
         "lat": 16.9,
         "lng": -108.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980620",
@@ -283,7 +283,7 @@
         "lat": 17.4,
         "lng": -109.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980621",
@@ -293,7 +293,7 @@
         "lat": 17.8,
         "lng": -109.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980621",
@@ -303,7 +303,7 @@
         "lat": 18.0,
         "lng": -110.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980621",
@@ -313,7 +313,7 @@
         "lat": 18.2,
         "lng": -111.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980621",
@@ -323,7 +323,7 @@
         "lat": 18.4,
         "lng": -112.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980622",
@@ -333,13 +333,13 @@
         "lat": 18.6,
         "lng": -113.6,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP031998_Blas",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Blas_1998-06-24_2245Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -708,7 +708,7 @@
   },
   {
     "id": "EP041998_Celia",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Celia_1998-07-18_2045Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -887,7 +887,7 @@
   },
   {
     "id": "EP051998_Darby",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Hurricane_Darby_Jul_26_1998_1830Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1266,7 +1266,7 @@
   },
   {
     "id": "EP061998_Estelle",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Estelle_1998-08-01_1930Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1685,7 +1685,7 @@
   },
   {
     "id": "EP071998_Frank",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/TS_Frank_09_aug_1998_0000Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1844,7 +1844,7 @@
   },
   {
     "id": "EP081998_Georgette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Georgette_1998-08-14_1800Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2113,7 +2113,7 @@
   },
   {
     "id": "CP011998_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Tropical_Depression_One-C_%281998%29.JPG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2126,7 +2126,7 @@
         "lat": 13.1,
         "lng": -142.3,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980816",
@@ -2136,7 +2136,7 @@
         "lat": 13.2,
         "lng": -142.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980816",
@@ -2146,7 +2146,7 @@
         "lat": 13.4,
         "lng": -143.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980816",
@@ -2156,7 +2156,7 @@
         "lat": 13.6,
         "lng": -144.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980817",
@@ -2166,7 +2166,7 @@
         "lat": 13.8,
         "lng": -145.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980817",
@@ -2176,7 +2176,7 @@
         "lat": 14.0,
         "lng": -146.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980817",
@@ -2186,7 +2186,7 @@
         "lat": 14.2,
         "lng": -146.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980817",
@@ -2196,7 +2196,7 @@
         "lat": 14.3,
         "lng": -147.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980818",
@@ -2206,7 +2206,7 @@
         "lat": 14.4,
         "lng": -148.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980818",
@@ -2216,7 +2216,7 @@
         "lat": 14.4,
         "lng": -149.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980818",
@@ -2226,7 +2226,7 @@
         "lat": 14.4,
         "lng": -151.2,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980818",
@@ -2236,7 +2236,7 @@
         "lat": 14.4,
         "lng": -152.7,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19980819",
@@ -2246,13 +2246,13 @@
         "lat": 14.4,
         "lng": -154.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP091998_Howard",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Hurricane_Howard_Aug_22_1998_2100Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2661,9 +2661,9 @@
   },
   {
     "id": "EP101998_Isis",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Isis_1998-09-02_1800Z.png",
+    "fatalities": 14,
+    "cost_usd": 100000000,
     "retired": false,
     "data": [
       {
@@ -2790,7 +2790,7 @@
   },
   {
     "id": "EP111998_Javier",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Javier_1998-09-08_1400Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3129,7 +3129,7 @@
   },
   {
     "id": "EP121998_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/12E_1998-10-02_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3142,7 +3142,7 @@
         "lat": 20.5,
         "lng": -109.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981002",
@@ -3152,7 +3152,7 @@
         "lat": 20.6,
         "lng": -108.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981002",
@@ -3162,7 +3162,7 @@
         "lat": 20.7,
         "lng": -109.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981002",
@@ -3172,7 +3172,7 @@
         "lat": 20.7,
         "lng": -109.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981002",
@@ -3182,7 +3182,7 @@
         "lat": 20.6,
         "lng": -109.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981003",
@@ -3192,7 +3192,7 @@
         "lat": 21.0,
         "lng": -109.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981003",
@@ -3202,7 +3202,7 @@
         "lat": 21.3,
         "lng": -109.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19981003",
@@ -3212,13 +3212,13 @@
         "lat": 21.4,
         "lng": -110.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP131998_Kay",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Kay_1998-10-13_1500Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3397,8 +3397,8 @@
   },
   {
     "id": "EP141998_Lester",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Lester_1998-10-17_1800Z.png",
+    "fatalities": 2,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -3876,9 +3876,9 @@
   },
   {
     "id": "EP151998_Madeline",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Madeline_1998-10-17_1800Z.png",
+    "fatalities": 31,
+    "cost_usd": 750000000,
     "retired": false,
     "data": [
       {

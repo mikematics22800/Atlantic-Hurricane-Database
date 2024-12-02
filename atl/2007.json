@@ -3151,22 +3151,22 @@
         "max_wind_kt": 150,
         "min_pressure_mb": 905,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -3319,22 +3319,22 @@
         "max_wind_kt": 85,
         "min_pressure_mb": 974,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -4121,22 +4121,22 @@
         "max_wind_kt": 45,
         "min_pressure_mb": 1001,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -4373,22 +4373,22 @@
         "max_wind_kt": 150,
         "min_pressure_mb": 929,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -4998,22 +4998,22 @@
         "max_wind_kt": 50,
         "min_pressure_mb": 1005,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -6108,22 +6108,22 @@
         "max_wind_kt": 80,
         "min_pressure_mb": 985,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -7460,22 +7460,22 @@
         "max_wind_kt": 65,
         "min_pressure_mb": 993,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -9811,22 +9811,22 @@
         "max_wind_kt": 45,
         "min_pressure_mb": 1002,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -10203,22 +10203,22 @@
         "max_wind_kt": 50,
         "min_pressure_mb": 993,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -10231,22 +10231,22 @@
         "max_wind_kt": 55,
         "min_pressure_mb": 992,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {
@@ -10884,22 +10884,22 @@
         "max_wind_kt": 40,
         "min_pressure_mb": 1005,
         "34kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "50kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         },
         "64kt_wind_nm": {
-          "ne": -999,
-          "se": -999,
-          "sw": -999,
-          "nw": -999
+          "ne": null,
+          "se": null,
+          "sw": null,
+          "nw": null
         }
       },
       {

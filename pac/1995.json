@@ -1,7 +1,7 @@
 [
   {
     "id": "EP011995_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/01E_1995-05-21_1545Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -14,7 +14,7 @@
         "lat": 13.2,
         "lng": -104.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950521",
@@ -24,7 +24,7 @@
         "lat": 13.2,
         "lng": -106.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950521",
@@ -34,7 +34,7 @@
         "lat": 13.3,
         "lng": -108.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950522",
@@ -44,7 +44,7 @@
         "lat": 13.4,
         "lng": -109.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950522",
@@ -54,7 +54,7 @@
         "lat": 13.6,
         "lng": -111.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950522",
@@ -64,7 +64,7 @@
         "lat": 13.8,
         "lng": -112.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950522",
@@ -74,7 +74,7 @@
         "lat": 14.0,
         "lng": -114.1,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19950523",
@@ -84,13 +84,13 @@
         "lat": 14.3,
         "lng": -115.6,
         "max_wind_kt": 20,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP021995_Adolph",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Adolph_1995-06-18_0015Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -339,7 +339,7 @@
   },
   {
     "id": "EP031995_Barbara",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/78/Barbara_1995-07-14_0030Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -768,7 +768,7 @@
   },
   {
     "id": "EP041995_Cosme",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Cosme_1995-07-19_1832Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -987,7 +987,7 @@
   },
   {
     "id": "EP051995_Dalila",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Dalila_Jul_27_1995_2043Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1356,7 +1356,7 @@
   },
   {
     "id": "EP061995_Erick",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Erick_Aug_5_1995_0000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1625,9 +1625,9 @@
   },
   {
     "id": "EP071995_Flossie",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/63/Flossie_1995-08-10_2045Z.png",
+    "fatalities": 8,
+    "cost_usd": 5000000,
     "retired": false,
     "data": [
       {
@@ -1904,7 +1904,7 @@
   },
   {
     "id": "EP081995_Gil",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/72/Gil_Aug_24_1995_2044Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2193,7 +2193,7 @@
   },
   {
     "id": "EP091995_Henriette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/af/Henriette_1995-09-04_2045Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2492,10 +2492,10 @@
   },
   {
     "id": "EP101995_Ismael",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
-    "retired": false,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Ismael_1995-09-14_1745Z.png",
+    "fatalities": 116,
+    "cost_usd": 26000000,
+    "retired": true,
     "data": [
       {
         "date": "19950912",
@@ -2641,7 +2641,7 @@
   },
   {
     "id": "EP111995_Juliette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Juliette_1995-09-20_1715Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

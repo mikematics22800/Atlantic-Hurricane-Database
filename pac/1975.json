@@ -1,7 +1,7 @@
 [
   {
     "id": "EP011975_Agatha",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/AgathaJun419751745UTCSMS2.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -24,7 +24,7 @@
         "lat": 13.3,
         "lng": -99.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750602",
@@ -34,7 +34,7 @@
         "lat": 13.2,
         "lng": -99.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750602",
@@ -44,7 +44,7 @@
         "lat": 13.1,
         "lng": -100.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750603",
@@ -54,7 +54,7 @@
         "lat": 13.3,
         "lng": -101.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750603",
@@ -64,7 +64,7 @@
         "lat": 13.9,
         "lng": -101.7,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750603",
@@ -74,7 +74,7 @@
         "lat": 14.5,
         "lng": -102.5,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750603",
@@ -84,7 +84,7 @@
         "lat": 15.1,
         "lng": -103.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750604",
@@ -94,7 +94,7 @@
         "lat": 15.8,
         "lng": -104.1,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750604",
@@ -104,7 +104,7 @@
         "lat": 16.5,
         "lng": -104.5,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750604",
@@ -114,7 +114,7 @@
         "lat": 17.2,
         "lng": -104.7,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750604",
@@ -124,7 +124,7 @@
         "lat": 17.7,
         "lng": -104.8,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750605",
@@ -134,7 +134,7 @@
         "lat": 18.1,
         "lng": -105.0,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750605",
@@ -144,7 +144,7 @@
         "lat": 18.8,
         "lng": -105.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750605",
@@ -154,13 +154,13 @@
         "lat": 19.7,
         "lng": -106.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP021975_Bridget",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/BridgetJun2919751645UTCSMS2.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -173,7 +173,7 @@
         "lat": 14.4,
         "lng": -110.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750628",
@@ -183,7 +183,7 @@
         "lat": 14.4,
         "lng": -110.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750628",
@@ -193,7 +193,7 @@
         "lat": 14.7,
         "lng": -111.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750628",
@@ -203,7 +203,7 @@
         "lat": 15.4,
         "lng": -111.5,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750629",
@@ -213,7 +213,7 @@
         "lat": 16.2,
         "lng": -112.2,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750629",
@@ -223,7 +223,7 @@
         "lat": 16.8,
         "lng": -112.9,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750629",
@@ -233,7 +233,7 @@
         "lat": 17.2,
         "lng": -113.8,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750629",
@@ -243,7 +243,7 @@
         "lat": 17.4,
         "lng": -114.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750630",
@@ -253,7 +253,7 @@
         "lat": 17.3,
         "lng": -115.5,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750630",
@@ -263,7 +263,7 @@
         "lat": 17.1,
         "lng": -116.3,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750630",
@@ -273,7 +273,7 @@
         "lat": 16.9,
         "lng": -117.0,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750630",
@@ -283,7 +283,7 @@
         "lat": 16.8,
         "lng": -117.3,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750701",
@@ -293,7 +293,7 @@
         "lat": 16.7,
         "lng": -117.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750701",
@@ -303,7 +303,7 @@
         "lat": 16.5,
         "lng": -118.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750701",
@@ -313,7 +313,7 @@
         "lat": 16.3,
         "lng": -118.7,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750701",
@@ -323,7 +323,7 @@
         "lat": 15.8,
         "lng": -119.1,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750702",
@@ -333,7 +333,7 @@
         "lat": 15.4,
         "lng": -119.6,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750702",
@@ -343,7 +343,7 @@
         "lat": 15.2,
         "lng": -120.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750702",
@@ -353,7 +353,7 @@
         "lat": 15.0,
         "lng": -120.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750702",
@@ -363,7 +363,7 @@
         "lat": 14.8,
         "lng": -121.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -373,7 +373,7 @@
         "lat": 14.6,
         "lng": -121.8,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -383,7 +383,7 @@
         "lat": 14.5,
         "lng": -122.1,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -393,13 +393,13 @@
         "lat": 14.4,
         "lng": -122.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP031975_Carlotta",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/CarlottaJuly519751645UTCSMS2.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -412,7 +412,7 @@
         "lat": 11.1,
         "lng": -102.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750702",
@@ -422,7 +422,7 @@
         "lat": 11.5,
         "lng": -103.4,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -432,7 +432,7 @@
         "lat": 11.9,
         "lng": -104.3,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -442,7 +442,7 @@
         "lat": 12.3,
         "lng": -105.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -452,7 +452,7 @@
         "lat": 12.8,
         "lng": -106.1,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750703",
@@ -462,7 +462,7 @@
         "lat": 13.2,
         "lng": -106.8,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750704",
@@ -472,7 +472,7 @@
         "lat": 13.6,
         "lng": -107.6,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750704",
@@ -482,7 +482,7 @@
         "lat": 14.2,
         "lng": -108.7,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750704",
@@ -492,7 +492,7 @@
         "lat": 14.7,
         "lng": -109.8,
         "max_wind_kt": 85,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750704",
@@ -502,7 +502,7 @@
         "lat": 15.3,
         "lng": -110.8,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -512,7 +512,7 @@
         "lat": 15.8,
         "lng": -111.7,
         "max_wind_kt": 100,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -522,7 +522,7 @@
         "lat": 16.3,
         "lng": -112.6,
         "max_wind_kt": 105,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -532,7 +532,7 @@
         "lat": 16.7,
         "lng": -113.5,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -542,7 +542,7 @@
         "lat": 17.1,
         "lng": -114.4,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -552,7 +552,7 @@
         "lat": 17.3,
         "lng": -115.3,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -562,7 +562,7 @@
         "lat": 17.4,
         "lng": -116.3,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -572,7 +572,7 @@
         "lat": 17.4,
         "lng": -117.2,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -582,7 +582,7 @@
         "lat": 17.4,
         "lng": -117.9,
         "max_wind_kt": 100,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -592,7 +592,7 @@
         "lat": 17.4,
         "lng": -118.6,
         "max_wind_kt": 95,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -602,7 +602,7 @@
         "lat": 17.4,
         "lng": -119.4,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -612,7 +612,7 @@
         "lat": 17.4,
         "lng": -120.2,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -622,7 +622,7 @@
         "lat": 17.4,
         "lng": -120.7,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -632,7 +632,7 @@
         "lat": 17.4,
         "lng": -121.3,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -642,7 +642,7 @@
         "lat": 17.4,
         "lng": -122.0,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -652,7 +652,7 @@
         "lat": 17.5,
         "lng": -122.8,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -662,7 +662,7 @@
         "lat": 17.5,
         "lng": -123.5,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -672,7 +672,7 @@
         "lat": 17.5,
         "lng": -124.2,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -682,7 +682,7 @@
         "lat": 17.6,
         "lng": -125.1,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -692,7 +692,7 @@
         "lat": 17.9,
         "lng": -126.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -702,7 +702,7 @@
         "lat": 18.2,
         "lng": -126.6,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -712,7 +712,7 @@
         "lat": 18.4,
         "lng": -127.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -722,7 +722,7 @@
         "lat": 18.6,
         "lng": -128.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -732,7 +732,7 @@
         "lat": 18.8,
         "lng": -129.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -742,7 +742,7 @@
         "lat": 18.9,
         "lng": -129.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -752,13 +752,13 @@
         "lat": 19.0,
         "lng": -130.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP041975_Denise",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/DeniseJuly1119751656UTC.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -771,7 +771,7 @@
         "lat": 10.8,
         "lng": -94.4,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -781,7 +781,7 @@
         "lat": 10.7,
         "lng": -96.3,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -791,7 +791,7 @@
         "lat": 10.7,
         "lng": -97.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750705",
@@ -801,7 +801,7 @@
         "lat": 10.9,
         "lng": -98.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -811,7 +811,7 @@
         "lat": 11.3,
         "lng": -99.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -821,7 +821,7 @@
         "lat": 11.8,
         "lng": -100.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -831,7 +831,7 @@
         "lat": 12.3,
         "lng": -100.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750706",
@@ -841,7 +841,7 @@
         "lat": 12.8,
         "lng": -100.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -851,7 +851,7 @@
         "lat": 13.3,
         "lng": -101.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -861,7 +861,7 @@
         "lat": 13.8,
         "lng": -101.7,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -871,7 +871,7 @@
         "lat": 14.2,
         "lng": -102.2,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750707",
@@ -881,7 +881,7 @@
         "lat": 14.6,
         "lng": -102.8,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -891,7 +891,7 @@
         "lat": 15.0,
         "lng": -103.4,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -901,7 +901,7 @@
         "lat": 15.4,
         "lng": -103.8,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -911,7 +911,7 @@
         "lat": 15.7,
         "lng": -104.3,
         "max_wind_kt": 95,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750708",
@@ -921,7 +921,7 @@
         "lat": 15.9,
         "lng": -105.1,
         "max_wind_kt": 105,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -931,7 +931,7 @@
         "lat": 16.0,
         "lng": -106.0,
         "max_wind_kt": 105,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -941,7 +941,7 @@
         "lat": 16.1,
         "lng": -107.0,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -951,7 +951,7 @@
         "lat": 16.0,
         "lng": -108.1,
         "max_wind_kt": 120,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750709",
@@ -961,7 +961,7 @@
         "lat": 15.6,
         "lng": -109.3,
         "max_wind_kt": 120,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -971,7 +971,7 @@
         "lat": 14.9,
         "lng": -110.4,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -981,7 +981,7 @@
         "lat": 14.0,
         "lng": -111.5,
         "max_wind_kt": 105,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -991,7 +991,7 @@
         "lat": 13.4,
         "lng": -112.6,
         "max_wind_kt": 100,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -1001,7 +1001,7 @@
         "lat": 13.6,
         "lng": -112.7,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1011,7 +1011,7 @@
         "lat": 14.0,
         "lng": -112.5,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1021,7 +1021,7 @@
         "lat": 14.3,
         "lng": -113.2,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1031,7 +1031,7 @@
         "lat": 14.8,
         "lng": -113.8,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1041,7 +1041,7 @@
         "lat": 15.6,
         "lng": -114.3,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1051,7 +1051,7 @@
         "lat": 16.5,
         "lng": -114.9,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1061,7 +1061,7 @@
         "lat": 17.2,
         "lng": -115.6,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1071,7 +1071,7 @@
         "lat": 17.9,
         "lng": -116.3,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1081,7 +1081,7 @@
         "lat": 18.6,
         "lng": -117.3,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750713",
@@ -1091,7 +1091,7 @@
         "lat": 19.4,
         "lng": -118.3,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750713",
@@ -1101,7 +1101,7 @@
         "lat": 19.6,
         "lng": -118.5,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750713",
@@ -1111,7 +1111,7 @@
         "lat": 19.7,
         "lng": -118.7,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750713",
@@ -1121,7 +1121,7 @@
         "lat": 19.9,
         "lng": -118.9,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750714",
@@ -1131,7 +1131,7 @@
         "lat": 20.1,
         "lng": -119.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750714",
@@ -1141,7 +1141,7 @@
         "lat": 20.2,
         "lng": -119.1,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750714",
@@ -1151,7 +1151,7 @@
         "lat": 20.4,
         "lng": -119.2,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750714",
@@ -1161,7 +1161,7 @@
         "lat": 20.6,
         "lng": -119.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750715",
@@ -1171,13 +1171,13 @@
         "lat": 20.8,
         "lng": -119.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP051975_Eleanor",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f5/EleanorJuly1219750339UTC.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1190,7 +1190,7 @@
         "lat": 14.0,
         "lng": -100.2,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750710",
@@ -1200,7 +1200,7 @@
         "lat": 14.3,
         "lng": -100.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1210,7 +1210,7 @@
         "lat": 14.7,
         "lng": -100.2,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1220,7 +1220,7 @@
         "lat": 15.6,
         "lng": -101.3,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1230,7 +1230,7 @@
         "lat": 16.5,
         "lng": -102.4,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750711",
@@ -1240,7 +1240,7 @@
         "lat": 16.8,
         "lng": -102.9,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1250,7 +1250,7 @@
         "lat": 17.2,
         "lng": -103.4,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1260,7 +1260,7 @@
         "lat": 18.0,
         "lng": -103.8,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750712",
@@ -1270,13 +1270,13 @@
         "lat": 19.0,
         "lng": -104.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP061975_Francene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Francenejul2719752345UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1289,7 +1289,7 @@
         "lat": 16.5,
         "lng": -103.7,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750727",
@@ -1299,7 +1299,7 @@
         "lat": 16.5,
         "lng": -104.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750728",
@@ -1309,7 +1309,7 @@
         "lat": 16.5,
         "lng": -105.4,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750728",
@@ -1319,7 +1319,7 @@
         "lat": 16.5,
         "lng": -106.1,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750728",
@@ -1329,7 +1329,7 @@
         "lat": 16.4,
         "lng": -106.8,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750728",
@@ -1339,7 +1339,7 @@
         "lat": 16.3,
         "lng": -107.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750729",
@@ -1349,7 +1349,7 @@
         "lat": 16.2,
         "lng": -108.2,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750729",
@@ -1359,7 +1359,7 @@
         "lat": 16.1,
         "lng": -109.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750729",
@@ -1369,7 +1369,7 @@
         "lat": 16.0,
         "lng": -110.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750729",
@@ -1379,7 +1379,7 @@
         "lat": 16.5,
         "lng": -111.2,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750730",
@@ -1389,13 +1389,13 @@
         "lat": 17.7,
         "lng": -112.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP071975_Georgette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/79/Georgetteaug1219751915UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1408,7 +1408,7 @@
         "lat": 14.0,
         "lng": -117.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750811",
@@ -1418,7 +1418,7 @@
         "lat": 14.0,
         "lng": -118.1,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750811",
@@ -1428,7 +1428,7 @@
         "lat": 14.1,
         "lng": -118.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750811",
@@ -1438,7 +1438,7 @@
         "lat": 14.3,
         "lng": -119.3,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750812",
@@ -1448,7 +1448,7 @@
         "lat": 14.6,
         "lng": -120.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750812",
@@ -1458,7 +1458,7 @@
         "lat": 15.1,
         "lng": -120.7,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750812",
@@ -1468,7 +1468,7 @@
         "lat": 15.6,
         "lng": -121.6,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750812",
@@ -1478,7 +1478,7 @@
         "lat": 16.1,
         "lng": -122.6,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1488,7 +1488,7 @@
         "lat": 16.7,
         "lng": -123.7,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1498,7 +1498,7 @@
         "lat": 17.2,
         "lng": -124.8,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1508,7 +1508,7 @@
         "lat": 17.5,
         "lng": -126.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1518,7 +1518,7 @@
         "lat": 17.6,
         "lng": -127.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1528,7 +1528,7 @@
         "lat": 17.4,
         "lng": -128.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1538,7 +1538,7 @@
         "lat": 17.2,
         "lng": -128.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1548,13 +1548,13 @@
         "lat": 16.8,
         "lng": -129.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP081975_Hilary",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hilaryaug1419752345UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1567,7 +1567,7 @@
         "lat": 11.7,
         "lng": -108.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1577,7 +1577,7 @@
         "lat": 12.0,
         "lng": -109.4,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1587,7 +1587,7 @@
         "lat": 12.3,
         "lng": -110.5,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750813",
@@ -1597,7 +1597,7 @@
         "lat": 12.6,
         "lng": -111.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1607,7 +1607,7 @@
         "lat": 13.0,
         "lng": -112.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1617,7 +1617,7 @@
         "lat": 13.8,
         "lng": -113.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1627,7 +1627,7 @@
         "lat": 14.7,
         "lng": -114.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750814",
@@ -1637,7 +1637,7 @@
         "lat": 15.5,
         "lng": -115.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750815",
@@ -1647,7 +1647,7 @@
         "lat": 16.4,
         "lng": -116.0,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750815",
@@ -1657,7 +1657,7 @@
         "lat": 17.3,
         "lng": -117.1,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750815",
@@ -1667,7 +1667,7 @@
         "lat": 18.3,
         "lng": -118.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750815",
@@ -1677,7 +1677,7 @@
         "lat": 19.3,
         "lng": -119.4,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750816",
@@ -1687,7 +1687,7 @@
         "lat": 20.0,
         "lng": -120.4,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750816",
@@ -1697,7 +1697,7 @@
         "lat": 20.2,
         "lng": -121.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750816",
@@ -1707,7 +1707,7 @@
         "lat": 20.3,
         "lng": -121.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750816",
@@ -1717,7 +1717,7 @@
         "lat": 20.4,
         "lng": -122.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750817",
@@ -1727,7 +1727,7 @@
         "lat": 20.6,
         "lng": -122.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750817",
@@ -1737,7 +1737,7 @@
         "lat": 20.8,
         "lng": -123.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750817",
@@ -1747,13 +1747,13 @@
         "lat": 21.0,
         "lng": -124.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP091975_Ilsa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/02/Ilsaaug2419752145UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1766,7 +1766,7 @@
         "lat": 12.1,
         "lng": -95.8,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750818",
@@ -1776,7 +1776,7 @@
         "lat": 12.2,
         "lng": -96.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750818",
@@ -1786,7 +1786,7 @@
         "lat": 12.3,
         "lng": -97.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750818",
@@ -1796,7 +1796,7 @@
         "lat": 12.4,
         "lng": -97.8,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750819",
@@ -1806,7 +1806,7 @@
         "lat": 12.6,
         "lng": -98.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750819",
@@ -1816,7 +1816,7 @@
         "lat": 12.8,
         "lng": -99.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750819",
@@ -1826,7 +1826,7 @@
         "lat": 13.0,
         "lng": -99.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750819",
@@ -1836,7 +1836,7 @@
         "lat": 13.3,
         "lng": -100.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750820",
@@ -1846,7 +1846,7 @@
         "lat": 13.5,
         "lng": -100.5,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750820",
@@ -1856,7 +1856,7 @@
         "lat": 13.6,
         "lng": -101.1,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750820",
@@ -1866,7 +1866,7 @@
         "lat": 13.7,
         "lng": -101.8,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750820",
@@ -1876,7 +1876,7 @@
         "lat": 13.9,
         "lng": -102.9,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750821",
@@ -1886,7 +1886,7 @@
         "lat": 14.0,
         "lng": -104.0,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750821",
@@ -1896,7 +1896,7 @@
         "lat": 14.0,
         "lng": -104.8,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750821",
@@ -1906,7 +1906,7 @@
         "lat": 14.0,
         "lng": -105.5,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750821",
@@ -1916,7 +1916,7 @@
         "lat": 14.0,
         "lng": -106.3,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750822",
@@ -1926,7 +1926,7 @@
         "lat": 14.0,
         "lng": -107.2,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750822",
@@ -1936,7 +1936,7 @@
         "lat": 14.1,
         "lng": -108.3,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750822",
@@ -1946,7 +1946,7 @@
         "lat": 14.3,
         "lng": -109.5,
         "max_wind_kt": 85,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750822",
@@ -1956,7 +1956,7 @@
         "lat": 14.4,
         "lng": -110.2,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750823",
@@ -1966,7 +1966,7 @@
         "lat": 14.7,
         "lng": -111.0,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750823",
@@ -1976,7 +1976,7 @@
         "lat": 15.3,
         "lng": -112.0,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750823",
@@ -1986,7 +1986,7 @@
         "lat": 15.9,
         "lng": -112.9,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750823",
@@ -1996,7 +1996,7 @@
         "lat": 16.5,
         "lng": -113.8,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2006,7 +2006,7 @@
         "lat": 17.1,
         "lng": -114.7,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2016,7 +2016,7 @@
         "lat": 18.0,
         "lng": -115.9,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2026,7 +2026,7 @@
         "lat": 19.0,
         "lng": -117.5,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2036,7 +2036,7 @@
         "lat": 19.7,
         "lng": -119.1,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2046,7 +2046,7 @@
         "lat": 20.0,
         "lng": -120.8,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2056,7 +2056,7 @@
         "lat": 20.0,
         "lng": -122.4,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2066,7 +2066,7 @@
         "lat": 19.9,
         "lng": -124.0,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2076,7 +2076,7 @@
         "lat": 19.8,
         "lng": -125.0,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2086,7 +2086,7 @@
         "lat": 19.7,
         "lng": -126.1,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2096,7 +2096,7 @@
         "lat": 19.8,
         "lng": -127.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2106,13 +2106,13 @@
         "lat": 20.0,
         "lng": -128.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP101975_Jewel",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jewelaug2719751845UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2125,7 +2125,7 @@
         "lat": 12.5,
         "lng": -100.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2135,7 +2135,7 @@
         "lat": 13.1,
         "lng": -101.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2145,7 +2145,7 @@
         "lat": 13.7,
         "lng": -103.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750824",
@@ -2155,7 +2155,7 @@
         "lat": 14.3,
         "lng": -104.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2165,7 +2165,7 @@
         "lat": 14.9,
         "lng": -105.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2175,7 +2175,7 @@
         "lat": 15.3,
         "lng": -106.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2185,7 +2185,7 @@
         "lat": 15.5,
         "lng": -106.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750825",
@@ -2195,7 +2195,7 @@
         "lat": 15.8,
         "lng": -107.2,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2205,7 +2205,7 @@
         "lat": 16.0,
         "lng": -107.8,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2215,7 +2215,7 @@
         "lat": 16.2,
         "lng": -108.5,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2225,7 +2225,7 @@
         "lat": 16.3,
         "lng": -109.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750826",
@@ -2235,7 +2235,7 @@
         "lat": 16.3,
         "lng": -109.8,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750827",
@@ -2245,7 +2245,7 @@
         "lat": 16.4,
         "lng": -110.2,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750827",
@@ -2255,7 +2255,7 @@
         "lat": 16.5,
         "lng": -110.6,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750827",
@@ -2265,7 +2265,7 @@
         "lat": 16.5,
         "lng": -111.0,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750827",
@@ -2275,7 +2275,7 @@
         "lat": 16.5,
         "lng": -111.6,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750828",
@@ -2285,7 +2285,7 @@
         "lat": 16.4,
         "lng": -112.2,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750828",
@@ -2295,7 +2295,7 @@
         "lat": 16.3,
         "lng": -113.0,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750828",
@@ -2305,7 +2305,7 @@
         "lat": 16.3,
         "lng": -114.1,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750828",
@@ -2315,7 +2315,7 @@
         "lat": 16.3,
         "lng": -115.3,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2325,7 +2325,7 @@
         "lat": 16.4,
         "lng": -116.5,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2335,7 +2335,7 @@
         "lat": 16.6,
         "lng": -117.8,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2345,7 +2345,7 @@
         "lat": 17.0,
         "lng": -119.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2355,7 +2355,7 @@
         "lat": 17.7,
         "lng": -120.1,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2365,7 +2365,7 @@
         "lat": 18.3,
         "lng": -121.3,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2375,7 +2375,7 @@
         "lat": 18.7,
         "lng": -122.6,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2385,7 +2385,7 @@
         "lat": 18.9,
         "lng": -124.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2395,7 +2395,7 @@
         "lat": 19.0,
         "lng": -125.1,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2405,7 +2405,7 @@
         "lat": 19.0,
         "lng": -126.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2415,7 +2415,7 @@
         "lat": 19.0,
         "lng": -127.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2425,13 +2425,13 @@
         "lat": 19.0,
         "lng": -129.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP111975_Katrina",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Katrinasep319751545UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2444,7 +2444,7 @@
         "lat": 10.5,
         "lng": -101.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2454,7 +2454,7 @@
         "lat": 10.9,
         "lng": -102.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2464,7 +2464,7 @@
         "lat": 11.2,
         "lng": -102.9,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750829",
@@ -2474,7 +2474,7 @@
         "lat": 11.4,
         "lng": -103.7,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2484,7 +2484,7 @@
         "lat": 11.7,
         "lng": -104.4,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2494,7 +2494,7 @@
         "lat": 11.9,
         "lng": -105.0,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2504,7 +2504,7 @@
         "lat": 12.2,
         "lng": -105.5,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750830",
@@ -2514,7 +2514,7 @@
         "lat": 12.4,
         "lng": -105.9,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2524,7 +2524,7 @@
         "lat": 12.6,
         "lng": -106.4,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2534,7 +2534,7 @@
         "lat": 13.2,
         "lng": -107.3,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2544,7 +2544,7 @@
         "lat": 14.0,
         "lng": -108.1,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2554,7 +2554,7 @@
         "lat": 14.9,
         "lng": -108.9,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2564,7 +2564,7 @@
         "lat": 15.9,
         "lng": -109.5,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2574,7 +2574,7 @@
         "lat": 16.8,
         "lng": -109.9,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2584,7 +2584,7 @@
         "lat": 17.5,
         "lng": -110.2,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2594,7 +2594,7 @@
         "lat": 18.0,
         "lng": -110.6,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2604,7 +2604,7 @@
         "lat": 18.5,
         "lng": -111.0,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2614,7 +2614,7 @@
         "lat": 19.0,
         "lng": -111.4,
         "max_wind_kt": 85,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2624,7 +2624,7 @@
         "lat": 19.4,
         "lng": -111.8,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2634,7 +2634,7 @@
         "lat": 19.6,
         "lng": -112.1,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2644,7 +2644,7 @@
         "lat": 19.9,
         "lng": -112.5,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2654,7 +2654,7 @@
         "lat": 20.2,
         "lng": -113.1,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2664,7 +2664,7 @@
         "lat": 20.4,
         "lng": -113.7,
         "max_wind_kt": 115,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2674,7 +2674,7 @@
         "lat": 20.7,
         "lng": -114.4,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -2684,7 +2684,7 @@
         "lat": 20.9,
         "lng": -115.2,
         "max_wind_kt": 110,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -2694,7 +2694,7 @@
         "lat": 21.1,
         "lng": -116.1,
         "max_wind_kt": 105,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -2704,7 +2704,7 @@
         "lat": 21.3,
         "lng": -117.0,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -2714,7 +2714,7 @@
         "lat": 21.5,
         "lng": -118.0,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750905",
@@ -2724,7 +2724,7 @@
         "lat": 21.7,
         "lng": -119.0,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750905",
@@ -2734,7 +2734,7 @@
         "lat": 21.8,
         "lng": -120.0,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750905",
@@ -2744,7 +2744,7 @@
         "lat": 21.8,
         "lng": -121.1,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750905",
@@ -2754,7 +2754,7 @@
         "lat": 21.8,
         "lng": -122.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750906",
@@ -2764,7 +2764,7 @@
         "lat": 21.7,
         "lng": -123.5,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750906",
@@ -2774,7 +2774,7 @@
         "lat": 21.6,
         "lng": -124.9,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750906",
@@ -2784,7 +2784,7 @@
         "lat": 21.6,
         "lng": -126.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750906",
@@ -2794,7 +2794,7 @@
         "lat": 21.6,
         "lng": -127.6,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750907",
@@ -2804,13 +2804,13 @@
         "lat": 21.6,
         "lng": -128.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "CP011975_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Unnamed_Hurricane_%281975%29.PNG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2823,7 +2823,7 @@
         "lat": 31.0,
         "lng": -147.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2833,7 +2833,7 @@
         "lat": 30.7,
         "lng": -149.4,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2843,7 +2843,7 @@
         "lat": 30.4,
         "lng": -151.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750831",
@@ -2853,7 +2853,7 @@
         "lat": 30.4,
         "lng": -153.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2863,7 +2863,7 @@
         "lat": 30.6,
         "lng": -155.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2873,7 +2873,7 @@
         "lat": 30.7,
         "lng": -156.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2883,7 +2883,7 @@
         "lat": 31.0,
         "lng": -157.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750901",
@@ -2893,7 +2893,7 @@
         "lat": 31.5,
         "lng": -158.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2903,7 +2903,7 @@
         "lat": 32.0,
         "lng": -159.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2913,7 +2913,7 @@
         "lat": 32.5,
         "lng": -159.6,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2923,7 +2923,7 @@
         "lat": 33.4,
         "lng": -159.9,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750902",
@@ -2933,7 +2933,7 @@
         "lat": 34.3,
         "lng": -159.7,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2943,7 +2943,7 @@
         "lat": 35.0,
         "lng": -159.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2953,7 +2953,7 @@
         "lat": 36.7,
         "lng": -158.0,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2963,7 +2963,7 @@
         "lat": 38.2,
         "lng": -157.5,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750903",
@@ -2973,7 +2973,7 @@
         "lat": 40.0,
         "lng": -156.0,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -2993,7 +2993,7 @@
         "lat": 44.0,
         "lng": -151.0,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -3003,7 +3003,7 @@
         "lat": 47.0,
         "lng": -147.0,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750904",
@@ -3013,7 +3013,7 @@
         "lat": 50.0,
         "lng": -142.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750905",
@@ -3023,13 +3023,13 @@
         "lat": 54.0,
         "lng": -138.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP121975_Lily",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Lilysep1819752215UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3042,7 +3042,7 @@
         "lat": 16.3,
         "lng": -104.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750916",
@@ -3052,7 +3052,7 @@
         "lat": 16.4,
         "lng": -105.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750917",
@@ -3062,7 +3062,7 @@
         "lat": 16.5,
         "lng": -105.6,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750917",
@@ -3072,7 +3072,7 @@
         "lat": 16.6,
         "lng": -106.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750917",
@@ -3082,7 +3082,7 @@
         "lat": 16.6,
         "lng": -106.3,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750917",
@@ -3092,7 +3092,7 @@
         "lat": 16.7,
         "lng": -106.7,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750918",
@@ -3102,7 +3102,7 @@
         "lat": 17.0,
         "lng": -107.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750918",
@@ -3112,7 +3112,7 @@
         "lat": 17.4,
         "lng": -108.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750918",
@@ -3122,7 +3122,7 @@
         "lat": 17.8,
         "lng": -109.3,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750918",
@@ -3132,7 +3132,7 @@
         "lat": 18.2,
         "lng": -110.4,
         "max_wind_kt": 65,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750919",
@@ -3142,7 +3142,7 @@
         "lat": 18.6,
         "lng": -111.6,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750919",
@@ -3152,7 +3152,7 @@
         "lat": 18.9,
         "lng": -112.9,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750919",
@@ -3162,7 +3162,7 @@
         "lat": 19.2,
         "lng": -114.2,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750919",
@@ -3172,7 +3172,7 @@
         "lat": 19.6,
         "lng": -115.6,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750920",
@@ -3182,7 +3182,7 @@
         "lat": 20.0,
         "lng": -117.0,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750920",
@@ -3192,7 +3192,7 @@
         "lat": 20.5,
         "lng": -118.4,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750920",
@@ -3202,7 +3202,7 @@
         "lat": 21.0,
         "lng": -119.9,
         "max_wind_kt": 70,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750920",
@@ -3212,7 +3212,7 @@
         "lat": 21.5,
         "lng": -121.3,
         "max_wind_kt": 60,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750921",
@@ -3222,7 +3222,7 @@
         "lat": 21.9,
         "lng": -122.6,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750921",
@@ -3232,7 +3232,7 @@
         "lat": 22.4,
         "lng": -123.9,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750921",
@@ -3242,7 +3242,7 @@
         "lat": 23.0,
         "lng": -125.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750921",
@@ -3252,7 +3252,7 @@
         "lat": 22.9,
         "lng": -125.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750922",
@@ -3262,13 +3262,13 @@
         "lat": 22.1,
         "lng": -126.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP131975_Monica",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Monicasep2919751845UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3281,7 +3281,7 @@
         "lat": 11.5,
         "lng": -117.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750928",
@@ -3291,7 +3291,7 @@
         "lat": 11.6,
         "lng": -118.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3301,7 +3301,7 @@
         "lat": 11.7,
         "lng": -120.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3311,7 +3311,7 @@
         "lat": 11.8,
         "lng": -121.2,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3321,7 +3321,7 @@
         "lat": 12.0,
         "lng": -122.3,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3331,7 +3331,7 @@
         "lat": 12.1,
         "lng": -123.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3341,7 +3341,7 @@
         "lat": 12.3,
         "lng": -123.7,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3351,7 +3351,7 @@
         "lat": 12.4,
         "lng": -124.2,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3361,7 +3361,7 @@
         "lat": 12.6,
         "lng": -124.7,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3371,7 +3371,7 @@
         "lat": 12.9,
         "lng": -125.4,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3381,7 +3381,7 @@
         "lat": 13.3,
         "lng": -126.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3391,7 +3391,7 @@
         "lat": 13.6,
         "lng": -126.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3401,7 +3401,7 @@
         "lat": 14.0,
         "lng": -127.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3411,7 +3411,7 @@
         "lat": 14.4,
         "lng": -127.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751002",
@@ -3421,13 +3421,13 @@
         "lat": 15.0,
         "lng": -127.3,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP141975_Nanette",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Nanettesep2919751845UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3440,7 +3440,7 @@
         "lat": 12.8,
         "lng": -107.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750928",
@@ -3450,7 +3450,7 @@
         "lat": 12.8,
         "lng": -107.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3460,7 +3460,7 @@
         "lat": 12.8,
         "lng": -108.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3470,7 +3470,7 @@
         "lat": 12.6,
         "lng": -109.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3480,7 +3480,7 @@
         "lat": 12.5,
         "lng": -109.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750929",
@@ -3490,7 +3490,7 @@
         "lat": 12.5,
         "lng": -110.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3500,7 +3500,7 @@
         "lat": 12.5,
         "lng": -110.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3510,7 +3510,7 @@
         "lat": 12.5,
         "lng": -111.1,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3520,7 +3520,7 @@
         "lat": 12.6,
         "lng": -111.8,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19750930",
@@ -3530,7 +3530,7 @@
         "lat": 12.7,
         "lng": -112.4,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3540,7 +3540,7 @@
         "lat": 12.8,
         "lng": -113.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3550,7 +3550,7 @@
         "lat": 12.9,
         "lng": -114.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3560,7 +3560,7 @@
         "lat": 13.0,
         "lng": -115.4,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751001",
@@ -3570,7 +3570,7 @@
         "lat": 13.1,
         "lng": -116.5,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751002",
@@ -3580,7 +3580,7 @@
         "lat": 13.3,
         "lng": -117.5,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751002",
@@ -3590,7 +3590,7 @@
         "lat": 13.7,
         "lng": -118.8,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751002",
@@ -3600,7 +3600,7 @@
         "lat": 14.2,
         "lng": -120.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751002",
@@ -3610,7 +3610,7 @@
         "lat": 14.6,
         "lng": -121.2,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751003",
@@ -3620,7 +3620,7 @@
         "lat": 14.9,
         "lng": -121.9,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751003",
@@ -3630,7 +3630,7 @@
         "lat": 15.0,
         "lng": -122.5,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751003",
@@ -3640,7 +3640,7 @@
         "lat": 14.9,
         "lng": -123.2,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751003",
@@ -3650,7 +3650,7 @@
         "lat": 14.6,
         "lng": -124.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751004",
@@ -3660,15 +3660,15 @@
         "lat": 14.0,
         "lng": -125.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP151975_Olivia",
-    "image": "",
-    "fatalities": 0,
-    "cost_usd": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Oliviaoct2419752215UTC.gif",
+    "fatalities": 30,
+    "cost_usd": 20000000,
     "retired": false,
     "data": [
       {
@@ -3679,7 +3679,7 @@
         "lat": 13.7,
         "lng": -107.6,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751022",
@@ -3689,7 +3689,7 @@
         "lat": 14.2,
         "lng": -109.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751022",
@@ -3699,7 +3699,7 @@
         "lat": 14.7,
         "lng": -110.0,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751022",
@@ -3709,7 +3709,7 @@
         "lat": 15.1,
         "lng": -110.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751023",
@@ -3719,7 +3719,7 @@
         "lat": 15.6,
         "lng": -110.8,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751023",
@@ -3729,7 +3729,7 @@
         "lat": 16.0,
         "lng": -111.0,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751023",
@@ -3739,7 +3739,7 @@
         "lat": 16.5,
         "lng": -111.0,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751023",
@@ -3749,7 +3749,7 @@
         "lat": 16.9,
         "lng": -110.8,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751024",
@@ -3759,7 +3759,7 @@
         "lat": 17.6,
         "lng": -110.5,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751024",
@@ -3769,7 +3769,7 @@
         "lat": 18.7,
         "lng": -110.0,
         "max_wind_kt": 80,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751024",
@@ -3779,7 +3779,7 @@
         "lat": 20.0,
         "lng": -109.3,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751024",
@@ -3789,7 +3789,7 @@
         "lat": 21.2,
         "lng": -108.3,
         "max_wind_kt": 90,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751025",
@@ -3799,7 +3799,7 @@
         "lat": 22.2,
         "lng": -107.3,
         "max_wind_kt": 95,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751025",
@@ -3809,7 +3809,7 @@
         "lat": 23.0,
         "lng": -106.3,
         "max_wind_kt": 100,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751025",
@@ -3819,13 +3819,13 @@
         "lat": 23.6,
         "lng": -105.3,
         "max_wind_kt": 75,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP161975_Priscilla",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Priscillanov519751545UTC.gif",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3838,7 +3838,7 @@
         "lat": 11.5,
         "lng": -97.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751102",
@@ -3848,7 +3848,7 @@
         "lat": 11.5,
         "lng": -97.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751102",
@@ -3858,7 +3858,7 @@
         "lat": 11.5,
         "lng": -97.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751102",
@@ -3868,7 +3868,7 @@
         "lat": 11.9,
         "lng": -97.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751103",
@@ -3878,7 +3878,7 @@
         "lat": 12.2,
         "lng": -97.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751103",
@@ -3888,7 +3888,7 @@
         "lat": 12.3,
         "lng": -98.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751103",
@@ -3898,7 +3898,7 @@
         "lat": 12.5,
         "lng": -99.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751103",
@@ -3908,7 +3908,7 @@
         "lat": 12.7,
         "lng": -100.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751104",
@@ -3918,7 +3918,7 @@
         "lat": 12.9,
         "lng": -100.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751104",
@@ -3928,7 +3928,7 @@
         "lat": 13.1,
         "lng": -101.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751104",
@@ -3938,7 +3938,7 @@
         "lat": 13.4,
         "lng": -102.5,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751104",
@@ -3948,7 +3948,7 @@
         "lat": 13.9,
         "lng": -103.3,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751105",
@@ -3958,7 +3958,7 @@
         "lat": 14.5,
         "lng": -104.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751105",
@@ -3968,7 +3968,7 @@
         "lat": 15.0,
         "lng": -105.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751105",
@@ -3978,7 +3978,7 @@
         "lat": 15.4,
         "lng": -107.2,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751105",
@@ -3988,7 +3988,7 @@
         "lat": 15.5,
         "lng": -108.8,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751106",
@@ -3998,7 +3998,7 @@
         "lat": 15.6,
         "lng": -110.3,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751106",
@@ -4008,7 +4008,7 @@
         "lat": 16.0,
         "lng": -111.7,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751106",
@@ -4018,7 +4018,7 @@
         "lat": 16.3,
         "lng": -112.7,
         "max_wind_kt": 55,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751106",
@@ -4028,7 +4028,7 @@
         "lat": 16.6,
         "lng": -113.3,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751107",
@@ -4038,7 +4038,7 @@
         "lat": 17.0,
         "lng": -113.7,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751107",
@@ -4048,7 +4048,7 @@
         "lat": 17.3,
         "lng": -114.1,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19751107",
@@ -4058,7 +4058,7 @@
         "lat": 17.5,
         "lng": -114.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   }

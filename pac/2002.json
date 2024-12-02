@@ -488,7 +488,7 @@
     ]
   },
   {
-    "id": "EP032002_Three-E",
+    "id": "EP032002_Unnamed",
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6f/03E_2002-06-27_1925Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -1524,7 +1524,7 @@
     ]
   },
   {
-    "id": "EP072002_Seven-E",
+    "id": "EP072002_Unnamed",
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/07E_2002-08-06_1835Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2435,7 +2435,7 @@
         "lat": 9.8,
         "lng": -157.6,
         "max_wind_kt": 15,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "20020825",
@@ -2445,7 +2445,7 @@
         "lat": 9.9,
         "lng": -159.1,
         "max_wind_kt": 15,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "20020825",
@@ -2455,7 +2455,7 @@
         "lat": 10.1,
         "lng": -160.4,
         "max_wind_kt": 15,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "20020825",
@@ -2465,7 +2465,7 @@
         "lat": 10.3,
         "lng": -161.3,
         "max_wind_kt": 15,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "20020826",
@@ -2475,7 +2475,7 @@
         "lat": 10.4,
         "lng": -162.0,
         "max_wind_kt": 15,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "20020826",
@@ -3228,7 +3228,7 @@
     ]
   },
   {
-    "id": "EP112002_Eleven-E",
+    "id": "EP112002_Unnamed",
     "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/11E_2002-09-06_2055Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -4702,7 +4702,7 @@
     ]
   },
   {
-    "id": "EP162002_Sixteen-E",
+    "id": "EP162002_Unnamed",
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/16E_2002-11-14_2105Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,

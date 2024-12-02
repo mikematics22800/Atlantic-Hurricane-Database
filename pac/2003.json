@@ -1832,7 +1832,7 @@
     ]
   },
   {
-    "id": "CP012003_One-C",
+    "id": "CP012003_Unnamed",
     "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/One-C_2003-08-16_2320Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
@@ -2969,7 +2969,7 @@
   },
   {
     "id": "EP122003_Linda",
-    "image": "/wikipedia/commons/d/d9/Linda_2003-09-15_1850Z.jpg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Linda_2003-09-15_1850Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

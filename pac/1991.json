@@ -1,7 +1,7 @@
 [
   {
     "id": "EP011991_Andres",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Tropical_Storm_Andres_May_17_1991_2031Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -170,7 +170,7 @@
   },
   {
     "id": "EP021991_Blanca",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Tropical_Storm_Blanca_Jun_19_1991_2031Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -479,7 +479,7 @@
   },
   {
     "id": "EP031991_Carlos",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/CARLOS_jun_23_1991_2235Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -938,7 +938,7 @@
   },
   {
     "id": "EP041991_Delores",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Hurricane_Delores_Jun_25_1991_1731Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1207,7 +1207,7 @@
   },
   {
     "id": "EP051991_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Td-5_1991.JPG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1220,7 +1220,7 @@
         "lat": 12.7,
         "lng": -92.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910628",
@@ -1230,7 +1230,7 @@
         "lat": 13.3,
         "lng": -93.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910629",
@@ -1240,7 +1240,7 @@
         "lat": 13.9,
         "lng": -94.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910629",
@@ -1250,7 +1250,7 @@
         "lat": 14.6,
         "lng": -94.6,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910629",
@@ -1260,7 +1260,7 @@
         "lat": 15.4,
         "lng": -95.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910629",
@@ -1270,7 +1270,7 @@
         "lat": 16.1,
         "lng": -95.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910630",
@@ -1280,13 +1280,13 @@
         "lat": 16.3,
         "lng": -95.8,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP061991_Enrique",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Hurricane_enrique_1991.JPG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1555,7 +1555,7 @@
   },
   {
     "id": "EP071991_Fefa",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/70/Fefa_1991-08-01_2001Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2253,7 +2253,7 @@
   },
   {
     "id": "EP091991_Hilda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/Hilda_1991-08-11_0000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2522,7 +2522,7 @@
   },
   {
     "id": "EP101991_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Td_10-e_1991.JPG",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2535,7 +2535,7 @@
         "lat": 17.0,
         "lng": -106.7,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910912",
@@ -2545,7 +2545,7 @@
         "lat": 17.6,
         "lng": -107.1,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910913",
@@ -2555,7 +2555,7 @@
         "lat": 18.2,
         "lng": -107.2,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910913",
@@ -2565,7 +2565,7 @@
         "lat": 18.8,
         "lng": -107.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910913",
@@ -2575,7 +2575,7 @@
         "lat": 19.3,
         "lng": -107.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910913",
@@ -2585,7 +2585,7 @@
         "lat": 19.8,
         "lng": -107.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19910914",
@@ -2595,14 +2595,14 @@
         "lat": 20.3,
         "lng": -106.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP111991_Ignacio",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Ignacio_1991-09-16_2230Z.png",
+    "fatalities": 23,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -2740,7 +2740,7 @@
   },
   {
     "id": "EP121991_Jimena",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/25/Hurricane_Jimena_Sep_24_1991_1731Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3209,7 +3209,7 @@
   },
   {
     "id": "EP131991_Kevin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hurricane_Kevin_Sep_30_1991_2101Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -3918,7 +3918,7 @@
   },
   {
     "id": "EP141991_Linda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Hurricane_Linda_Oct_5_1991_1731Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4347,7 +4347,7 @@
   },
   {
     "id": "EP151991_Marty",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hurricane_Marty_Oct_11_1991_1731Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -4806,7 +4806,7 @@
   },
   {
     "id": "EP161991_Nora",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Hurricane_Marty_Oct_11_1991_1731Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,

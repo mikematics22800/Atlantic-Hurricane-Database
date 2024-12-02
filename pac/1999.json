@@ -1,8 +1,8 @@
 [
   {
     "id": "EP011999_Adrian",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Hurricane_Adrian_Jun_20_1999_1745Z.jpg",
+    "fatalities": 5,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -200,7 +200,7 @@
   },
   {
     "id": "EP021999_Beatriz",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/0/03/Hurricane_Beatriz_Jul_12_1999_2000Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -529,7 +529,7 @@
   },
   {
     "id": "EP031999_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Tropical_Depression_Three-E_Jul_14_1999_2030Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -542,7 +542,7 @@
         "lat": 16.8,
         "lng": -107.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990714",
@@ -552,7 +552,7 @@
         "lat": 17.3,
         "lng": -109.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990714",
@@ -562,7 +562,7 @@
         "lat": 17.7,
         "lng": -110.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990715",
@@ -572,7 +572,7 @@
         "lat": 18.0,
         "lng": -111.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990715",
@@ -582,7 +582,7 @@
         "lat": 17.9,
         "lng": -113.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990715",
@@ -592,7 +592,7 @@
         "lat": 17.7,
         "lng": -114.1,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990715",
@@ -602,13 +602,13 @@
         "lat": 17.5,
         "lng": -115.1,
         "max_wind_kt": 20,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP041999_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Tropical_Depression_Four-E_Jul_23_1999_1830Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -621,7 +621,7 @@
         "lat": 13.5,
         "lng": -130.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990723",
@@ -631,7 +631,7 @@
         "lat": 13.7,
         "lng": -132.1,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990723",
@@ -641,7 +641,7 @@
         "lat": 13.8,
         "lng": -133.4,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990723",
@@ -651,7 +651,7 @@
         "lat": 13.8,
         "lng": -134.8,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990724",
@@ -661,7 +661,7 @@
         "lat": 13.9,
         "lng": -136.2,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990724",
@@ -671,7 +671,7 @@
         "lat": 14.0,
         "lng": -137.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990724",
@@ -681,7 +681,7 @@
         "lat": 14.1,
         "lng": -139.6,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990724",
@@ -691,7 +691,7 @@
         "lat": 14.2,
         "lng": -141.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990725",
@@ -701,13 +701,13 @@
         "lat": 14.4,
         "lng": -143.7,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP051999_Calvin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Tropical_Storm_Calvin_Jul_25_1999_1730Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -806,7 +806,7 @@
   },
   {
     "id": "EP061999_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/06E_1999-07-26_1930Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -819,7 +819,7 @@
         "lat": 13.8,
         "lng": -127.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990727",
@@ -829,7 +829,7 @@
         "lat": 14.3,
         "lng": -127.7,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990727",
@@ -839,7 +839,7 @@
         "lat": 14.7,
         "lng": -128.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990727",
@@ -849,7 +849,7 @@
         "lat": 15.0,
         "lng": -129.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990727",
@@ -859,7 +859,7 @@
         "lat": 15.3,
         "lng": -129.7,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990728",
@@ -869,13 +869,13 @@
         "lat": 15.6,
         "lng": -130.5,
         "max_wind_kt": 20,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP071999_Dora",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hurricane_Dora_Aug_12_1999_2030Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -1458,7 +1458,7 @@
         "lat": 18.4,
         "lng": -178.3,
         "max_wind_kt": 50,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990820",
@@ -1468,7 +1468,7 @@
         "lat": 19.0,
         "lng": -177.5,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990820",
@@ -1478,7 +1478,7 @@
         "lat": 19.6,
         "lng": -176.6,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990821",
@@ -1488,7 +1488,7 @@
         "lat": 20.4,
         "lng": -175.4,
         "max_wind_kt": 45,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990821",
@@ -1498,7 +1498,7 @@
         "lat": 20.9,
         "lng": -174.4,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990821",
@@ -1508,7 +1508,7 @@
         "lat": 21.3,
         "lng": -173.4,
         "max_wind_kt": 40,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990821",
@@ -1518,7 +1518,7 @@
         "lat": 21.8,
         "lng": -171.8,
         "max_wind_kt": 35,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990822",
@@ -1528,7 +1528,7 @@
         "lat": 22.5,
         "lng": -170.8,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990822",
@@ -1538,7 +1538,7 @@
         "lat": 23.5,
         "lng": -169.9,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990822",
@@ -1548,7 +1548,7 @@
         "lat": 24.1,
         "lng": -169.2,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990822",
@@ -1558,7 +1558,7 @@
         "lat": 24.7,
         "lng": -168.3,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990823",
@@ -1568,7 +1568,7 @@
         "lat": 25.7,
         "lng": -167.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990823",
@@ -1578,7 +1578,7 @@
         "lat": 26.6,
         "lng": -167.6,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990823",
@@ -1588,7 +1588,7 @@
         "lat": 27.5,
         "lng": -167.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990823",
@@ -1598,13 +1598,13 @@
         "lat": 28.3,
         "lng": -167.6,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP081999_Eugene",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Hurricane_Eugene_Aug_9_1999_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2003,7 +2003,7 @@
   },
   {
     "id": "EP091999_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Tropical_Depression_Nine-E_Aug_13_1999_1830Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2016,7 +2016,7 @@
         "lat": 13.7,
         "lng": -115.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990813",
@@ -2026,7 +2026,7 @@
         "lat": 14.2,
         "lng": -117.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990814",
@@ -2036,7 +2036,7 @@
         "lat": 14.7,
         "lng": -118.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990814",
@@ -2046,7 +2046,7 @@
         "lat": 14.8,
         "lng": -118.5,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990814",
@@ -2056,7 +2056,7 @@
         "lat": 14.9,
         "lng": -119.0,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990814",
@@ -2066,7 +2066,7 @@
         "lat": 15.2,
         "lng": -119.5,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990815",
@@ -2076,7 +2076,7 @@
         "lat": 15.5,
         "lng": -120.0,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990815",
@@ -2086,13 +2086,13 @@
         "lat": 15.6,
         "lng": -120.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP101999_Fernanda",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Fernanda_1999-08-19_2000Z.png",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2331,7 +2331,7 @@
   },
   {
     "id": "EP111999_Unnamed",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f6/11E_1999-08-23_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2344,7 +2344,7 @@
         "lat": 22.0,
         "lng": -111.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990824",
@@ -2354,7 +2354,7 @@
         "lat": 22.7,
         "lng": -112.3,
         "max_wind_kt": 30,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990824",
@@ -2364,7 +2364,7 @@
         "lat": 23.1,
         "lng": -112.8,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       },
       {
         "date": "19990824",
@@ -2374,14 +2374,14 @@
         "lat": 22.6,
         "lng": -112.9,
         "max_wind_kt": 25,
-        "min_pressure_mb": -999
+        "min_pressure_mb": null
       }
     ]
   },
   {
     "id": "EP121999_Greg",
-    "image": "",
-    "fatalities": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Greg_1999-09-06_1900Z.png",
+    "fatalities": 10,
     "cost_usd": 0,
     "retired": false,
     "data": [
@@ -2579,7 +2579,7 @@
   },
   {
     "id": "EP131999_Hilary",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Hurricane_Hilary_Sep_19_1999_2015Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
@@ -2778,7 +2778,7 @@
   },
   {
     "id": "EP141999_Irwin",
-    "image": "",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Irwin_1999-10-09_1800Z.jpg",
     "fatalities": 0,
     "cost_usd": 0,
     "retired": false,
